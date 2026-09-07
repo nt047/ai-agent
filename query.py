@@ -2,7 +2,7 @@ import os
 import requests
 import re
 
-HF_API_URL = "https://api-inference.huggingface.co/models/mistralai/Mistral-7B-Instruct-v0.2"
+HF_API_URL = "https://router.huggingface.co/hf-inference/models/distilgpt2"
 HF_TOKEN = os.environ.get("HF_TOKEN")
 
 def retrieve_relevant_chunks(query, top_k=3):
