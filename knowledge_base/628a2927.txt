@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html
+
+s regardless of provider. The other four categories are where things diverge: Exposed services: AWS (76%) , Azure (64%) , Google Cloud (8%) Permissive firewalls: AWS (83%) , Azure (45%) , Google Cloud (34%) Weak encryption: AWS (49%) , Azure (35%) , Google Cloud (8%) Misconfigured services: AWS (68%) , Azure (80%) , Google Cloud (37%) The biggest gap is exposed services, at 76% on AWS versus 8% on Google Cloud. Permissive firewalls and weak encryption follow t

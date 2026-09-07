@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/
+
+ChatGPT can now connect to your personal apps to mimic writing style
+OpenAI appears to be testing a new "Writing Style" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]
+Just a moment... Enable JavaScript and cookies to continue

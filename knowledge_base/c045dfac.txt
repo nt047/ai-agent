@@ -1,0 +1,3 @@
+المصدر: https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/
+
+ker phishes their way into a low-privilege foothold, then uses the driver flaw to take the box. The 7.0 score reflects the high attack complexity, because race conditions are fiddly. The exploit has to be thrown over and over until the timing lands. Someone is clearly landing it anyway.” CVE-2026-62832

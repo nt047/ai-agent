@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/
+
+Magento StyleSmuggler zero-day exploited to deploy Linux backdoor
+A zero-day vulnerability dubbed "StyleSmuggler" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]
+Just a moment... Enable JavaScript and cookies to continue

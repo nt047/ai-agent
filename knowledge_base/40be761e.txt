@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html
+
+as released hotfixes to address two severe N-central flaws (CVE-2026-86206 and CVE-2026-86207) that could allow an unauthorized party to bypass authentication controls and gain full access to the platform. Also patched is a maximum-severity security flaw (CVE-2026-86218, CVSS score: 10.0) that could allow for pre-authenticated remote code execution on the N-central server. "At this time, we have no confirmation that these vulnerabilities have been exploited in production e

@@ -1,0 +1,5 @@
+المصدر: https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/
+
+Canadian Man Pleads Guilty in Snowflake Extortions
+A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.
+Canadian Man Pleads Guilty in Snowflake Extortions – Krebs on Security Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Canadian Man Pleads Guilty in Snowflake Extortions August 6, 2026 27 Comments A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud provider Snowflake . Connor Riley Moucka , of Kitchener, Ontario, also admitted 

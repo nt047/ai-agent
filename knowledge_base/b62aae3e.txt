@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html
+
+l is broken,” Alon Hertz, one of the researchers, wrote in an interview. “Agents treat vendor docs as ground truth and don’t question them­and neither do the humans supervising them. Agentic AI usage is exploding, and agents are spreading across every layer­SaaS, cloud, endpoint. As they multiply, so does the supply-chain surface, and today’s guards don’t cover it.” Tags: AI , exploits , trust Posted on September

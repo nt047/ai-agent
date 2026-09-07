@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html
+
+Your Cloud Security Checklist Doesn't Work the Way You Think It Does
+If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almost nothing in common. Here’s what the data looks like.
+
+How risk differs across cloud providers
+Your Cloud Security Checklist Doesn't Work the Way You Think It Does --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback! Follow Us 

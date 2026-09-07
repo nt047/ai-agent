@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html
+
+PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution
+Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.
+
+"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences
+PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or l
