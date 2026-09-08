@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html
+
+dentity Management product , where the package is called ipa . FreeIPA ships an access control rule, called an ACI, that lets a user manage their own one-time-password token. The rule does not require the client to have logged in, nor does it limit what else may be written alongside the token. That only becomes dangerous because of the second flaw. 389 Directory Server has a rule type meant to say "only the authenticated owner of this entry." It compares the client's name agai

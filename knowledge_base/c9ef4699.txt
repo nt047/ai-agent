@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/
+
+Hackers build AI frameworks for widescale credential theft
+Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html
+
+Stealing AI Reasoning Traces
+<p>Interesting research: &#8220;<a href="https://arxiv.org/abs/2608.09867">Stealing Reasoning Traces from Proprietary LLM APIs</a>&#8220;:</p>
+<blockquote><p><b>Abstract:</b> Leading large language model providers now conceal their models&#8217; step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different sessions, users, and models within a provider&#8217;s ecosystem. We exploit this compatibility to develop a scalable decryption jailbreak. By injecting an encrypted reasoning trace from a given model into a weaker, and less safeguarded model from the same provider, we force it to decode and o

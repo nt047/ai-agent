@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html
+
+izes its extensive SEO and web development capabilities to create and promote lure pages with multiple Black Hat SEO techniques," the DFIR Report said in a technical analysis published late last month. "These lure pages then tie into a sophisticated traffic distribution system to direct, track, and filter traffic to payloads and tech support scams." One of the payloads is a custom malware dubbed MayaBot, which is responsible for enabling command-and-control (C2), system mo

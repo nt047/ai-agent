@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html
+
+Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell
+Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild.
+
+The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026.
+
+"This update resolves a critical
+Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a c

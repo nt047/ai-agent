@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/
+
+Microsoft: Windows Server 2025 changes causing app crashes
+Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html
+
+FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials
+A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.
+
+FreeIPA is the system that determines who may log in across a Linux domain and maintains all identities in a 389 Directory Server database accessed via LDAP. The attack needs a second flaw in that database software.
+
+The
+FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leav

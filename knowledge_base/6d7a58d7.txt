@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html
+
+process, even in cases where the model’s final, visible output safely rejects a malicious request. Fourth, attackers can leverage this flaw to execute invisible pro
