@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html
+
+ng and the exploit still works. Declining the call ends that attempt, but the attacker can call again later, for example while the target is asleep. The caller has to be on the target's WeChat contact list. Calif said that is not much of a barrier, because once a contact is taken over, the extra trust WeChat gives to contacts works for the attacker rather than the user. That handover is the part the demo shows. One Android phone called an iPhone and took over its WeChat while

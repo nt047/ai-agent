@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wanx0x/two_critical_remote_bugs_found_in_arangodb/
+
+Two critical remote bugs found in ArangoDB
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/HyprWave"> /u/HyprWave </a> <br /> <span><a href="https://remedio.io/blog/trust-me-im-the-system-arango-db-bugs-secure-system-architecture/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wanx0x/two_critical_remote_bugs_found_in_arangodb/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can sometimes result in a block. You can read Reddit's Terms of Service here . If you think that we've incorrectly blocked you or you would li

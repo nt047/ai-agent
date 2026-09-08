@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/
+
+Adobe fixes critical Magento zero-day exploited to backdoor servers
+Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]
+Just a moment... Enable JavaScript and cookies to continue

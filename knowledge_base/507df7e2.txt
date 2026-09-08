@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html
+
+heck Point named three ways to get it there: a prompt the user pastes in, a shared ChatGPT conversation the user opens, or a custom GPT that holds it in its builder instructions, which are not shown to the user. After that, one ordinary message was enough to start it. Check Point wrote the instruction so that ChatGPT, in Thinking mode, ran two streams of work in the same turn. ChatGPT answered the user. At the same time, it checked a hidden mailbox for a task from the

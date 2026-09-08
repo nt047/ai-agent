@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/
+
+SAP warns of maximum severity 'OVERPASS' kernel vulnerability
+SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]
+Just a moment... Enable JavaScript and cookies to continue

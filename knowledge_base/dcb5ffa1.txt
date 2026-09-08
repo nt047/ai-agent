@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html
+
+ripts that query the cloud instance metadata to steal temporary cloud credentials over socket connections. Upon establishing access to the organization's cloud environment, the threat actor enumerated all available secrets stored in the cloud credential manager and used the " sed " command to clone and modify secret-extracting scripts. The approach specifically focuses on credentials tied to digital financial assets. "Following exfiltration of digital asset custody s

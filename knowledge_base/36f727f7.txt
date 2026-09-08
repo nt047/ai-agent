@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/
+
+OpenAI says ChatGPT outage causes image generation errors
+OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]
+Just a moment... Enable JavaScript and cookies to continue
