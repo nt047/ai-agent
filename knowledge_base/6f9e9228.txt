@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/
+
+The EU CRA's Real Question: What Shipped, and When Did You Know?
+The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements. [...]
+Just a moment... Enable JavaScript and cookies to continue
