@@ -1,0 +1,5 @@
+المصدر: https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/
+
+Microsoft Plugs Nearly 400 Security Holes
+Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.
+Microsoft Plugs Nearly 400 Security Holes – Krebs on Security Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Microsoft Plugs Nearly 400 Security Holes August 11, 2026 30 Comments Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. Image: Shutterstock, Mallika Home Studio. August’s overstuffed bundle of patch joy from Microsoft did not eclipse its recording breaking release of more than 570 security updates last month , but it is double June’s t

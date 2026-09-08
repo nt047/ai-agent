@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html
+
+AIs as Modern Genies
+<p><em>This essay was written with Barath Raghavan, and originally appeared in <a href="https://www.lawfaremedia.org/article/ais-as-modern-genies">Lawfare</a>.</em></p>
+<p>In April, an artificial intelligence (AI) agent <a href="https://www.theregister.com/software/2026/04/27/cursor-opus-agent-snuffs-out-startups-production-database/5224442">conducting</a> a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its backups. In July, OpenAI asked an unreleased AI model to attempt a hacking test. Instead of staying in the isolated box the developers had put it in, the model <a href="https://thezvi.substack.com/p/what-happened-openai-and-huggingface">hacked</a> onto the open internet and into another company to steal the answers. And as reported in August, an AI agent booked someone into a full gym class by ...</p>
+AIs as Modern Genies - Schneier on Security Schneier on Security Menu Blog Newslette

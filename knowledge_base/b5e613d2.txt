@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/
+
+Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days
+Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]
+Just a moment... Enable JavaScript and cookies to continue
