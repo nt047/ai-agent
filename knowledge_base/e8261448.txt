@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html
+
+y, active-tab metadata, and session cookies. It also functions as a remote access and browser monitoring toolkit that runs host commands, steals credentials, hijacks sessions, and alters web pages. PEEP is built on the foundations of RedExt , an open-source, browser data analysis and red teaming framework that has also been put to use in prior GlassWorm attacks. However, it expands on the toolkit with dedicated installation routines, a native host bridge, heartbeat telemetry, an

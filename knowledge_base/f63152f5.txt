@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wae5zc/hacking_ai_customer_service_agents_bug_bounty/
+
+Hacking AI customer service agents (Bug Bounty Village DEF CON 34)
+<!-- SC_OFF --><div class="md"><p>At Bug Bounty Village during DEF CON 34, Inti De Ceukelaire delivered a talk on how attackers can abuse today's AI agents in ways most defenders haven't thought about yet, from tricking agents into spilling secrets to forcing them to carry out unauthorized actions on behalf of the victim. </p> <p>This resulted in over $50,000+ in bounties in just a few weekends, without actually poking the target with Burp Suite or any automated scanners.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/qwerty0x41"> /u/qwerty0x41 </a> <br /> <span><a href="https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wae5zc/hacking_ai_customer_service_agents_bug_bounty/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due t
