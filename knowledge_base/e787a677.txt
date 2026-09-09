@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html
+
+ account via cPanel, while the provider manages the entire machine via WHM as the root user. Attackers exploited a different cPanel flaw in April . Taking over the panel is not the same as breaking into one customer's website, the security company Hadrian said at the time, because WHM gives an attacker root administrative access to the server. An attacker with that access can read every hosting account on the machine, change files and databases, create hidden accounts,

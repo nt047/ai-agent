@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html
+
+F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans
+Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an&nbsp;analysis published on September 7.
+
+When Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy held in memory, so a check of the file on disk can come back clean. Those three scripts are
+F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/fee

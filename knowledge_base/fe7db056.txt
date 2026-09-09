@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/
+
+Google warns of new Chrome zero-day bug exploited in attacks
+Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]
+Just a moment... Enable JavaScript and cookies to continue

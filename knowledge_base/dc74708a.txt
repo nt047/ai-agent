@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html
+
+t, the web shell "does not need to exist in its final form on disk." The three scripts are apm_css.php3, full_wt.php3 and webtop_popup_css.php3, part of the BIG-IP APM webtop. F5 named all three in March in a published list of indicators of compromise for the malware it tracks as c05d5254, and said at the time that their presence alone does not point to a security problem. F5 also said it had seen cases where a web shell was written to disk, but that the web shells "h

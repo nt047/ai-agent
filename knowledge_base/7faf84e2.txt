@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/
+
+New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access
+An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named "ShieldCrash" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]
+Just a moment... Enable JavaScript and cookies to continue

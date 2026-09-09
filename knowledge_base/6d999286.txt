@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html
+
+upported versions of the desktop operating system are said to be impacted. The development comes days after Redmond shipped an update to the Microsoft Malware Protection Engine to plug CVE-2026-69414. The issue has been patched in Malware Protection Engine version 1.1.26080.3. It does not require any customer action and does not affect systems that have disabled Microsoft Defender. "In response to a constantly changing threat landscape, Microsoft frequently updates malware d

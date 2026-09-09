@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html
+
+for responsible disclosure. Google acknowledged it is "aware that an exploit for CVE-2026-87491 exists in the wild," but has not disclosed any additional specific information related to how it's being weaponized in real-world attacks and who is behind them. "Access to bug details and links may be kept restricted until a majority of users are updated with a fix," the tech giant added. "We will also retain restrictions if the bug exists in a third party library tha

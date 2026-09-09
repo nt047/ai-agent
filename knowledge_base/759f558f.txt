@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html
+
+ess data and processes. CVE-2026-44756 stems from a missing boundary validation during the deserialization of EPP data, leading to a memory safety violation when processing externally supplied length fields. An unauthenticated attacker can exploit this loophole to send crafted network requests containing a malformed EPP header and trigger unintended behavior and abnormal program termination. "OVERPASS is a flaw in the SAP kernel code that processes this structure. A speciall
