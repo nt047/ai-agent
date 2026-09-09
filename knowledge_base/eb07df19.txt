@@ -1,0 +1,3 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wanx0x/two_critical_remote_bugs_found_in_arangodb/
+
+ke to discuss easier ways to get the data you want, please file a ticket here . When contacting us, please include your Reddit account along with the following code: 01a084a9-1b7b-7491-bfdf-cdd80ccd9cd6
