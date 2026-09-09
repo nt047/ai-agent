@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/
+
+Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking
+The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]
+Just a moment... Enable JavaScript and cookies to continue

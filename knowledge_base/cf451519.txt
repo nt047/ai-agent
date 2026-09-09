@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-15630
+Malicious code in mfafix (npm)

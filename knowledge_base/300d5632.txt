@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html
+
+ using the exploit kit." The exploit chain employs three vulnerabilities - CVE-2026-85046 , a type confusion in V8 in Google Chrome A V8 sandbox escape that does not have an assigned CVE identifier CVE-2026-85880 , a heap-based buffer overflow vulnerability in Windows Advanced Local Procedure Call (ALPC) While CVE-2026-85046 was patched by Google last week, CVE-2026-85880 was addressed by Microsoft as part of its September 2026 Patch Tuesday updates. Interestingl

@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html
+
+previously pointed out there is always an exploitable gap between tangible physical objects and intangible information objects that always exists at the sensor. But also children and adolescents are the ones smart enough to hack most systems anyway (as cyber-crime statistics show). Thus we should “rethink” the continuous push for, “Requirements for access to primar

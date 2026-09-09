@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-16100
+Malicious code in discord-mfa-solver (npm)

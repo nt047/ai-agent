@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-16102
+Malicious code in mfatest2 (npm)
