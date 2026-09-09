@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/
+
+Veradigm warns of patient data breach after ransomware gang claims attack
+Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]
+Just a moment... Enable JavaScript and cookies to continue

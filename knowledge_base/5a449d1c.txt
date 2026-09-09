@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/
+
+US says Chinese firms extracted billions of tokens from frontier AI models
+U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]
+Just a moment... Enable JavaScript and cookies to continue

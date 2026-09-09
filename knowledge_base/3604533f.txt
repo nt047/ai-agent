@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wbma3a/how_piracy_sites_disguise_video_as_fonts_to_abuse/
+
+How Piracy Sites Disguise Video as Fonts to Abuse Cloudflare Caching
+<!-- SC_OFF --><div class="md"><p>I investigated how pirate streaming sites rename MPEG-TS video segments to .woff2 so Cloudflare's default caching picks them up, video gets no cache love, fonts do. The write-up covers how the trick works, what I verified, and why it's hard to stop. Questions welcome.</p> <p><a href="https://www.reddit.com/submit/?source_id=t3_1wbm66j&amp;composer_entry=crosspost_prompt"></a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ab032tx"> /u/ab032tx </a> <br /> <span><a href="https://saimanish.com/blog/cloudflare-woff2-cache-abuse/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wbma3a/how_piracy_sites_disguise_video_as_fonts_to_abuse/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're r

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html
+
+ in a report shared with The Hacker News. "Once successfully replayed, a threat actor is effectively logged in to an LLM service without actually logging in. Use of these skeleton keys makes abuse more challenging but not impossible to detect." The identity services provider said it analyzed a 7 GB infostealer dump released on a Telegram channel on August 2, 2026, and found that the stealer log contained data belonging to 5,871 infected machines across 162 c
