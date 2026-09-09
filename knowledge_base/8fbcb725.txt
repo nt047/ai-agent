@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/
+
+Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks
+Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]
+Just a moment... Enable JavaScript and cookies to continue
