@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:61625
+Moderate: gzip security update

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:61376
+Important: nodejs22 security update

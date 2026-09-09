@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:63119
+Important: grafana-pcp security update

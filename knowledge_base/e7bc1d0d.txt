@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:62142
+Moderate: wget security, bug fix, and enhancement update

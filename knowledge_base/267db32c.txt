@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:63022
+Important: grafana security update

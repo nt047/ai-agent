@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:62631
+Important: golang-github-openprinting-ipp-usb security update

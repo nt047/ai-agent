@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:62614
+Important: php security, bug fix, and enhancement update

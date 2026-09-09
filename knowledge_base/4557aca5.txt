@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:62578
+Important: go-fdo-server security update

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:61378
+Important: freerdp security update

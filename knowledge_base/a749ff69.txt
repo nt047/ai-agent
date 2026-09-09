@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:60394
+Moderate: libxml2 security update

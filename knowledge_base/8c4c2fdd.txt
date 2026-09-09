@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:61377
+Important: nodejs24 security, bug fix, and enhancement update
