@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html
+
+mas Kinsella and Senior Security Operations Engineer Andrew Katz will show how their security team brings multiple sources of exposure data into one interactive view. The session covers how teams can connect: SBOM data to vulnerable packages endpoint data to installed applications and versions cloud inventory to affected resources vulnerability data to the systems where it actually matters The objective is simple: move faster from "new CVE" to "this affects us" or 

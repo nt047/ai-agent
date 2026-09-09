@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html
+
+ published the record on September 8 and rated the flaw 9.4 out of 10. OX Research , the security firm that reported the flaw, said one shell command was enough. The command invoked the tool's local interface and set the agent's session to a mode called danger-full-access, which turns off the sandbox and stops approval prompts. Ordinary commands did not need approval to begin with. Approval was applied only when a command requested broader access than the session already had,

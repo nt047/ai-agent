@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wbi40d/fortinet_privileged_access_agent_any_site_could/
+
+Fortinet Privileged Access Agent: Any Site Could Control Your Proxy and Watch Your Tab
+<!-- SC_OFF --><div class="md"><p><strong>TL;DR.</strong> The FortiPAM Chrome extension (1M+ users), used for Privileged Access Management, allowed any site to set the browser's proxy for the session, alongside allowing any site to create a new tab and send screen recordings of it to an attacker's server. That makes for trivial phishing attacks which only require the user to view something sensitive in the attacker-opened tab. CVSS 9.1 | <a href="https://www.cve.org/CVERecord?id=CVE-2026-84388">CVE-2026-84388</a>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/acorn222"> /u/acorn222 </a> <br /> <span><a href="https://amibeingpwned.com/blog/fortinet-pam-vuln">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wbi40d/fortinet_privileged_access_agent_any_site_could/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has 

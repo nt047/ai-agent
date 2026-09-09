@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html
+
+trial scale that extract restricted proprietary functionalities and capabilities of U.S. frontier AI models," the authoring agencies said . The joint advisory noted that Chinese AI firms like DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, and Z.AI have extracted billions of tokens across millions of exchanges/requests from U.S. frontier AI models, including variants of Anthropic Claude, OpenAI GPT, Google Gemini, and SpaceXAI Grok, since at least late 2024, likely with th

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/
+
+MFA's Weakest Link: Account Recovery Is the New Attack Path
+MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks from turning account recovery into account takeover. [...]
+Just a moment... Enable JavaScript and cookies to continue
