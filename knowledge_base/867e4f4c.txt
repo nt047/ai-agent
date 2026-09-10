@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html
+
+91 of those 294, no key was set at all, so they would have accepted anything. The rest had the setup guide's value left in place. A second scan in August found more than 85,000 instances, but Wiz says most of them appear to be honeypots or test systems, so the two counts cannot be compared. There is no current figure. As of September 9, LiteLLM's setup guide still uses sk-1234, above a comment telling operators to replace it with a long random value before any real use. Why

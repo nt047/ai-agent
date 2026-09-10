@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html
+
+y in Citrix NetScaler ADC and NetScaler Gateway when the appliance is configured as an AAA virtual server or as a Gateway (SSL VPN, ICA Proxy, CVPN, or RDP Proxy). CVE-2025-25249 (CVSS score: 7.3) - A heap-based buffer overflow vulnerability in Fortinet FortiOS, FortiSwitchManager, and FortiSASE that could allow a remote unauthenticated attacker to execute arbitrary code or commands via specifically crafted requests. The development comes as Cisco updated its advisory for CVE-2026-

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html
+
+out its knowledge. The American firm said it expanded its scan to roughly 481 million transcripts following the discovery of the latest incident, but noted it did not find "other cases of similar or worse severity." "All four incidents occurred during cybersecurity evaluations built by the same evaluation partner," Anthropic added. "Claude was told it was operating in a simulation without internet access, but, due to a misconfiguration, it was mistakenly conn
