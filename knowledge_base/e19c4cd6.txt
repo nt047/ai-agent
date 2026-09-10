@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/
+
+New Android malware encrypts files, steals data, and harasses victims
+A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]
+Just a moment... Enable JavaScript and cookies to continue
