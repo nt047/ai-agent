@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/
+
+New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws
+Multiple cyber-espionage groups deployed an exploit kit dubbed "BlueMoon" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]
+Just a moment... Enable JavaScript and cookies to continue

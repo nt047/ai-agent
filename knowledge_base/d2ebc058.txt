@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/
+
+Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers
+Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/
+
+AI-powered attack exploited PaperCut flaws to hack 395 organizations
+A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]
+Just a moment... Enable JavaScript and cookies to continue
