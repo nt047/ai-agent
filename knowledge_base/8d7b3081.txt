@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html
+
+he use of multi-agent frameworks executing reconnaissance, exploitation, and data exfiltration." Among the notable cases highlighted by Anthropic is the development of an AI-assisted workflow by a Russian state-sponsored threat actor it calls GTG-20006 , which shares tactical and tradecraft overlaps with a Russian advanced persistent threat (APT) group tracked as Midnight Blizzard (aka APT29 and Cozy Bear). Some of the other AI-enabled cyber campaigns highlighted by A

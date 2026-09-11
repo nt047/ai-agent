@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/
+
+Artifactory flaws chained in attacks deploying backdoor malware
+Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html
+
+Driver’s License Data for Sale
+<p>A database of 153 million drivers licenses is <a href="https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/">for sale</a> on the dark web. Brian Krebs has more <a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/">detail</a>.</p>
+Driver's License Data for Sale - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog Driver’s License Data for Sale A database of 153 million drivers licenses is for sale on the dark web. Brian Krebs has more detail . Tags: cars , dark web , data breaches , databases Posted on September 9, 2026 at 12:05 PM • 11 Comments Comments Clive Robinson • September 9, 2026 2:12 PM @ Bruce, ALL, “A database of 153 million drivers licenses is for sale on the dark web.” Whilst this is not new, it’s previously requir

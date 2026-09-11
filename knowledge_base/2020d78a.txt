@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html
+
+g with diplomatic and defense organizations and individuals connected to U.S. foreign policy. The toolkit includes a number of programs - Two Windows-based implants A mobile exploitation kit A credential stealing tool that targets browser password stores A phishing platform designed to mimic priority targets like government organizations, and An administrative console used to manage compromised accounts "The actor also used AI to monitor how well their tools evaded detecti
