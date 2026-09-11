@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html
+
+ty scores tell you what vulnerabilities could mean in isolation. Autonomous penetration testing tells you what an attacker can actually do with the vulnerabilities. The security industry has been moving toward continuous validation because point-in-time assessments and periodic vulnerability scanning can't fully account for complex environments that change every day. The missing piece to continuous security testing has been an execution model capable of 

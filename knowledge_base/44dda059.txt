@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html
+
+ Unix device driver naming. Untill not so long ago I still had one but “somebody made me an offer” so they could complete a working historical set piece for a museum display. The scary thing was I also provided bo

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/
+
+GitLab urges users to patch max severity path traversal flaw
+GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]
+Just a moment... Enable JavaScript and cookies to continue
