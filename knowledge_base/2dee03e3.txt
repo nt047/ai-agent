@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html
+
+ed to do. Every case Wiz saw followed a similar pattern. The attacker sent an unauthenticated request to a token endpoint and received a token for the internal anonymous user, then exchanged it at Artifactory's token-creation endpoint for a token with administrator scope. That second token keeps the anonymous username. Administrator actions taken with it show up in the logs as token:anonymous rather than under a named account. In some cases, the attacker went from the f

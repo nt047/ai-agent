@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html
+
+Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware
+Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.
+
+The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface of FMC software that could allow an unauthenticated, remote attacker to bypass
+Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feed

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html
+
+utheast Asia. The backdoor it installed is GRAYRABBIT , a small program the group has used for years and that Google describes as its first step onto a machine. It gives an attacker a remote command shell, allows files to be moved in both directions, and can load additional modules from the attacker's server at any time. Tencent's fix blocked the way in. It did not change the part of Sogou that made the attack possible. In the patched version Gen examined , the built-in browser 
