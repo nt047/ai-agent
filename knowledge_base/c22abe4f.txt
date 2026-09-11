@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-vjfw-cpmh-xwv3
+Central Dogma: SSH host-key verification permanently disabled in Git mirror (SshGitMirror)

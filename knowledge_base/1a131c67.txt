@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-243p-f3cv-c5wh
+Shopper: Authorization bypass in Filament bulk actions allows browse-only staff to mass-delete attributes/tags and mass-toggle visibility of brands/categories/suppliers

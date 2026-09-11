@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/
+
+Florida confirms DMV database breached via stolen police account
+The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]
+Just a moment... Enable JavaScript and cookies to continue

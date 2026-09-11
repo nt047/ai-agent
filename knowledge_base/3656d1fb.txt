@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wdqzgy/an_event_bus_that_never_drops_the_critical_stuff/
+
+An event bus that never drops the critical stuff: QoS and backpressure in pwnproxy
+<!-- SC_OFF --><div class="md"><p>An intercepting proxy generates events nonstop: every request produces a <em>flow</em>, every flow can produce <em>findings</em>, and every finding triggers storage, triage and real-time notifications. If the bus connecting all of it blocks when one consumer is slow, the whole proxy stalls. If it drops messages carelessly, you lose security findings. Neither is acceptable.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/elguapoRoot"> /u/elguapoRoot </a> <br /> <span><a href="https://nextechsolutions.mx/blog/en/event-bus-qos-backpressure/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wdqzgy/an_event_bus_that_never_drops_the_critical_stuff/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back

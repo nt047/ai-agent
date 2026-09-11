@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html
+
+My Talk at DEF CON
+<p>Last month, I gave a <a href="https://www.youtube.com/watch?v=eEBv0STiYhI">talk</a> at DEF CON on AI hacking: what happens when AIs become hackers. It&#8217;s a combination of the potentialities I raised in my 2022 book <a href="https://www.schneier.com/books/a-hackers-mind/"><i>A Hacker&#8217;s Mind</i></a> and the lessons we&#8217;re learning from current AI models engaging in hacking behavior. I&#8217;m really proud of the talk, and the fact that it gained over 100K views on YouTube in just a few days.</p>
+<p>Also online is an <a href="https://www.youtube.com/watch?v=7-sMBqPV3XU">interview</a> with me in the AI Village.</p>
+My Talk at DEF CON - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog My Talk at DEF CON Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It’s a combination of the potentiali
