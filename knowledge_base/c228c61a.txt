@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html
+
+led, potentially leaking sensitive resources. CVE-2026-84869 (CVSS score: 9.9) - An improper privilege management and missing authorization vulnerability in ConnectWise ScreenConnect that could allow an attacker to file transfer and execute through an active remote session without authorization or host confirmation. CVE-2026-67277 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability in MikroTik RouterOS that could allow kernel memory disclosure an
