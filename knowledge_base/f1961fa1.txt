@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html
+
+s. At that time, the software supply chain security company noted the activity shares the "same abuse pattern" as the broader RubyGems spam-publishing incident. "It's not clear what exactly the end goals are, as the information appears to be publicly accessible anyway," The Hacker News reported back then. The latest findings, which were first reported by The Wall Street Journal, indicate these events were propelled by a cluster of OpenAI agents, with the earliest packa

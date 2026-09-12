@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-libpython-2026-15310
+zipfile: bzip2/LZMA/Zstandard members decompress without a max_length bound, defeating chunked-read memory limits

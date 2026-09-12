@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html
+
+ogin credentials, and API keys. Frontier AI labs in the West, including Google and OpenAI , have repeatedly called out distillation attacks aimed at their models. Anthropic said it has observed unauthorized labs employing "increasingly sophisticated methods" to get around defenses and harvest its capabilities, such as agentic capabilities and tool use, coding and data analysis, and logical reasoning, through prompt manipulation tricks. "DeepSeek, Xiaomi, and Moonshot fed conversat

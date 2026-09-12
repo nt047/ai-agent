@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html
+
+e but their composition. We sort everything an AI agent triggers in a SOC into three buckets: real attacks, risks, and noise, with the split being 94.1% noise, 5.8% genuine risk, and 0.02% real attacks. Meaning that across the data we investigated, real attacks that use AI agents are a drop in the ocean. The cost of AI in the SOC, so far, is not breaches. It is a rising tide of alerts that look alarming and almost never are, and a small, quiet set of
