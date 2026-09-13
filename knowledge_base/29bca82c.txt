@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html
+
+s and draft emails tailored to their recipients. The activity primarily singled out enterprise users in the U.S., spanning IT services, consumer goods, real estate, and discrete manufacturing sectors. "The campaign follows steps before and during the execution of the campaign: threat actors register impersonation domains, send executive-themed payment requests through trusted infrastructure, embed fabricated invoices and supporting conversations, and attempt to convince finance p
