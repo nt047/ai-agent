@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/
+
+Hackers target exposed Vite dev servers to steal AWS, Azure secrets
+A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]
+Just a moment... Enable JavaScript and cookies to continue

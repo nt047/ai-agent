@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html
+
+ach rows of buttons under their messages, which Telegram calls inline keyboards, and the bot chooses the text shown on each button. Until the fix, the export code wrote that button text directly into the HTML page without escaping it, the researchers Denis Rostilov and Aleksander Rostilov found. Escaping converts characters such as < so that a browser shows them as text instead of treating them as code, and the export applied it to message text, sender names, and other field

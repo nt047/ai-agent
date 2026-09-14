@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html
+
+ that its automated review detected a backdoor committed to a release of a plugin with about 20,000 active installations on July 28, 2026. Because the release was within a cooldown window, the compromised version of the plugin never ended up getting distributed through the WordPress.org update API. The plugin was closed for downloads 26 minutes after the Plugins Team was alerted to the update by WordPress security company Wordfence. WordPress did not disclose the name of th

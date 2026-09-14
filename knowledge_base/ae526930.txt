@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html
+
+Using AI for Weapons Development
+<p>Last week, Anthropic released a long and detailed <a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf">document</a> describing current misuses of their Claude models. I&#8217;m still reading it, but I wanted to flag this:</p>
+<blockquote><p>We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the &#8220;R2000&#8221; set) that included a hypersonic glide vehicle variant...</p></blockquote>
+Using AI for Weapons Development - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog Using AI for Wea

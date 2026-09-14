@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html
+
+he threat actor using Simplified Chinese labels to classify targets spanning defense, election, energy, aerospace, telecommunications, government, public safety, and research sectors. The Singapore cybersecurity company has assessed Red Heron to be operating within a China-linked context with moderate confidence owing to the presence of Simplified Chinese, the cluster's consistent classification of Taiwan as part of China, and targeting footprint that aligns with China's int

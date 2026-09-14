@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html
+
+ttacker installed MeshCentral , a free tool that IT teams typically use to manage computers remotely. The recovered settings show it was configured as a hidden backdoor, with the agents reporting to a control server that the attacker ran at www.ayuthayatech[.]com, under a device group named TH-3BB . Attackers increasingly abuse this kind of remote-management software because it is trusted and its activity blends in with routine administration. A device list recovered from the serve

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html
+
+to the machine sees only scrambled data. To cover the large amount of memory that a cloud server uses, though, these designs omit a guarantee called freshness. The processor can confirm that memory is encrypted, but not that it holds the latest written value, and that old encrypted data still decrypts correctly. DDRop turns that gap into an attack. When the interposer drops a write, the earlier value stays in memory, and the processor reads it back as though the upda

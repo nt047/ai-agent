@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html
+
+WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution
+WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved.
+
+"New plugins are reviewed before they enter the directory, but updates ship continuously after that," David Perez, WordPress Official Plugin
+WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leav

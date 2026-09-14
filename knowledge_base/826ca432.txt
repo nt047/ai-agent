@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/
+
+Homebrew 7.0.0 gets built-in GUI, better security controls
+Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/
+
+Twitch extension with 30K installs exposes users’ OAuth tokens
+A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]
+Just a moment... Enable JavaScript and cookies to continue

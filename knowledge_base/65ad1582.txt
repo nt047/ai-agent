@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html
+
+3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials
+An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said.
+
+The company uncovered the intrusion by examining a server the attacker had left open on the internet, which held the attacker's own tools and a list of
+3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a questio
