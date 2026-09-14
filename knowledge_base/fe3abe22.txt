@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/
+
+Japan's Digital Agency says VPN flaw exposed 246,000 personnel records
+Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]
+Just a moment... Enable JavaScript and cookies to continue
