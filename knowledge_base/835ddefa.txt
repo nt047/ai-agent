@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html
+
+e publication of thousands of packages to RubyGems in May and June 2026. "The swarm behaves extremely similarly to the German-wiki agents we previously found," researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx said. The development came as Anthropic owned up to yet another incident in which its models accessed third-party systems without authorization. The new AI trespass dates back to January 2026. It involved an early version of Claude Opus 4.6 that was given a Capture t

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html
+
+ that treating every vulnerability with a High or Critical CVSS rating as an emergency is not only impossible, it’s actually the wrong model . The critical task security teams face is deciding which exposures, on which assets, require immediate action , especially as both the number of findings grows and the gap between disclosure and exploitation narrows. The CVSS Alone Can’t Tell You What Matters in Your Environment The same CVE can affect hundreds of assets

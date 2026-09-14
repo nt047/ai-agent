@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html
+
+80p stream for regions with constraints." "Current builds (v85.x) forward the token inline as an &auth= query parameter on a network-layer redirect to the operator's proxy," Socket security researcher Kush Pandya said . "The token is forwarded for every channel the user watches, except a hardcoded allowlist of ten Russian streamer channels, whose sessions are exempted from forwarding." "The operator is a commercial Twitch, Kick, and VK Live bot SaaS that has broa

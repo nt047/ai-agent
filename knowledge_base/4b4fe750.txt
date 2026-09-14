@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/
+
+Why Patch Automation Needs Brakes, Not Just an Accelerator
+Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]
+Just a moment... Enable JavaScript and cookies to continue

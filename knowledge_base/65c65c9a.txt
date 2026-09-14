@@ -1,0 +1,7 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html
+
+Microsoft’s Patching
+<p>Once a month, Microsoft pushes a security update to all Windows users. Tomorrow&#8217;s is a <a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/">new record</a>:</p>
+<blockquote><p>Microsoft&#8217;s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold.</p>
+<p>It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and organizations published an ...</p></blockquote>
+Microsoft's Patching - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays 
