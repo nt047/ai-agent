@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html
+
+.bloggs • September 15, 2026 12:12 PM A note re: Content Addressable Memory: General-purpose caching (level 1, level 2 etc.) uses CAM. Caching also appears, in multiple ways, in the architecture of the Internet. Memoization (using has

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/
+
+BambooToken malware controls Windows and Linux systems via MQTT
+A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]
+Just a moment... Enable JavaScript and cookies to continue

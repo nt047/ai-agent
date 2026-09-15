@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html
+
+e technical detail and new indicators of compromise. The FBI attributes the malware to Iran's Ministry of Intelligence and Security (MOIS), the country's main intelligence agency, and dates the wider campaign to the autumn of 2023. The advisory says CHOSEN BRICK has been used against people in the U.K., the U.S., and the Netherlands, and around the world, since at least 2025. The targets are mainly Iranian dissidents, journalists who oppose Iran, activists, and members of gro

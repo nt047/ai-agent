@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html
+
+ Lotus Labs said in a report shared with The Hacker News. "Tendyron creates hardware-based tokens employed in high-security settings to verify user identities for workstation access. Their website lists customers in China's financial and government sectors, among other verticals" Tendyron OnKey is a second-generation Public Key Infrastructure (PKI) USB security token and authentication device designed to protect online banking and financial transactions. On its
