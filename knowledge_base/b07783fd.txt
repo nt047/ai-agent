@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html
+
+anisms by manipulating Secure Preferences and regenerating required HMACs, and App-Bound encrypted hashes." A defining aspect of the operation is the use of blockchain to conceal the threat actor-controlled infrastructure, leveraging Ethereum smart contracts as dead drop resolvers to dynamically update command-and-control (C2) endpoints and payload hosting locations so that it cannot be disrupted. The starting point of the KREMLIN is a JavaScript file that masquerades as a 
