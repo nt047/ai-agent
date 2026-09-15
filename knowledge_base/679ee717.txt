@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html
+
+l into. Not only can skilled human attackers move at machine speed, but they can also often better evade defenders' detections." The attack chain has been found to exploit CVE-2026-39987 (CVSS score: 9.3), a pre-authenticated remote code execution vulnerability impacting all versions of Marimo that came under active exploitation within hours of public disclosure. Upon gaining an initial foothold, the threat actor is said to have run an end-to-end credential-pivot ch

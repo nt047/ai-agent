@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/
+
+CISA: Critical VMware RCE flaw now exploited by ransomware gangs
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]
+Just a moment... Enable JavaScript and cookies to continue

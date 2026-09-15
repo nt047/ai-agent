@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html
+
+25 Years of Mass Surveillance Is Enough
+<p><em>This essay was written with Cindy Cohn, and originally appeared in <a href="https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough">Lawfare</a>.</em></p>
+<p>One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance&#8212;such as individual wiretaps or pen register/trap and trace orders&#8212;to mass surveillance techniques&#8212;such as tapping into the internet backbone or mass collection of telephone or internet metadata. The legal and technical architecture of modern mass surveillance, initially framed as a necessary defense against terrorist threats, has grown far beyond that justification and national security in general. Mass surveillance is now a routine tool used by law enforcement. ICE uses it in...</p>
+25 Years of Mass Surveillance Is Enough - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Se

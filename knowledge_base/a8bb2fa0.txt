@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html
+
+ lateral movement, then data staging, then exfiltration… until the damage is irreversibly done. Any one of those individual steps might be something a security control is theoretically capable of catching - but there's just too many potential exposures to test for, and even if you were to fix 90%, it's that 10% that's missing that might act as the broken link making an attack path exploitable. What actually matters is whether the whole sequence gets caught, or whether it slips th

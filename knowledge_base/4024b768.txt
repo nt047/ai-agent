@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html
+
+ hosting account a restricted view of the file system, so it cannot see other accounts or the server's configuration files. Neither cPanel's advisory nor LiteSpeed's release notes describe how the flaw works. LiteSpeed's announcement of 6.3.7 called it a release with "Security improvements, bug fixes, and more!" Its changelog lists three security changes but does not mention a privilege-escalation flaw, and neither company has said publicly which change fixes it. The advisory carries n

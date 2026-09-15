@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html
+
+Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds
+With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access.
+
+In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH
+Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback! 

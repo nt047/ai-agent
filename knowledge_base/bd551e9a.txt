@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html
+
+On the NSA’s Supercomputer from the 1960s
+<p>Really interesting <a href="https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm">story</a> about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA.</p>
+On the NSA's Supercomputer from the 1960s - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog On the NSA’s Supercomputer from the 1960s Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA. Tags: history of computing , history of cryptography , IBM , intelligence , NSA Posted on September 15, 2026 at 6:16 AM • 0 Comments Subscribe to comments on this entry Leave a comment Cancel reply Blog moderation policy Login Name Email URL: Remember personal info? Fill in the blank: the name of this blog is Schneier on ___________ (required): Comments: Allowed HTML <a href="URL"> • 
