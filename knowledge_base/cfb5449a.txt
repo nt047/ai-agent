@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/
+
+Cisco patches Secure Email Gateway zero-day exploited in attacks
+Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]
+Just a moment... Enable JavaScript and cookies to continue

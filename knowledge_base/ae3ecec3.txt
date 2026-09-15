@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html
+
+ommand execution with root privileges on the underlying operating system." The shortcoming affects Cisco Secure Email Gateway, both physical and virtual, regardless of device configuration. However, the networking equipment maker said other products like Secure Email and Web Manager and Secure Web Appliance are not impacted. Fixes are available for the following versions of Cisco AsyncOS for Cisco Secure Email Gateway Software Release - 15.5 and earlier (Fixed in 15.5.5-0141) 16

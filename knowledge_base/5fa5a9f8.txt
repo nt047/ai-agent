@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html
+
+exploit chain." The exploit chain, as previously highlighted by Proofpoint, involves three separate flaws – two in Chrome and one in Windows Advanced Local Procedure Call (ALPC). It first abuses CVE-2026-85046 to gain arbitrary read/write within the V8 sandbox, then escapes the browser sandbox via CVE-2026-87491 , and finally employs CVE-2026-85880 to inject code into the Chrome browser process and achieve arbitrary code execution. UTA0560 has been observed relying on t
