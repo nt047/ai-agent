@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/
+
+Google fixes actively exploited Android zero-day on Pixel devices
+Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]
+Just a moment... Enable JavaScript and cookies to continue

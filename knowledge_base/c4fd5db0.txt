@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/09/active-exploitation-attempts-target.html
+
+Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens
+A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.
+
+The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw.
+
+"JWT authentication
+Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a questi

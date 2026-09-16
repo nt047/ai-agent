@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html
+
+ing, 2.0.3.1. This opens the door for an unauthenticated attacker to upload arbitrary files on the affected site's server, paving the way for remote code execution. In the attack observed by Wordfence, threat actors have been observed submitting crafted requests to the "wwlc_file_upload_handler" AJAX action with a forged file_settings parameter and a malicious PHP file ("shell.php"). The uploaded PHP file is a web shell that reports host details and offers a browser-b
