@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html
+
+er through a poisoned PyPI package. The attacker also stole GitHub OAuth tokens. The attacker then deployed the self-spreading Shai-Hulud worm across approximately 100 internal code repositories. The attacker also poisoned a package in the company's official namespace. Another employee pulled the compromised version, causing a second infection. Mandiant had already documented attackers using AI in real attacks. In a March 2026 report , it said attackers had moved during 2025 from usin

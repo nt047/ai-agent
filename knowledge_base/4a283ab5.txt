@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/three-threat-groups-target-russian.html
+
+Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers
+Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.
+
+The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to be active since at least 2023, that involve new techniques for persistence and lateral movement.
+Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or 

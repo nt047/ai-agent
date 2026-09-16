@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html
+
+s as root, because its work includes setting up host networking and unpacking virtual machine packages. The flaw is on the Mac side of the product, so the machine at risk is the Mac itself rather than the virtual machines on it. On the machine JFrog tested, the socket that the service listens on was world-writable, meaning any program on the Mac could connect to it. The login call that follows, PrlSrv_LoginLocal, checks only the credentials the kernel reports for the connecting proce

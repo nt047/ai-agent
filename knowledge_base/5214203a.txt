@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html
+
+eady running in the victim's browser. These products all work the same way. The AI has a "body" inside the browser that can see the screen, open files, use the camera, and take actions, and a "brain" that runs on the company's servers and tells the body what to do, according to Forever Security . The body only takes orders from one trusted web page, such as gemini.google.com for Chrome or perplexity.ai for Comet. An extension is not supposed to be able to command that body. It can cha

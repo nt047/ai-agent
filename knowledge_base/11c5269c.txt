@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/three-threat-groups-target-russian.html
+
+ted in July 2025, involve the deployment of GhostContainer , a known modular backdoor that grants the operators complete access to a victim's Microsoft Exchange Server, as well as run arbitrary code, perform file operations, and load additional modules. To sidestep detection, the malware masquerades as a common server component to blend in with regular operations. It can also function as a traffic redirection or tunnel. Prior attacks involving the malware have targeted a governm

@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html
+
+Fake CAPTCHA Scams
+<p>New <a href="https://www.malwarebytes.com/cybersecurity/basics/fake-captcha-scams">variant</a> of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.</p>
+Fake CAPTCHA Scams - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog Fake CAPTCHA Scams New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program. Tags: captchas , scams Posted on September 16, 2026 at 7:25 AM • 6 Comments Comments Q • September 16, 2026 8:16 AM I’ve never seen the fake CAPTCHA yet. but I wonder if the code is clever enough to sniff the user agent and only offer it to Windows users? Since I use Linux, and I don’t fake the user agent string, perhaps I won’t ever see one of these things. When I press the required Win+R I see the application finder,
