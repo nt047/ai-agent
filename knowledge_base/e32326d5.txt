@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html
+
+ate contains fixes for 1 high-severity security vulnerability and should be installed immediately by all users," Acronis noted in a separate advisory for 1.9.3 HF3. "Exploitation of this vulnerability has been detected in the wild in limited, targeted attacks." There are currently no details about the vulnerability, or who is behind the attacks exploiting it and what the end goals are. It's also not clear when the activity was detected and since when the security flaw

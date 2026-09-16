@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html
+
+platforms and cloud services makes the campaign relevant across a wide range of organizations. N0va phishing campaign attack details Related activity can be traced in ANY.RUN’s Threat Intelligence Lookup using a characteristic N0va URL pattern: url:"/api/verification/init\?session=*&flow=*prompt_profile=" ANY.RUN’s TI Lookup provides broader context on N0va activity for deeper investigations The query surfaces matching URLs and related activity that share the same request s

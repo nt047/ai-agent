@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html
+
+Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation
+Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw.
+
+"In Cellular Modem, there is a possible permission bypass due to a logic error in the code," according to a description of the bug in the NIST National Vulnerability Database
+Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/fee

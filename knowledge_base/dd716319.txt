@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html
+
+re of the attacks exploiting it, as well as the identity of the threat actor behind them. Besides CVE-2026-58704, Google has addressed 109 other security flaws as part of the latest Pixel updates for September 2026. Of these, 88 allow privilege escalation, 10 allow information disclosure, nine allow remote code execution, and two allow denial-of-service (DoS). These include two high-severity privilege escalation vulnerabilities in Kernel components (CVE-2026-56914 and C
