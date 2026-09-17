@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/
+
+Cisco warns of max severity ISE zero-day exploited in attacks
+Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]
+Just a moment... Enable JavaScript and cookies to continue
