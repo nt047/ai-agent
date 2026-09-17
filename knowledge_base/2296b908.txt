@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html
+
+tells you a vulnerability could be serious. It does not prove that an attacker can use it against you. Security teams need faster answers: Is the affected asset exposed? What attack techniques does exploitation require? Do existing controls stop those techniques? Is the final verdict blocked or exploitable here ? That is the validation loop Ishak Celikkanat, Solutions Architect Lead at Picus, will demonstrate live at our next webinar " How to Prove You're Ready for Mythos-Class At

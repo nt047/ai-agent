@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html
+
+ building frontier models can examine for themselves." The six incidents are outside of the recently disclosed misaligned activity targeting Hugging Face , DseWiki , and RubyGems . Details of the incidents are below - Incident 1 (Occurred on July 18, 2026) - An internal unreleased Astra family model wrote jailbreak-like instructions into its own compaction summaries (condensed blocks of past conversation history and tool outputs that are generated automatically when an AI agent's

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html
+
+es the DNSKEY flaw Critical, with a CVSS score of 4.0 (9.1), and its scoring lists a network attack vector requiring no privileges or user interaction. NVD listed the CVE as "Awaiting Analysis" on Wednesday, so the 9.1 is the maintainer's own score. The overflow happens while the validator digests a DNSKEY record whose owner name is a compression pointer into the record's own data. The impact NLnet Labs lists is denial of service, with remote code execution possible "through

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/
+
+US takes down NightmareStresser DDoS-for-hire platform
+The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]
+Just a moment... Enable JavaScript and cookies to continue

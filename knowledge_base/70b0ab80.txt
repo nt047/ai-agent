@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html
+
+AI agent in your production. Hold it to a bar. Provable coverage, an independent validator, blast-radius guardrails, and an audit trail, or no deal. The economics favor adoption. One ~$18K manual engagement (industry estimate) against a $4.44M average breach (IBM, 2025). The Annual Pentest Is Stale Before It Ships Pentesting has barely changed in a decade — but it has to, because attackers no longer work on a yearly timetable. Against an adversary wh

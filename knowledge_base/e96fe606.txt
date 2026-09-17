@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html
+
+How Candidates Could Use AI for Good
+<p><em>This essay was written with Nathan E. Sanders, and originally appeared in <a href="https://www.theguardian.com/commentisfree/2026/aug/31/ai-politics-voters">The Guardian</a>.</em></p>
+<p>There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have <a href="https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/">anxiety</a> about AI&#8217;s impacts on the country. Politicos are using AI deepfakes to <a href="https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns">spread</a> lies. The White House is posting <a href="https://www.theguardian.com/us-news/2026/jan/29/the-slopaganda-era-10-ai-images-posted-by-the-white-house-and-what-they-teach-us">slopaganda</a>.</p>
+<p>Meanwhile, candidates are missing a real opportunity to use AI to make campaigning better. The technology can help candidates liste

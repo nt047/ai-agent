@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html
+
+Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar
+A new CVE drops. Your scanner finds it. The severity score looks ugly.
+
+But that still does not answer the question that matters: Can it actually be exploited in your environment?
+
+Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is
+Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question o
