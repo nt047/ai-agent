@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/
+
+New RatHat Android malware uses AI to automate device control
+A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]
+Just a moment... Enable JavaScript and cookies to continue
