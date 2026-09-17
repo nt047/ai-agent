@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/
+
+OpenAI details more cases of AI agents taking unauthorized actions
+OpenAI has presented new examples of what they call "AI model misalignment" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]
+Just a moment... Enable JavaScript and cookies to continue
