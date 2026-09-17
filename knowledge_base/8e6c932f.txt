@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wizte1/working_on_a_claude_skill/
+
+Working on a claude Skill
+<!-- SC_OFF --><div class="md"><p>Hey guys!<br /> I'm working on a claude skill that automates recon,endpoint discovery,tech fingerprinting, vulnerability/cve research and organizes the results for manual pentesting.</p> <p>What would you add to a skill like this to make it genuinely useful for security professionls?</p> <p>Your feedback and ideas would be really valuable! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Efficient-Web-8065"> /u/Efficient-Web-8065 </a> <br /> <span><a href="https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wizte1/working_on_a_claude_skill/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register 
