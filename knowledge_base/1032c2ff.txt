@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html
+
+Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2
+The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.
+
+The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation
+Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2 --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or l

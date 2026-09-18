@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html
+
+nth after Acronis Threat Research Unit (TRU) tied the long-running persistent threat group to another campaign aimed at Afghan telecom providers and South Asian critical infrastructure organizations using a backdoor called PATCHCORD. A notable aspect of the campaign is the threat actor's use of private GitHub repositories for command-and-control (C2) and the registration of typosquatted domains impersonating popular Indian news organizations like The Print and India Today to hos

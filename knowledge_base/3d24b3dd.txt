@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/
+
+Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer
+An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]
+Just a moment... Enable JavaScript and cookies to continue

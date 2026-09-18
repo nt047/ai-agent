@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html
+
+Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents
+A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm&nbsp;Air Security said on Thursday.
+
+The firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no
+Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a quest

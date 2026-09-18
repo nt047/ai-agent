@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/
+
+Gyazo server flaw exploited to steal 23.6 million user records
+The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]
+Just a moment... Enable JavaScript and cookies to continue

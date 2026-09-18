@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html
+
+never check that the code they end up with actually matches it. A branch is a named line of code in a repository. On a code host that lets someone create a branch whose name is made to look like the commit hash, the owner of a plugin's repository can point that name at different code. The agent then installs the different code while still reporting that it is on the locked version. Because a plugin runs with the same access as the person using the agent, the swapped code can access 
