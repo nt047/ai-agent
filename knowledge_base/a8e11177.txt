@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-16253
+Malicious code in laycot (npm)
