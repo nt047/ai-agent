@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-pmpg-6pww-fg6q
+ImageMagick has out-of-bounds access in ConnectedComponentsImage() via CLI-controlled connected-components:* artifacts

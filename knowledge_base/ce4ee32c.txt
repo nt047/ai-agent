@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html
+
+Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root
+A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.
+
+Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated.
+
+The flaws
+Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/fe

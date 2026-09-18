@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html
+
+The exploits are Manizada's own, are tuned to specific kernel builds, and can crash a machine, so they are meant for isolated test systems. Still, public exploit code raises the risk on shared systems. Local privilege escalation matters most where an attacker already has some access, such as a low-privileged account on a multi-user server, and wants to take full control. What's Affected Three of the four flaws can be reached by an ordinary user only when unprivileged use
