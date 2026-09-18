@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html
+
+New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution
+WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install.
+
+The security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only
+New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comme

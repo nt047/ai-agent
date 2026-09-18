@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html
+
+ theme stays switched off, so the site's own appearance does not change and nothing looks wrong. Reaching code execution needed a second, separate flaw in the theme that was installed. As pwn.ai wrote of the core bug alone, "The Core bug does not accept an arbitrary theme ZIP by itself." The flaw works because two parts of WordPress read the same link differently. The WordPress.org directory treats the value in the link as an ordinary theme name and returns a real theme
