@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html
+
+phishing sites promoted via malvertising, smishing campaigns, and third-party forums that trick unsuspecting users into installing malware-laced APKs. These packages function as a dropper to launch the main payload, while incorporating layers of anti-analysis and anti-debug checks to sidestep detection. The four anti-analysis techniques baked into the malware are listed below - Container tampering, which declares certain files as directories in the package or sets t

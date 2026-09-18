@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html
+
+stalls and runs. Docker has not reported any exploitation. CISA's added assessment on the CVE record lists exploitation as none, and the flaw is not in CISA's Known Exploited Vulnerabilities catalog as of the catalog version released on September 16. The flaw needs malicious code inside the sandbox, and protecting the host from what an agent runs is what the sandbox is for. The agent installs packages and runs commands with sudo inside the virtual machine, and Docker's isolation 

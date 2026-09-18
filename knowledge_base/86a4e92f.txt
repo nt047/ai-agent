@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html
+
+and configures Microsoft Defender exclusion paths for defense evasion. The findings build upon an alert the U.S. Federal Bureau of Investigation (FBI) first issued in March 2026 and again earlier this week , in which it accused Iranian cyber actors acting on behalf of the Ministry of Intelligence and Security (MOIS) of targeting Iranian dissidents, journalists opposed to Iran, and other opposition groups to conduct intelligence collection, leak data, and inflict reputational h

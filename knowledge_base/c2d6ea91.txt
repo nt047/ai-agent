@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/critical-check-point-management-server.html
+
+equests before a user is authenticated. Internet scanning company Censys said the overflow is triggered by a login request that carries a very long username. Check Point said in a notice on its CheckMates community on September 16, 2026, that customers with automatic updates enabled are already protected, and that everyone else should apply the LivePatch fix described in advisory sk1000155 . It urged customers to take immediate action because of the flaw's severity and potentia

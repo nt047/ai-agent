@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html
+
+ring a pay-per-install (PPI) marketplace that allows other threat actors to distribute their malware through YouTube channels and a parallel search engine optimization (SEO)-poisoning funnel. "These channels were actively interacting with viewers to promote gaming content laced with links to download malware," Palo Alto Networks Unit 42 said . "Although the videos provided real content for gamers, they also served as the delivery vehicle for infection, prompting viewers to download ma
