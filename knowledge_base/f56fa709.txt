@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html
+
+Are AIs Still Struggling with CAPTCHAs?
+<p>Anthropic&#8217;s recent security-incident <a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf">document</a> contains a bit about how CAPTCHAs are still <a href="https://gizmodo.com/ai-models-can-crack-everything-but-captchas-2000810126">frustrating</a> Claude.</p>
+<blockquote><p>In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against the wall solving a simple image identification test. In a test where the agent was asked to identify a shape that didn&#8217;t match the others displayed, it couldn&#8217;t even decide which image to select. Instead, it repeatedly went over the same images and questioned its own conclusions.</p>
+<p>&#8220;Actually hmm, wait,&#8221; it said in its chain-of-thought transcript, later adding &#8220;Ugh,&#8221; because we&#8217;ve decided that we need to inject 

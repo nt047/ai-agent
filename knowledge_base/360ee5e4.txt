@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/
+
+New Check Point flaw lets hackers execute code with root privileges
+Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html
+
+t help but wonder if the training data creates a self-defeatist “attitude” in the models. Most discussions about CAPTCHAs over the years focus on how they are a difficult barrier for automated systems to pass. Some

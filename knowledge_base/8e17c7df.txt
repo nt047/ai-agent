@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html
+
+tack used these packages as a cover to retrieve a remote dynamic dependency (RDD) from an external server so that the libraries themselves are not flagged by security tools. Once installed, the malware embedded in the remote dependency scans the developer environment for email addresses, gathers information about the CI/CD environment, collects a system fingerprint, including the public IP address, and transmits the results to an attacker-controlled server. It's a
