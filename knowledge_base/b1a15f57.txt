@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:67830
+Important: tesseract security update

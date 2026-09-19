@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:61586
+Moderate: tar security, bug fix, and enhancement update

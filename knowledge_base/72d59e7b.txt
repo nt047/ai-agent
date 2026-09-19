@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:67267
+Moderate: libkcapi security, bug fix, and enhancement update

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:67530
+Important: .NET 10.0 security, bug fix, and enhancement update

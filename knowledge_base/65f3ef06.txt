@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wkrcgz/bragjack_20k_in_bounty_rewards_from_anthropic/
+
+BragJack - $20K in bounty rewards from Anthropic, Perplexity, Google, Microsoft and Opera Using 1 Extension
+<!-- SC_OFF --><div class="md"><p><a href="https://www.reddit.com/r/cybersecurity/?f=flair_name%3A%22News%20-%20General%22"></a>Hi folks, my name is Gal Weizman, I do browser security research.</p> <p>Excited to finally share my recent work, where I managed to hack Chrome, Comet, Edge, Opera and Claude in Chrome using one single browser extension</p> <p>2 CVEs &amp; $20,000 in bounties 🙂</p> <p>Hope you like it!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Content-Winter5328"> /u/Content-Winter5328 </a> <br /> <span><a href="https://forever.security/blog/bragjack-attack-hijacks-every-browser-agent">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wkrcgz/bragjack_20k_in_bounty_rewards_from_anthropic/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Tr

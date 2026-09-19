@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:68692
+Important: sudo security, bug fix, and enhancement update
