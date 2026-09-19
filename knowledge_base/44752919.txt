@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html
+
+Identity and access management (IAM) platforms express policy intent: who should have access, under what conditions, and for how long. Applications and infrastructure reveal execution: which credentials authenticated, which permissions were exercised, and which paths were taken. The space between those two layers is where identity dark matter lives: local application accounts, embedded service credentials, legacy authentication flows, and integrations that 
