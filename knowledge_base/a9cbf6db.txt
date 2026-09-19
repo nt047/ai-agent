@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html
+
+SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE
+SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.
+
+The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior.
+
+"SolarWinds
+SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback! Follo

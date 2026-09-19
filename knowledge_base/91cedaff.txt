@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html
+
+inding, not the actions against Discourse," the open-source software that runs the forum. Testing the forum itself was outside its bug bounty program. OpenAI has not publicly described the login flaw, and it confirmed the finding through that fix and payment rather than by detailing the account takeovers. Hacktron, which describes itself as an AI-assisted security research firm, was careful about what it did and did not do. When one employee's Codex link to OpenAI's code on Gi
