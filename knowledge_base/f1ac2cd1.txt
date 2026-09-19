@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html
+
+dition vulnerability that could allow concurrent writes to the same AF_ALG socket, allowing a local attacker to crash the system or corrupt cryptographic operation results, causing DoS or data integrity issues. There are currently no details on how the three vulnerabilities are being exploited in the wild, and if they are being weaponized as part of a single attack chain. However, Red Hat has updated the advisories for all the flaws as of September 19, 2026, a

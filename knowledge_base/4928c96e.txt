@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html
+
+emini model ended the intrusion after finding that it had breached a real company's system. Irregular is said to have notified Google of the incidents in July 2026. In a report published last month, Irregular pinned the evaluation breaches to a naming error that caused a fictional company name used during " capture the flag " exercises to unknowingly match with a real domain, thereby allowing the models to take advantage of the inadvertent internet access and target the dom

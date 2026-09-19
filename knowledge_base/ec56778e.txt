@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-zookeeper-2026-79993
+Apache ZooKeeper: Missing ACL check on deleteContainer opcode allows unauthorized deletion of any empty persistent/container znode

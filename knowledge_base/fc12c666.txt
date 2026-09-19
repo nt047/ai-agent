@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-rclone-2026-88045
+rclone: S3 multipart declared-length memory exhaustion

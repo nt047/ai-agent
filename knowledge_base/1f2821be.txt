@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html
+
+) through INLINE, LAMBDA, DO_WHILE, and SWITCH task types to invoke arbitrary system commands via Java reflection or direct subprocess calls." In an outbreak alert issued this week, Fortinet said it has observed attackers actively targeting Orkes Conductor servers susceptible to CVE-2026-58138 by submitting crafted workflow definitions containing JavaScript or Python expressions to the Conductor workflow API. "Because vulnerable evaluators can be configured with unrestrict

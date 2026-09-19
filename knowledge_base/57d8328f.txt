@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-zookeeper-2026-59969
+Apache ZooKeeper: Improper validation of certificate with host mismatch in FIPS mode

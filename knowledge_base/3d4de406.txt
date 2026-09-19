@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-rclone-2026-88046
+rclone: source object names can escape the configured root on upload

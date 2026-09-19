@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-zookeeper-2026-59739
+Apache ZooKeeper: Information disclosure via SetWatches reconnect replay

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-zookeeper-2026-84439
+Apache ZooKeeper: Audit log injection via unsanitized output from multiple sources

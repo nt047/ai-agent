@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html
+
+at no code was changed. How the Code Was Taken On May 11, 84 malicious versions of 42 TanStack npm packages were published. The compromise is tracked as CVE-2026-45321 . Installing one of those versions ran code that stole credentials from the machine, including GitHub tokens, SSH keys, and cloud credentials, according to TanStack's advisory . The company says the copy was made 11 days later with a GitHub OAuth token from the former employee's account. The company had kept 

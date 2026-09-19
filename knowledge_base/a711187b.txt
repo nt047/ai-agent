@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wkgaru/your_llm_is_prompt_injecting_you/
+
+Your LLM is prompt injecting you...
+<!-- SC_OFF --><div class="md"><p>It's crazy how security has gone from an important consideration to the main challenge with AI agents.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/AImSamy"> /u/AImSamy </a> <br /> <span><a href="https://www.edenai.co/post/when-your-llm-router-turns-against-you-the-hidden-security-risk-in-ai-agents">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wkgaru/your_llm_is_prompt_injecting_you/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to d
