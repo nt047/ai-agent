@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/
+
+Researchers escape OpenAI Codex sandbox to run commands on host
+Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]
+Just a moment... Enable JavaScript and cookies to continue
