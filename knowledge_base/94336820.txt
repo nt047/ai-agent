@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/
+
+FBI's CJIS v6.1: What Security Teams Need to Know.
+The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password, MFA, and identity requirements as they prepare for upcoming audits. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/
+
+Microsoft fixes broken Excel copy and paste for all Office users
+Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]
+Just a moment... Enable JavaScript and cookies to continue

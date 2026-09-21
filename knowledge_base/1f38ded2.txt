@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/
+
+Google fined €403 million over location data privacy violations
+Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]
+Just a moment... Enable JavaScript and cookies to continue

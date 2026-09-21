@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html
+
+ pathway used to deliver the payload is unclear, although it's possible that it may have been via email-based phishing or social engineering. By giving it a completely random file name, it's suspected that the intention may have been to evade file name-based detection mechanisms. The VBScript functions as the orchestrator for establishing persistence on the host using scheduled tasks and launching subsequent stages. The tasks are given the names Local Credential Manager, Ne
