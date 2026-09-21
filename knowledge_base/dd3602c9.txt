@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html
+
+s tied to the theft of about $1.5 billion from Bybit's cold wallet infrastructure following a supply chain compromise of Safe{Wallet}'s developer environment. "Jade Sleet mostly targets users associated with cryptocurrency and other blockchain-related organizations, but also targets vendors used by those firms," Microsoft-owned GitHub noted in July 2023. SentinelOne said the campaign employs social engineering using job interview lures, a common tactic adopted by multiple North 

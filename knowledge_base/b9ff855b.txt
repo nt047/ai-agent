@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html
+
+rShell, file operations, screenshot capture, payload deployment, cryptocurrency wallet enumeration (both desktop apps and browser extensions), and remote JavaScript execution. The starting point of the attack chain is a ClickFix lure that leads to the download and execution of a malicious Windows installer using "msiexec.exe." The installer ("ComponentTask33-4d14e6ac.msi"), disguised as Spotify, deploys the Node.js runtime and launches the ChainScript JavaScript
