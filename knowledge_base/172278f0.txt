@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-782
+Malicious code in ac-polyfills (npm)
