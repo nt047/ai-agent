@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html
+
+and looks like a real LastPass product page. Clicking the download button sends the visitor through several GitHub pages to an attacker server, which serves a large ZIP file. The real LastPass Authenticator comes from lastpass.com and the official app stores, not GitHub. Inside the ZIP is a renamed copy of a real Microsoft debugging tool, vsdbg.exe, placed next to a malicious file named vsdbg.dll. When the fake installer runs, Windows loads the attacker's DLL from the same folder, a 

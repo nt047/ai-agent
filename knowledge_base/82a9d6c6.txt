@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html
+
+ir signed-in mobile devices, even when they are not using a Google service. For both cases, the DPC found that Google breached the GDPR's rules on lawful and fair processing and on transparency, and that it retained location data longer than necessary. Location Accuracy is an Android feature that works out a device's location more precisely than GPS alone, and it is available to Android users with or without a Google account. The DPC's findings for this featur

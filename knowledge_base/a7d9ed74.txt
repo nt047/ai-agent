@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/cybersecurity/comments/1wmgmss/microsoft_retires_sms_signin_in_february_2027/
+
+Microsoft retires SMS sign-in in February 2027
+<!-- SC_OFF --><div class="md"><p>I wonder how you dealing with this? How would that impact your organization where you have user who resist to use the Authenticator App.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Putrid_Improvement46"> /u/Putrid_Improvement46 </a> <br /> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1wmgmss/microsoft_retires_sms_signin_in_february_2027/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1wmgmss/microsoft_retires_sms_signin_in_february_2027/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive

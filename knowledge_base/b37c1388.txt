@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/
+
+BigCommerce alerts merchants of data breach linked to Ribon apps
+Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]
+Just a moment... Enable JavaScript and cookies to continue
