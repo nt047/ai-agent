@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html
+
+parent Tribe cluster. Historically, the threat actor has primarily targeted Indian defense forces and government officials. In a report published in June 2026, Seqrite Labs attributed SideCopy to a spear-phishing campaign targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. The latest attack chain documented by Trellix uses spear-phishing to deliver a weaponized ZIP archive, within which exists a Windows shortcut (LNK) w

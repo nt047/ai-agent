@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/
+
+vCenter pre-auth RCE: CVE-2026-59309/59310
+<!-- SC_OFF --><div class="md"><p>CVE-2026-59309 &amp; CVE-2026-59310: patch-diffing VMware vCenter reveals two pre-auth 9.8 bugs - an auth bypass and a syslog path traversal to RCE</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/MobetaSec"> /u/MobetaSec </a> <br /> <span><a href="https://mobeta.fr/blog/vcenter-cve-2026-59309-cve-2026-59310/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wn37be/vcenter_preauth_rce_cve20265930959310/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html
+
+ersonal AI agent Meta launched this month in the United States. Once a user turns it on, it can work across their files, email, messages, calendar, shopping and smart-home apps, using whatever access the person chooses to give it. That access is the point, Wardle says. He urged people not to install Muse, calling it "trivial to turn Muse into the ultimate backdoor." macOS normally prevents one app from accessing another app's files, microphone, camera, or saved logins, so ordinary

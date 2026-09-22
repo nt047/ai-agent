@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html
+
+8 2.90(AAHH.1)C0 and earlier - Fixed in 2.90(AAHH.2)C0 GS1900-8HP 2.90(AAHI.1)C0 and earlier - Fixed in 2.90(AAHI.2)C0 GS1900-10HP 2.90(AAZI.1)C0 and earlier - Fixed in 2.90(AAZI.2)C0 GS1900-16 2.90(AAHJ.1)C0 and earlier - Fixed in 2.90(AAHJ.2)C0 GS1900-24 2.90(AAHL.1)C0 and earlier - Fixed in 2.90(AAHL.2)C0 GS1900-24E 2.90(AAHK.1)C0 and earlier - Fixed in 2.90(AAHK.2)C0 GS1900-24EP 2.90(ABTO.1)C0 and earlier - Fixed in 2.90(ABTO.2)C0 GS1900-24HPv2 2.90(ABTP.1)C0 and e

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html
+
+ the gap between those two steps. Rafie Muhammad, the security researcher who reported the bug, laid out the full chain in a write-up on September 21. The trick was a line break placed inside the attribute of an allowed HTML tag in the comment. When WordPress reformatted the comment for display, one of its steps broke that tag apart and moved the attacker's text into a spot where the browser treated it as a live event handler. The handler ran automatically as the page loaded, 

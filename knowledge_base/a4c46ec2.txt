@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/
+
+New Windows Defender zero-day blocks Microsoft antivirus updates
+Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]
+Just a moment... Enable JavaScript and cookies to continue
