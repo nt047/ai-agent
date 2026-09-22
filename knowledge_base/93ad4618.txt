@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html
+
+ateral movement. AI agent risk has two dimensions: Access defines the possible blast radius Autonomy determines how much an agent can do without a human in the loop Either dimension can pose a risk on its own, but the combination changes the security model. Agent behavior cannot be reliably predicted, but identity and intent make access governable. Autonomy Turns Access Into Exploration People often grant agents more access and autonomy than nece

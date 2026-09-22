@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-jjhp-8crj-mppq
+@roomi-fields/notebooklm-mcp has a path traversal in vault.batch tool that allows arbitrary file write outside intended vault directory

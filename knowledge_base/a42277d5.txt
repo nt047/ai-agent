@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-xmfh-3ccg-c9fx
+Mattermost has an Incorrect Authorization issue

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html
+
+equirements rely on continuous visibility in the ICT environment to identify behavior that may indicate an emerging risk. Continuous monitoring requires more than an inventory For DORA, continuous monitoring therefore isn’t just about knowing what should be happening in a network; it’s about having enough visibility to recognize when operational patterns begin to diverge from the norm. Article 9, the ninth numbered provision of DORA, requ

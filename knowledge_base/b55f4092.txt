@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html
+
+ility and says it allows an authorized attacker to execute code. Both records assign CWE-94, a code-injection weakness. Defenders who triaged CVE-2026-65660 based on the advisory saw a moderate spoofing flaw, not a code-execution vulnerability with a near-maximum score. Khoa is the researcher who demonstrated the original ToolShell exploit chain against SharePoint at Pwn2Own Berlin in May 2025. That chain was later exploited by Chinese state-backed groups and triggered emer
