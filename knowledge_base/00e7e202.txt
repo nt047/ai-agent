@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html
+
+age describe it as an 'Authorized bug-bounty research probe (Twilio HackerOne program)' that 'runs only inside Twilio's serverless packager sandbox' and 'collects local process/host context and writes it next to itself; no destructive action.'" Upon execution, the package first checks if the current environment is a Twilio developer environment. It immediately exits if that's not the case. Should the check pass, the malware proceeds to extract environment variables along with

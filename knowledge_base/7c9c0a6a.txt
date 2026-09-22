@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html
+
+erful cybercrime platform" that used AI to compromise email accounts and design roadmaps for financial fraud and scams. "While EvilTokens helped cybercriminals access email accounts, at the center of the service was an AI-style chatbot that could analyze a victim's inbox and help criminals identify trusted relationships, payment authorizations, and sensitive responsibilities, as well as other circumstances where fraud was most likely to succeed," Steven Masada, associate general counsel a

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/
+
+Check Point warns of Management Server zero-day exploited in attacks
+Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-16408
+Malicious code in snap-queue (PyPI)

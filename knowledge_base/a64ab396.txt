@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/check-point-warns-of-management-server.html
+
+versal bug in the management server's web service. The service does not properly limit which files and folders a request can reach. An attacker can use it to upload scripts to the server and then run them. Check Point rated it 9.8 out of 10 on the CVSS scale in the CVE record for the flaw. Check Point's advisory does not name the targets of the July attacks or the attackers, nor does it say what the attackers did after exploiting the flaw. Management Server Versions an

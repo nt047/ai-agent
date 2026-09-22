@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-16406
+Malicious code in crypto-trader-py (PyPI)

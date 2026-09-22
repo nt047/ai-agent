@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html
+
+ process user. On the official Docker image, that user is appuser. Because the gateway stores API keys for every connected provider, executing commands on the gateway process grants the attacker access to those credentials. The stock Bifrost binary binds the management API to localhost by default, which limits exposure to the local machine. The official Docker image binds to 0.0.0.0, making the management API reachable from outside the container if the port is published. 

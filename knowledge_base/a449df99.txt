@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html
+
+this one. It is a separate flaw from the ones that the release fixed. The release to update to depends on the branch you run: Branch you run Update to 7.1.x 7.1.2 7.0.x 7.0.6 6.9.x 6.9.9 6.8.x 6.8.10 6.7.x 6.7.9 6.6.x 6.6.9 WordPress backported the fix to every older branch it still supports as a courtesy, down to 4.7.37. The full list is in the release notes . Sites with automatic background updates enabled will start the update automatically. Others can update from the dashboard

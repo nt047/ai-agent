@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/
+
+New ClosedQuorum Windows malware uses AI for attack decisions
+A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]
+Just a moment... Enable JavaScript and cookies to continue

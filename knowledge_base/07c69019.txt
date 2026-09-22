@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html
+
+Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials
+Cybersecurity researchers have disclosed details of a malicious npm package named "tw-pkgprobe-7731" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data.
+
+The package, named "tw-pkgprobe-7731," was first uploaded to the npm registry in mid-August 2026 by an npm account named "twdepprobe7731."
+Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave 
