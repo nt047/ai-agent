@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wmyhox/inside_bambootokens_linux_implant_shell_and_file/
+
+Inside BambooToken’s Linux implant: shell and file control over MQTT
+<!-- SC_OFF --><div class="md"><p>A small configuration blob is enough to explain how this Linux backdoor finds its controller. Decode it, follow the MQTT callbacks, and the program resolves into three useful pieces: a host inventory collector, a shell command worker, and a file manager. MQTT topics connect those pieces, while a repeating XOR key obscures their messages.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/420ass_slayer69"> /u/420ass_slayer69 </a> <br /> <span><a href="https://app.reverser.space/p/duckie/inside-bambootoken-s-linux-implant-shell-and-file">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wmyhox/inside_bambootokens_linux_implant_shell_and_file/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you
