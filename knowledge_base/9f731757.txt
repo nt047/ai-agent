@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/
+
+Chinese hackers exploit WordPress, Zyxel flaws to steal govt data
+A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]
+Just a moment... Enable JavaScript and cookies to continue

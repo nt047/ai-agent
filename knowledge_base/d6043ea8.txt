@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/
+
+Rogue external MFA providers can steal passwords during logins
+Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]
+Just a moment... Enable JavaScript and cookies to continue
