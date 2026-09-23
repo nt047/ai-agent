@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/
+
+Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/mabote"> /u/mabote </a> <br /> <span><a href="https://blog.gitguardian.com/github-app-private-keys-leaked/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wnwy4b/leaked_github_app_private_keys_let_researchers/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can sometimes result in a block. You can read Reddit's Terms of Service here . If you think that we've incorrectly bl
