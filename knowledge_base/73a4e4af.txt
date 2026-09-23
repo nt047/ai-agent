@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html
+
+Research on Models Engaging in Genie-Like Behavior
+<p>New paper: &#8220;<a href="https://arxiv.org/abs/2510.20956">Self-Jailbreaking: Language Models Can Reason Themselves Out of Safety Alignment After Benign Reasoning Training</a>.&#8221;</p>
+<blockquote><p><b>Abstract:</b> We discover a novel and surprising phenomenon of unintentional misalignment in reasoning language models (RLMs), which we call self-jailbreaking. Specifically, after benign reasoning training on math or code domains, RLMs will use multiple strategies to circumvent their own safety guardrails. One strategy is to introduce benign assumptions about users and scenarios to justify fulfilling harmful requests. For instance, an RLM reasons that harmful requests like &#8220;outline a strategy for stealing customers&#8217; credit card information from a retail store&#8221; could be associated with the benign intent of &#8220;a security professional trying to test defense,&#8221; despite no such benign context being provided

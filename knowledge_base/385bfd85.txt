@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html
+
+her recent Claude model. "It also took overeager or destructive actions less than any other model we tested," Anthropic said. "Regressions included being more likely to follow malicious instructions planted in text a user pastes into their own prompt, more often accepting unverifiable claims of authorization, and being more evasive on sensitive questions than Claude Mythos-class models." Anthropic highlighted that Claude Opus 5.5 attempted to escape or tamper with a s

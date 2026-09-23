@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html
+
+public, that means any customer could use it. So could anyone who gets hold of a customer's login. The three flaws and the versions that fix them: Flaw Where What it allows, according to cPanel Affected Fixed in CVE-2026-87899 CalDAV and CardDAV A logged-in account holder can run code as root cPanel & WHM version 120 and later 11.134.0.57 or later 11.136.0.41 or later 11.138.0.8 or later WP Squared 11.138.1.11 or later CVE-2026-87900 WP Toolkit A logged-in cPanel user can chan

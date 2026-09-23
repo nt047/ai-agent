@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html
+
+d reports of attacks using it. The vulnerability sits in the kernel's garbage collector for AF_UNIX sockets. That collector cleans up file descriptors passed between processes through SCM_RIGHTS messages. AF_UNIX sockets handle local communication between processes and are allowed by default in Docker and Kubernetes seccomp profiles, which is why the flaw can be reached from inside a container. A race condition in the garbage collector lets it see new references before the 

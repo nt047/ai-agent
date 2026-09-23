@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/
+
+Microsoft: September Windows updates break Always On VPN connections
+Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]
+Just a moment... Enable JavaScript and cookies to continue

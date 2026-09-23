@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html
+
+ntation baked into every service, records what an agent actually does inside them, and scores each run live on four independent signals. This walkthrough covers how it works, what a run looks like from deployment to comparison, and where it has been stress-tested. The feedback loop problem Teams building autonomous pentesting or bug bounty agents tend to share a workflow. Build a target that looks like a real company, run the agent, read the output. The output is whe
