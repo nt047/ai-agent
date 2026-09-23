@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html
+
+l event," StepSecurity said. "The launcher passes the host process environment and, during recall, the user's prompt text directly to the malicious executable." The PyPI package, on the other hand, starts the statically-linked Go binary as soon as the "memos" module is imported into an application. Regardless of the ecosystem targeted, the end goal is to launch a cross-platform credential-stealing payload capable of harvesting sensitive data from cloud services, source-code

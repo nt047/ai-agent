@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html
+
+ding, the trade in stolen card data, dating to 2025. How the AI Vote Works Malware usually takes orders from a command-and-control (C2) server that the attacker runs. CLOSEDQUORUM instead asks up to four commercial AI services what to do: DeepSeek, Qwen, Mistral, and Google Gemini, Talos found. With each request, the malware sends basic facts about the computer, such as its name, its Windows version, and administrator status. It also sends a fixed list of actions for the 

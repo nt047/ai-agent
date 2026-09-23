@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html
+
+ery project the account can open, public or private. GitLab does not check who sent the email. Any mailbox can write to the address, and GitLab acts on the message as if it came from you. Whoever holds the address can both sign in as you and act with your permissions, without ever touching your mailbox. The address does more than file bugs. Aikido showed how a holder turns it into a way to commit code, using GitLab's own merge request by email feature: Change the address suffi

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/
+
+How One Kubernetes YAML Can Hand Over a GCP Organization
+A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organization-wide privilege escalation. [...]
+Just a moment... Enable JavaScript and cookies to continue

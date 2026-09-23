@@ -1,0 +1,10 @@
+المصدر: https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html
+
+Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI
+Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS.
+
+According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below -
+
+
+  @memtensor/memos-cloud-openclaw-plugin versions
+Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a co

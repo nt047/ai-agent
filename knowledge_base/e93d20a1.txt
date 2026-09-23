@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html
+
+ not identify which two flaws formed the chain or explain how they combined. This latest analysis provides both. How the Chain Works SSH requires three steps in order: it establishes an encrypted connection, authenticates the user, and only then lets the client open a session and run commands. The server sends a specific message (SSH_MSG_USERAUTH_SUCCESS) to confirm that authentication has passed. CVE-2026-67279 breaks this sequence. If a client starts an SSH key renegotiation 

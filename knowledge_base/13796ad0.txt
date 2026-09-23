@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html
+
+A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You
+The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you.
+
+GitLab shows each user this address behind a button labeled "Email work item to this project." Mail sent to it opens an issue in that project, authored
+A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a

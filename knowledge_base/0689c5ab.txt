@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/
+
+InfraTrust report warns network management systems under attack
+Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]
+Just a moment... Enable JavaScript and cookies to continue
