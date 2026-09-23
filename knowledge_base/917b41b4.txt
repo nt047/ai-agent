@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html
+
+orms like LinkedIn and Facebook, or through job offerings on forums by posing as non-existent Web3 companies, and then asked to complete a coding task by providing a benign GitHub repository that introduces the malicious behavior via a dependency published on npm or PyPI. It's worth noting that the latest discovery coincides with the identification of a new set of malicious npm packages as recently as this week for delivering the same malware. A list of some of the flagged packages, 

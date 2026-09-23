@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-365w-hqf6-vxfg
+Crawl4AI: Multiple Docker API Vulnerabilities - File Write, SSRF, Auth Bypass, XSS, JS Execution

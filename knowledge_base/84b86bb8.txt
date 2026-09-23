@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/
+
+Check Point warns of hackers exploiting Security Gateway VPN RCE flaw
+Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]
+Just a moment... Enable JavaScript and cookies to continue

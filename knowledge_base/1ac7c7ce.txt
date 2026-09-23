@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/
+
+New RemControl Android banking malware targets users in Europe and Canada
+A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]
+Just a moment... Enable JavaScript and cookies to continue
