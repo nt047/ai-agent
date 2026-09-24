@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/
+
+New Carbonato malware uses AI agents to hijack exposed Docker hosts
+A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]
+Just a moment... Enable JavaScript and cookies to continue

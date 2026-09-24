@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/
+
+MacSync malware uses public iCloud calendars to deliver new payloads
+A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]
+Just a moment... Enable JavaScript and cookies to continue
