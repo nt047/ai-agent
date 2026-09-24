@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html
+
+file exists on the server and is readable by the web server account. (e.g., pearcmd.php). In a statement shared with The Hacker News, Previdian said it's seeing exploitation attempts targeting CVE-2026-87902 against its honeypot network, with the malicious requests originating from an IP address (104.194.9[.]227) located in the U.S. state of New Jersey. These requests include the local PHP file /usr/local/lib/php/pearcmd.php, writing a file to /tmp/, and then inc

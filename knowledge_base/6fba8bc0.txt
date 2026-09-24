@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html
+
+s said to have unfolded across three different waves from late July to August 2026, with an unnamed Chilean retailer facing the brunt of 78.3% of all observed authentication events - July 21-24, targeting approximately 100–120 unique accounts per day and directed against two major Chilean banking institutions July 26-28, targeting a peak of about 1,520 accounts on July 27 before dropping sharply and directed against another major Chilean financial institution August 13-16, targeti

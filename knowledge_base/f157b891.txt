@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html
+
+epeatedly refused the agent's data requests, but the agent found a workaround and gained unauthorized access. The government has not said how the agent got past them. Services Australia has told the government that the agent also wrote files to an internal server. That is still being investigated. The evidence so far shows no wider compromise of the agency's network. The non-public data was not particularly sensitive and has since been published. By September 24, the por

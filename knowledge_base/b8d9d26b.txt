@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/
+
+OpenAI hacked Australian Medicare govt site, probed data providers
+OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]
+Just a moment... Enable JavaScript and cookies to continue
