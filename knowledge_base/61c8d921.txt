@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-9xm2-gw56-wj7m
+OpenShift Cluster Logging Operator missing authorization flaw

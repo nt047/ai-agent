@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html
+
+ix was scheduled, but claimed "the exclusive final right of vulnerability disclosure," and told him that even after a fix ships, researchers may not publish full technical details on their own. The company argued that European cybersecurity rules require makers to accept and fix reports but do not allow researchers to disclose them without the maker's consent. It warned that if he published without permission, OnePlus would "pursue relevant legal liabilities in accordance wit

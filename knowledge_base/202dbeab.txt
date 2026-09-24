@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/
+
+Exposed GitLab project email addresses let attackers push code
+Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]
+Just a moment... Enable JavaScript and cookies to continue

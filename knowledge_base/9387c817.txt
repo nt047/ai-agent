@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html
+
+ther malicious or legitimate-but-compromised websites display error messages, browser alerts, or CAPTCHA verification prompts, tricking users into copying and executing hidden commands via the Windows Run dialog or Terminal to "fix" the issue. Often, web pages using ClickFix rely on clipboard hijacking to automatically inject malicious script or commands into the victim's clipboard for subsequent pasting on Windows Run dialog or macOS Terminal. This approach is also sometimes referred to as
