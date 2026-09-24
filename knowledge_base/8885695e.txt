@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html
+
+17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360
+ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponsored user base, and explains why blocking malicious domains is no longer a useful defense.
+
+Read
+17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360 --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a q

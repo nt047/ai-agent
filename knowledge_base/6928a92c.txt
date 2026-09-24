@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html
+
+Malicious npm Packages That Evade Defenses
+<p>This is an impressive piece of <a href="https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/">malware</a>. Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution.</p>
+Malicious npm Packages That Evade Defenses - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog Malicious npm Packages That Evade Defenses This is an impressive piece of malware . Its sophistication says nation-state to me, but there is no direct evidence and certainly no attribution. Tags: defense , malware Posted on September 24, 2026 at 7:07 AM • 3 Comments Comments Bad .js • September 24, 2026 8:17 AM What I’m stating below is what I basically realized after reading the linked article in Bruce’s topic above, so it’s an on-topic response as we

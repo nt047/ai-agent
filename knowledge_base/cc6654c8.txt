@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html
+
+r might take to review a single pull request. The main issue isn’t that AI agents sometimes encounter secrets but that many of those secrets were never designed for an environment in which software can act autonomously. AI coding agents are contributing to secrets sprawl by hardcoding credentials into more files and spreading existing ones into more systems than security teams can track and rotate. How secrets sprawl has changed in the agentic AI era Secrets sprawl o

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html
+
+igence (AI) during the development phase, given the presence of bugs that interfere with its capabilities. In addition, the activity is said to be part of a broader campaign targeting the logistics sector using credential phishing and Windows-based malware. The malicious packages are distributed via bogus Google Play Store pages such as below - playgoogle.logisticstkwcargo[.]com playgoogle.ceva-app[.]help Both the artifacts use a hard-coded IP address ("69.55.61[.]82"

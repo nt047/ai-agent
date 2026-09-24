@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/
+
+Hackers now exploit critical Roundcube flaw in code injection attacks
+A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html
+
+ a command-and-control (C2) server for additional tasking. Some of the compromised websites include a hair-treatment clinic, a scale-model manufacturer, a specialist bookseller and publisher, a psychological facility, a tool retailer, and an automotive retailer. These affected sites include an injected iframe element that's responsible for executing attacker-controlled JavaScript ("fsputnik[.]com/tds/tracker[.]js"). The ClickFix command, for its part, retrieves an MSI instal
