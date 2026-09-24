@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/
+
+Placeholder domain used in dev docs now serves ClickFix attacks
+The "third-party.com" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]
+Just a moment... Enable JavaScript and cookies to continue
