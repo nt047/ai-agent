@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html
+
+Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data
+A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.
+
+The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got,&nbsp;according to Cloudflare. The company
+Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question

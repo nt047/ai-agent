@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html
+
+s, was affected too. The flaw was reported on September 4 by Oren Yomtov of the security firm Accomplish , through Cloudflare's bug bounty program. The problem was in how the shared disks were set up. Each container gets a disk built using a Linux feature called thin provisioning, which allocates storage in 64-kilobyte blocks. When a container was deleted, its blocks returned to a pool shared across customer accounts. That pool was set to skip wiping a block before handing it to t
