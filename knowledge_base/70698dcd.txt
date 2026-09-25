@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-43m2-hcmm-qpm7
+Jenkins Zowe zDevOps Plugin has a CSRF vulnerability

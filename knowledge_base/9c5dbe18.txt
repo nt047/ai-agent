@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-429r-3j78-2pxm
+Jenkins Assembla Plugin has a cross-site request forgery (CSRF) vulnerability

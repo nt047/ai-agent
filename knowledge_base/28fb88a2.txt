@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/
+
+Elementor WordPress flaw lets attackers create admin accounts
+A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-xx59-jv36-5r44
+Jenkins Zowe zDevOps Plugin has a missing permission check
