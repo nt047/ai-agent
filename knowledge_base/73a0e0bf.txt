@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/
+
+CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks
+The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/
+
+Microsoft plans to deprecate Windows Deployment Services
+Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html
+
+ic record traces the arc. In early 2025, Google's Threat Intelligence Group found state-backed actors treating generative AI as a productivity tool: translation, scripting help, troubleshooting, research. By late 2025, the same team was writing about malware samples that phoned a model mid-execution and about a maturing underground market for illicit AI tools, while Anthropic disclosed shutting down an extortion operation that leaned on AI 

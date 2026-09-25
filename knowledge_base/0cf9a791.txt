@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/compromised-github-actions-came-back.html
+
+e malicious content introduced on May 18, so any workflow that references either action by a version tag resumed downloading and executing the payload on its next run." The two GitHub Actions workflows were originally compromised on May 18, 2026, to run malicious code that harvested sensitive credentials from CI/CD pipelines that ran them and exfiltrated the details to an attacker-controlled server. The activity was subsequently linked to the Mini Shai-Hulud activity cluster, ci
