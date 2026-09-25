@@ -1,0 +1,10 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html
+
+On Anthropic’s AI Misuse Report
+<p>Earlier this month, Anthropic <a href="https://www-cdn.anthropic.com/e50be2e51e7695dc4b1366a37a245a597377d3b5/Anthropic-Detecting-and-countering-091026.pdf">published</a> a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully <a href="https://danielmiessler.com/blog/anthropic-misuse-report-september-2026">summarized</a> the report into 117 findings.</p>
+<blockquote><p>A few of the highlights:</p>
+<ul>
+<li>AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda production, surveillance workflows, and research while humans selected targets, set goals, and reviewed important outputs.
+<li>The report describes attackers using AI to industrialize credential theft, cloud compromise, phishing, vulnerability research, and the extraction of sensitive data from downstream organizations.
+...</li></li></ul></blockquote>
+On Anthropic's AI Misuse Report - Schneier on Security Schneier on Security Menu Blog

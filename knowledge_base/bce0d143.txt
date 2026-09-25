@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html
+
+gle-owned Mandiant and SlowMist for a third-party investigation. "Bitget Wallet operates as a self-custodial wallet on a completely separate and independent infrastructure from Bitget Exchange and was not affected by this incident," it noted . According to Bitget CEO Gracy Chen , assets impacted by the hack include ETH, XRP, BNB, AVAX, USDT, and USDC, with the chains involving Ethereum, XRP Ledger, Arbitrum, Avalanche, Optimism, BSC, and Base. "We have contacted the foun
