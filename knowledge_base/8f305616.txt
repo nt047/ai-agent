@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html
+
+ation, an administrator clicking the link creates a second administrator account for the attacker." The WordPress security company said the attack does not hinge on any prerequisite, such as JavaScript, a submitted form, or a web page under the threat actor's control. The link can even be a plain anchor tag embedded in an email, a chat message, or a comment. Following responsible disclosure, the issue has been addressed in version 4.3.2 released earlier this week. A security

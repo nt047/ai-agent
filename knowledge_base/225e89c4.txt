@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/
+
+OpenAI's AI agents accidentally uploaded user-provided images to third-party sites
+OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]
+Just a moment... Enable JavaScript and cookies to continue

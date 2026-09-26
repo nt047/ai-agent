@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html
+
+lnerability impacting SharePoint Server. The tech giant has since updated the advisory to state that it could be abused to obtain remote code execution. "As of 9/25/2026, Microsoft had reliable evidence of observed attacks against exploitation of this vulnerability," the Windows maker noted . Microsoft hasn't disclosed who was behind the exploitation efforts, when they started, how many organizations have been targeted, how many of them have been successful, and what 

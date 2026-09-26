@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html
+
+g the advisory is preventative rather than a response to a confirmed hack. The development was first reported by German news publication Heise. Kiteworks did not disclose which law enforcement agency alerted the company, or who may be behind it. The American software firm said all known vulnerabilities have been addressed in its latest software release, 9.5.1, recommending that customers apply the patches for optimal protection. Other subsidiaries of Kiteworks, including Zivver, D
