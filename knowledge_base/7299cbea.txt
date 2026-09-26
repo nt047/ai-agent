@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/
+
+Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer
+Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]
+Just a moment... Enable JavaScript and cookies to continue
