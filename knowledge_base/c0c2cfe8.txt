@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
+
+lled within the victim's browser." The infection makes use of bogus MSI installers delivered via ClickFix to trigger a series of actions, including delivering a loader dubbed LunexLoader that's designed to bypass User Account Control (UAC) on Windows using the CMSTPLUA COM object, leverage the bring your own vulnerable driver ( BYOVD ) attack for defense evasion, and finally download the stealer payload. The use of the BYOVD technique is significant, not least because it's rarely empl

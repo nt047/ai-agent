@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html
+
+Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials
+The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.
+
+The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users.
+
+"The attack chain begins with a fake CAPTCHA page and
+Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a
