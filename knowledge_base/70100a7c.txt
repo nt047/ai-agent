@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
+
+Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation
+Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration.
+
+The bulletin came a day after security firm watchTowr
+Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comme
