@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html
+
+ the bypass has existed since August 19. Citrix has not said whether appliances on the August builds, 14.1-73.32 and 13.1-63.21, or any newer builds, are affected by the new flaws. watchTowr's first post on X on September 26 said it was reacting to rumors of several unpatched NetScaler RCE vulnerabilities in the wild. "While details are scarce, the information is credible," it wrote. A follow-up post at 22:19 UTC gave the fuller account: two vulnerabilities, both remote co
