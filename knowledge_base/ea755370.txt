@@ -1,0 +1,10 @@
+المصدر: https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html
+
+CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-88771 (CVSS score: 9.5) - An improper input validation vulnerability that could allow an unauthenticated attacker to
+CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a co

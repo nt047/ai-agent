@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html
+
+r NetScaler Gateway, an option that is turned on by default on VPN virtual servers. The relevant configuration is as follows - add vpn vserver vpn1 SSL 10.0.0.0 443 -Listenpolicy NONE Both the issues have been addressed in the versions below - Citrix NetScaler ADC and Citrix NetScaler Gateway 14.1-73.37 and later releases Citrix NetScaler ADC and Citrix NetScaler Gateway 13.1-64.23 and later releases of 13.1 Citrix NetScaler ADC 14.1-FIPS 14.1-73.37 FIPS and later releases o

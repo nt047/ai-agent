@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wsbh8j/oh_look_the_foot_gun_went_off_again_citrix/
+
+Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771) - watchTowr Labs
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/dx7r__"> /u/dx7r__ </a> <br /> <span><a href="https://labs.watchtowr.com/oh-look-the-foot-gun-went-off-again-citrix-netscaler-preauth-command-injection-cve-2026-88771/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wsbh8j/oh_look_the_foot_gun_went_off_again_citrix/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can sometimes result in a block. You can re

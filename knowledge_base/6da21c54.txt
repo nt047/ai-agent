@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/
+
+80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking
+Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]
+Just a moment... Enable JavaScript and cookies to continue

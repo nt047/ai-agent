@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html
+
+rganizations Are Still Using Yesterday’s Controls AI agents create a new identity challenge, but many organizations are still managing them with controls designed for traditional service accounts. Only one in four organizations surveyed has adopted a purpose-built framework for securing AI agents. Meanwhile, 21% still rely on shared credentials or broad-permission service accounts. That makes basic questions harder to answer: Which agent has access? Who approved it? What sys

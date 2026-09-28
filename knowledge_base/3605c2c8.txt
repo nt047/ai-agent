@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html
+
+e operation through an unauthenticated Docker registry that's been publicly accessible since May 2026. The staged data has been found to include details of the botnet and a separate campaign that distributed trojanized cryptocurrency wallet apps. CARBONATO possesses worm-like capabilities in that it can spread to other hosts with unauthenticated Docker daemons. Once a host is discovered, it launches a privileged container and run commands on the underlying system. "It uses a pr

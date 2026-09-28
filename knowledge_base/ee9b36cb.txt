@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html
+
+ CVE-2026-88771 is an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands, while successful exploitation of CVE-2026-88772 could allow for remote code execution or denial-of-service. CISA said "threat actors are actively exploiting these vulnerabilities globally," urging federal agencies to apply patches by Wednesday. Five Security Leaders. One Question: What Changes When Attackers Have AI? Mikko Hyppönen, Volkan Erturk, an

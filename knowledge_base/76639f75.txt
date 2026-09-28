@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html
+
+g it as the first-ever ransomware operation run end-to-end with the help of a large language model (LLM). The agentic attack exploited a known security flaw in Langflow (CVE-2025-3248) to break in, harvested credentials, burrowed deeper into the network, encrypted Nacos service configuration files, dropped the original database tables, and left a ransom note demanding a Bitcoin payment. While the attack was found to have leveraged MySQL's built-in AES_ENCRYPT() function to perform th
