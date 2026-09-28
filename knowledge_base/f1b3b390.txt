@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html
+
+Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M
+The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday.
+
+The attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, used them to send fraudulent withdrawal commands to Bitget's wallet system.
+
+Exchanges keep most
+Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a commen

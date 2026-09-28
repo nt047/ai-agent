@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html
+
+oof transaction data and trigger its approval process. It had not said how the attacker got in. Bitget CEO Gracy Chen described the attack on Monday in a livestream, in an interview with The Block , and in comments to Cointelegraph . The flaw gave the attacker access to an internal management system. From there, the attacker inserted fraudulent withdrawal commands into wallet-related backend services, where they were treated as legitimate. On September 24, the attacker f

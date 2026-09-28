@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/
+
+Over 16,000 Supabase databases expose PII, passwords, auth tokens
+Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]
+Just a moment... Enable JavaScript and cookies to continue

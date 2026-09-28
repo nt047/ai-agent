@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html
+
+Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks
+Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.
+
+The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least
+Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback

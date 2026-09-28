@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html
+
+m-3069. It says Storm-3069 is one group that uses NeedyMantis, though it has not seen the malware itself spread through a supply chain attack. Defenders can check their networks using the file hashes, domains, file paths, and hunting queries that Microsoft published and listed below. How NeedyMantis Runs In the cases Microsoft examined, NeedyMantis arrived as a bundle of three parts: a copy of a legitimate program, a malicious DLL named after a file that program load
