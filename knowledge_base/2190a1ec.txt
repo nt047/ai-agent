@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html
+
+transient execute-after-free primitive. This allows attackers to hijack transient control flow to newly generated code at obsolete offsets, bypassing software hardening or reaching misaligned gadgets." BTR was evaluated against SpiderMonkey (the JIT engine of Mozilla Firefox), GraalVM, and the Linux kernel's cBPF JIT, all of which have been found to be affected, although with "markedly different exploitability characteristics and leakage rates." As a proof-of-c

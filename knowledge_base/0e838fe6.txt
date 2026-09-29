@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html
+
+ conference and event invitations as bait, often exchanging messages with a target before sending a malicious link. Microsoft counted at least 13 larger campaigns this year, each with tens to hundreds of emails, on top of the group's usual targeted phishing. Since March, those campaigns have used email accounts on WordPress and cPanel websites, which Microsoft is highly confident the group hacked for that purpose. Before, the group mostly used free email services such as Proton and Micros

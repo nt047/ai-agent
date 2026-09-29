@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html
+
+/baileys noxleyss @xrelly-stack/bails alipclutch-baileys kurobails eliteprotech-baileys @xayz/baileys chromestaff-baileys @sanzoffc/baileys @sairidev/baileys-new cloud-baileys @nyzzpediaa/baileys-new ishumdz-bail nishiki-bail diezyclutch-baileys oktz-baileys my-auto-follow Details of the activity first emerged in August 2026, when SafeDep said it identified a set of Baileys npm forks that were found to engage in malicious behaviors, such as stealthily making the installer's W

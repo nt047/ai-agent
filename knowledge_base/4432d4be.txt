@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html
+
+ts and passwords were not compromised. For individuals, the data that may have been viewed or copied includes their tax ID, contact details, family situation, reference taxable income and tax withholding rate, plus a list of the messages they exchanged with the DGFIP. For fewer than 250 people, the messages themselves may also have been taken. For businesses, it covers the company name, SIREN registration number, address and basic details of their messages. For fewer than 2,0
