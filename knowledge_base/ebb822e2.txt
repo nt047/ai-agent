@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/
+
+Signal adds encypted local backup support to iOS, desktop apps
+Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]
+Just a moment... Enable JavaScript and cookies to continue

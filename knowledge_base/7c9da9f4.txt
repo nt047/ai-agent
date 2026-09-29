@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/
+
+Custom ChatGPTs push ClickFix attacks to deploy RAT malware
+Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]
+Just a moment... Enable JavaScript and cookies to continue
