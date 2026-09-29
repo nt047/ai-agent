@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wsvytq/i_flooded_a_legal_contract_with_lookalike_letters/
+
+I flooded a legal contract with lookalike letters and gave it to seven GPT and Claude models. None were fooled, but it took up to 5.7x the tokens to read, and the bill for each question rose by up to 3.9x. 'Denial of Spend'
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/paultendo"> /u/paultendo </a> <br /> <span><a href="https://paultendo.github.io/posts/denial-of-spend-gpt-6-claude-fable/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wsvytq/i_flooded_a_legal_contract_with_lookalike_letters/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try chang
