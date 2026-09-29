@@ -1,0 +1,8 @@
+المصدر: https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html
+
+Using Device Linking to Eavesdrop on WhatsApp and Signal
+<p>Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are <a href="https://cybernews.com/privacy/police-telegram-whatsapp-signal-surveillance-linked-devices/">taking advantage</a> of this capability:</p>
+<blockquote><p>Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop computers.</p>
+<p>Germany&#8217;s Customs Office has been using these features to connect a police-controlled computer to a suspect&#8217;s account.</p>
+<p>Once connected, messages can be delivered to that computer without the police having to crack the encryption protecting them.</p>
+<p><a href="https://netzpolitik.org/2026/messenger-ueberwachung-immer-mehr-polizei-ueberwacht-messenger-wie-whatsapp/#2026-02-20_ZKA_Messenger-Ueberwachung">Netzpoltik details</a> that police are able to gain access in this way either through physical access t

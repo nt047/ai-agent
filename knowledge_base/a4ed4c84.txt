@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/
+
+Kiteworks patches critical flaw, brings customer systems online
+American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]
+Just a moment... Enable JavaScript and cookies to continue

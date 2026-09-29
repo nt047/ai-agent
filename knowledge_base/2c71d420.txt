@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/
+
+Apple patches CoreGraphics zero-day flaw exploited in attacks
+Apple released security updates to fix a zero-day vulnerability exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]
+Just a moment... Enable JavaScript and cookies to continue

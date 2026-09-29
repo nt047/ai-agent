@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html
+
+blocking controls at two independent layers to prevent this access in the first place. It also said its misalignment monitoring system detected the behavior within 15 minutes and it was acknowledged by a human reviewer three minutes later. The entire run is said to have been killed after 2.5 hours. "All training, evaluation, and inference with tool-use (defined broadly) of our most capable models remain paused," the company added. The incident, which took place on September
