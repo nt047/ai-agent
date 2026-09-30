@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html
+
+an unhandled termination of the NetScaler Packet Processing Engine (NSPPE) to establish initial root-level access," the tech giant said . The attacks have been observed weaponizing the flaw to deploy a post-exploitation toolkit that includes previously unreported PHP web shells, like WHIPSHOT, that are capable of disguising Base64-encoded command-and-control (C2) payloads within native HTTP headers. Also put to use is a novel companion Python tunneler dubbed SLAPSHOT desi

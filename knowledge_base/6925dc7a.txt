@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html
+
+y affected too. In one case, a developer at a manufacturer with more than 100,000 employees asked an agent to check a fix to an internal billing screen. The agent created a public repository in the developer's personal GitHub account and posted the screenshots there. The images showed billing records for a utility company. Because the agent ran on the employee's laptop and the repository sat outside the company's GitHub organization, the company's security team did not spot them. 

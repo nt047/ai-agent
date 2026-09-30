@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html
+
+ny attacks exploiting the flaw. DTLS is used, for example, to protect WebRTC data channels and to set up encryption keys for internet calls. Software is exposed to this flaw only if it uses OpenSSL for DTLS. DTLS splits a large handshake message into fragments that each fit in one UDP datagram. If the connection cannot accept more data for the moment, sending can pause part-way through a message and continue later. While sending is paused, the resend timer can still fi

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html
+
+ated phishing to effectively zero. At the same time, phishing delivery has moved well beyond email — attackers deliver links over instant messaging, social media, SMS, malicious ads, and in-app messaging. According to Push data, roughly 1 in every 2 phishing attacks is delivered outside of email entirely. And with 89% of phishing domains active for fewer than two days, organizations relying on blocklists are playing a losing game. 2. Malicious cop

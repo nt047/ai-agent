@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/
+
+Microsoft to block Entra ID script injection attacks starting October
+Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]
+Just a moment... Enable JavaScript and cookies to continue

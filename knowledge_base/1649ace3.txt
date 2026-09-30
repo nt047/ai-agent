@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html
+
+yzed inside ANY.RUN’s Interactive Sandbox From there, the operation can move in two directions. One path delivers installers, archives, or lightweight BAT/VBS droppers that install legitimate management tools such as ScreenConnect or Action1, giving attackers remote access to the endpoint. The other path targets identity. Victims can be pushed into credential-harvesting or device-code phishing flows designed to capture Microsoft 365 access and active sessions. In one ANY.RUN sandbox session,

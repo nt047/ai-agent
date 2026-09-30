@@ -1,0 +1,3 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wtnidr/microsoft_copilot_cowork_exfiltrates_files/
+
+to discuss easier ways to get the data you want, please file a ticket here . When contacting us, please include your Reddit account along with the following code: 01a0f2b4-dba3-7348-836f-69de5e6d7906

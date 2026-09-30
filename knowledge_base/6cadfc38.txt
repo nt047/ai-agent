@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/
+
+TeamViewer urges users to patch severe flaws “as soon as possible”
+Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]
+Just a moment... Enable JavaScript and cookies to continue
