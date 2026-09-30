@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html
+
+rs exposed to the internet are at risk of compromise, according to Cisco. By default, the admin user holds the netadmin role, which is allowed to perform all operations on the device. Cisco said its Product Security Incident Response Team "became aware of active exploitation of this vulnerability" in September 2026. The flaw was found while Cisco's Technical Assistance Center (TAC) was handling a support case. The advisory does not say how many customers were attacked, when the 

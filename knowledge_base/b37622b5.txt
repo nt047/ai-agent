@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html
+
+ame at the top. "In the incidents we saw, victims interacted with an attacker-created Custom GPT, which was programmed to respond to their prompts with a message that included a Google Sites link," Huntress said. "This link then brought them to a ClickFix-style attack, which led to the download and execution of a malicious MSI installer." The installer then initiates a DLL sideloading chain responsible for loading shellcode, which is used to launch a persiste

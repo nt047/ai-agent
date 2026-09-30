@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/
+
+Cisco warns of new SD-WAN zero-day exploited in attacks
+Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]
+Just a moment... Enable JavaScript and cookies to continue

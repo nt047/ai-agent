@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/
+
+Over 543,000 valid credentials exposed in public GitHub repositories
+More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]
+Just a moment... Enable JavaScript and cookies to continue

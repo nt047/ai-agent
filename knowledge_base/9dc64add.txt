@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html
+
+mation collection and credential-access operations. The activity has not been attributed to any known threat actor or group. The multi-stage intrusion chain, which the Windows maker detected in July 2026, begins with phishing emails distributing a digitally signed MSP360 RMM v2.5.0.67 installer under deceptive names such as below - VIP_ECARD_INVITATION_rmm_v2.5.0.67_oid[redacted].exe ZoomSetup_Installation_v2.5.0.67_ oid[redacted].exe PDF Reader & Editor the Adobe

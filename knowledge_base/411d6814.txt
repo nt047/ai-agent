@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html
+
+wing successful exploitation, observed activity included deployment of JSP web shells and reverse shells, privilege escalation, persistent remote-access tooling, and memory-backed execution," the tech giant said . "Threat actors also accessed email and collected authentication and mailbox data, with archive creation and subsequent transfer activity observed." Microsoft said it observed affected organizations in more than one region and industry, although not every host exhibited 
