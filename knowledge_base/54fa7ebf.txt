@@ -1,0 +1,3 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wtn3cv/critical_rce_alert_full_takeover_of_hashicorp/
+
+, please include your Reddit account along with the following code: 01a0f144-8bf5-79fa-8baf-cbbf7ee1c512
