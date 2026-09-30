@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/
+
+Russian state hackers use new RedFlick technique to push malware
+The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed "RedFlick" to deploy its signature CosmicPulse backdoor. [...]
+Just a moment... Enable JavaScript and cookies to continue
