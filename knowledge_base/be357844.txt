@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/
+
+The Day-One Hole in Zero Trust Architecture
+Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]
+Just a moment... Enable JavaScript and cookies to continue

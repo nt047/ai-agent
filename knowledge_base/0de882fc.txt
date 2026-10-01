@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wv1dei/how_to_spot_a_compromised_mikrotik_router/
+
+How to Spot a Compromised MikroTik Router
+<!-- SC_OFF --><div class="md"><p>A blue-team writeup on detecting a compromised MikroTik from its own config. Seven techniques, each with the collection command, the artifact it leaves behind, and a triage step. Feedback welcome.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/ifritnoises"> /u/ifritnoises </a> <br /> <span><a href="https://ifritnoises.org/articles/the-lucifer/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wv1dei/how_to_spot_a_compromised_mikrotik_router/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're suppl

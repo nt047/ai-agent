@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html
+
+e set from the database or from a shared-memory segment. The result is a circular system with no single point you can remove to stop it." According to Sucuri, the malware does not have any readable function names, instead employing a decoder to unscramble the code using a substitution cipher. A summary of the eight components is as follows - .user.ini, which sets " auto_prepend_file " to run a loader before every PHP request in that directory tree. wp-content/c1b12

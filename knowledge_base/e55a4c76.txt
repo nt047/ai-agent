@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/how-financial-services-companies-can.html
+
+ery dependency bump, every base image swap, every migration is a chance to break something that clears trades or moves money. So the instinct to stick to the status quo has been sound. The problem is that the instinct is now being applied to the wrong problem. Having a vulnerability backlog is no longer “fine” For years, accepting a backlog of known vulnerabilities has been a common tradeoff financial services organizations made for stability. The vulnerabilities we

@@ -1,0 +1,7 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html
+
+Connected Cars Are a Surveillance Platform
+<p>Researchers at Northeastern University, in collaboration with <i>Consumer Reports</i>, <a href="https://www.consumerreports.org/electronics/personal-information/your-car-is-sharing-data-with-big-tech-companies-study-finds-a4474820962/">evaluated</a> how much modern cars spy in their drivers:</p>
+<blockquote><p>The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphoned from our vehicles and which companies are receiving that information. </p></blockquote>
+<p>Basically, your car&#8217;s manufacturer has you under constant surveillance, and they use that data against you.</p>
+<blockquote><p>The companies on the receiving end of your data, our investigation has found, include car insurers and lenders that are partners in &#8220;telematics data exchanges,&#8221; which compile driving data

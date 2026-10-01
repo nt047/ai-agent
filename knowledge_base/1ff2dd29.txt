@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html
+
+ terms of service." The activity is said to have begun on July 1, 2026, initially at a low volume before it spiked on July 24 and 25, 2026, to 16,000 attempted requests using a relevant extraction pattern from over 4,000 users. Upon further investigation, the company said it identified related "prompt-pattern activity" across more than 15,000 users. The campaign was fully disrupted on July 28, 2026. The AI upstart characterized the activity as adversarial distillat
