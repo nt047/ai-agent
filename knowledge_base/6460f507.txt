@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-78383
+Apache Tomcat: AJP DoS via missing request body

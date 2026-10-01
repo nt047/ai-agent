@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html
+
+ts Known Exploited Vulnerabilities catalog the following day, requiring federal agencies to apply the fix by October 2. Apple has not listed iOS 27 or macOS Golden Gate 27 as affected in the September 28 advisories. No workaround has been described for systems that cannot update immediately. What the Researchers Found The analysis was published September 30 by Dion Blazakis, Josh Maine, and Anna Groza of Calif , a firm known for research into zero-click attack surfaces in m

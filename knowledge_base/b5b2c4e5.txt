@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-77791
+Apache Tomcat: DoS via busy wait during WebSocket close

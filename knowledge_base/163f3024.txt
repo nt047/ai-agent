@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html
+
+solution for Ethereum, said MetaMask has taken steps to protect client assets related to its operated Ethereum validators. "These steps include exiting its Ethereum (ETH) validators in the Lido protocol, and will likely incur foregone rewards as well as possible downtime penalties should validators be taken offline in the near future to reduce risks related to potential network penalties," it said . "Relevant validators have begun the exit process, with the final va

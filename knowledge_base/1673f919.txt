@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-86248
+Apache Tomcat: Fix for CVE-2026-34500 was incomplete. OCSP checks sometimes soft-fail with FFM even when soft-fail is disabled

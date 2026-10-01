@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-rabbitmq-2026-67421
+RabbitMQ: Stored HTML Injection in RabbitMQ Management OAuth Error Handling

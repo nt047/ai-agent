@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-75973
+Apache Tomcat: Cross-context authentication mix-up with Jakarta Authentication configured

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-77756
+Apache Tomcat: Transfer-Encoding honored for HTTP/1.0 requests

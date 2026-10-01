@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-79677
+Apache Tomcat: WebSocket DoS due to lost asynchronous write timeout

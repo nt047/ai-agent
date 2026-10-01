@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-86350
+Apache Tomcat: Regression in fix for CVE-2026-41293 can trigger request header mix-up

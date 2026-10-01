@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-76183
+Apache Tomcat: Bypass of security constraints for WebSocket endpoints

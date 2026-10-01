@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-77762
+Apache Tomcat: Stale HPACK emitter injects trailers into recycled pooled Request

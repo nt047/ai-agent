@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html
+
+Intents. In a subsequent analysis , Bitget said the attackers exploited the flaw to obtain high-level internal credentials and use them to issue fraudulent withdrawal commands to the wallet system and initiate "abnormal transfers that bypassed existing risk controls." Bitget has since notified the relevant third-party vendor and disabled the affected functionality pending completion of a fix. The incident impacted 11 blockchains, including Ethereum, XRP Ledger, Zcash, TRON, 

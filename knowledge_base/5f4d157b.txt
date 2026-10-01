@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html
+
+utch National Cyber Security Centre (NCSC-NL) reportedly sent a pre-notification to organizations in the Netherlands that urged organizations to shut their appliances down, citing active exploitation. As of writing, there are currently no details about who is behind these efforts. "One of the most consistent characteristics across the identified events was attacker-controlled authentication data containing variations of the pitboss and NSPPE strings associated with exploitation of CVE

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/
+
+Metamask discloses security incident affecting its infrastructure
+On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]
+Just a moment... Enable JavaScript and cookies to continue

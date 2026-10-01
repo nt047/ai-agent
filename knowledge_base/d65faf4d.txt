@@ -1,0 +1,3 @@
+المصدر: CVE Database
+
+CVE: BIT-wordpress-2026-87902

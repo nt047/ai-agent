@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-73581
+Apache Tomcat: OpenSSL and OpenSSL-FFM TLS implementations ignore CRLs when certificate uses a keystore

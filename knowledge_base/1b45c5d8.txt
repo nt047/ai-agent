@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BIT-tomcat-2026-78437
+Apache Tomcat: HTTP/2 DoS via malformed request
