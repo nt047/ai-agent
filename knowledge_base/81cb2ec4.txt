@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/
+
+Microsoft says threat actors are ahead in the early AI race
+Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]
+Just a moment... Enable JavaScript and cookies to continue
