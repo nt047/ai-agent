@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html
+
+ive technology," Google said Thursday. The Android AccessibilityService API is a powerful framework that allows an application to run in the background, intercept user interface events, and interact with other applications on the user's behalf. Although its primary purpose is to assist users with disabilities, such as through screen readers or voice control systems, its privileged access has been abused by banking trojans and spyware to extract sensitive data and perform malicious actio

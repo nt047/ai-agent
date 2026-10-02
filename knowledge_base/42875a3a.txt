@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html
+
+s article walks through why traditional reporting fails and what a better model looks like. Boards Have Stopped Trusting Activity Metrics For years, security reporting has run on counts. Vulnerabilities found. Patches applied. Alerts closed. Phishing simulations passed. These numbers measure effort. They don't measure risk. A board member hearing that the team closed thousands of findings last quarter has no way to judge whether the company is safer. The obvious follow-up, "safer from

@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wvs9ea/azures_weakest_link_five_full_crosstenant/
+
+Azure's Weakest Link - Five Full Cross-Tenant Compromises
+<!-- SC_OFF --><div class="md"><p>API Connections allow anyone to fully compromise any other connection worldwide, giving full access to the connected backend. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/piraterapper"> /u/piraterapper </a> <br /> <span><a href="https://binsec.no/posts/2026/10/one-root-case">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1wvs9ea/azures_weakest_link_five_full_crosstenant/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing ba

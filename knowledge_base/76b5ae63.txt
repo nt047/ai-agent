@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html
+
+ pace of artificial intelligence (AI) development. It's said that the individuals shared confidential information with a third-party AI-safety organization. The name of the organization was not disclosed. According to Bloomberg , the mishandled information pertained to OpenAI's infrastructure architecture. The departures follow a report from The New York Times that OpenAI had brushed aside employees' warnings about its safety practices when testing AI models, describing a 
