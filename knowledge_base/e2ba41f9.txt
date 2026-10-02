@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html
+
+Unidentified Flock Cameras in Florida
+<p>St. Lucie County in Florida <a href="https://www.washingtonpost.com/nation/2026/10/01/florida-county-discovers-mysterious-flock-cameras-with-no-obvious-owner/">discovered</a> (<a href="https://archive.is/c5utX">alt link</a>) a dozen Flock cameras whose ownership it can&#8217;t identify, and that the county government had not permitted.</p>
+<p>I am reminded of the decade-old <a href="https://www.washingtonpost.com/world/national-security/dhs-says-it-has-detected-possible-cellphone-surveillance-in-dc--and-doesnt-know-whos-doing-it/2018/04/03/f69fbe36-3785-11e8-acd5-35eac230e514_story.html">story</a> of StingRay cell phone surveillance devices in Washington, DC, whose operators were also unknown.</p>
+<p>My guess is that in the StingRay case, the devices were operated by foreign actors. This Flock case is more likely some local government entity that didn&#8217;t bother getting approval. Were I a foreign actor, I would rather hack the existing Flock

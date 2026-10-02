@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/
+
+Warlock ransomware breach SharePoint in water, telecom operator attacks
+The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]
+Just a moment... Enable JavaScript and cookies to continue

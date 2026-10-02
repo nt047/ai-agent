@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html
+
+pports host reconnaissance, shell and PowerShell execution, file transfer, in-memory shellcode loading and persistence," security researcher Ashley Shen said . "Its native command-and-control channel operates exclusively through Microsoft 365, using Microsoft Graph to interact with Outlook and OneDrive." UAT-11587 is assessed to share some level of overlap with Jewelbug, which, in turn, exhibits tactical similarities with China-aligned clusters known as CL-STA-0049, Earth Alu

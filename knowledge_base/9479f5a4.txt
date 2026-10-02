@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html
+
+Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign
+Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.
+
+The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously undocumented backdoor codenamed Antino. Cisco Talos is tracking the cluster
+Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave 

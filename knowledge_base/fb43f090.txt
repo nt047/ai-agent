@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html
+
+f-managed customers can instead host their own gateway , an option GitLab offers for keeping AI request and response data inside the customer's own environment. GitLab strongly recommends that those customers update immediately. It sent that guidance to customers with self-hosted gateways before it published the advisory. The advisory does not say whether the flaw has been used in attacks. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an assessment to the CVE rec

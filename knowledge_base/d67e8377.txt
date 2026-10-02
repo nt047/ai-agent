@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html
+
+e-level privileges. CVE-2026-67269 (CVSS score: 9.9) - An improper privilege management vulnerability in the ContainerStorageModule Custom Resource reconciler that a low-privilege remote attacker could exploit to escalate privileges and gain root-level access on cluster nodes. CVE-2026-54472 (CVSS score: 9.8) - A use of hard-coded credentials vulnerability in the CSM Authorization module that a remote unauthenticated attacker could exploit to forge cryptographi
