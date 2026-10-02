@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-2hw9-mc66-jc2q
+Wasmtime: Preemption and traps during bulk operations enable breaking internal VM state

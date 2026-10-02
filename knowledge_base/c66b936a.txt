@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-4p9m-8gc4-rw2h
+GoBGP vulnerable to a denial of service via the NEXT_HOP path attribute

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-jxrp-r7gx-q4j8
+Duplicate Advisory: DOMPurify: `CUSTOM_ELEMENT_HANDLING` bypasses `afterSanitizeElements` for allowed custom elements.

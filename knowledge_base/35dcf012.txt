@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-5rmq-chc7-m22f
+Vibe-Trading file-read tools expose arbitrary server-readable files

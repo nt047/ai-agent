@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-379c-qx7v-6h59
+Hugging Face Datasets folder-based builders allow path traversal through file_name metadata

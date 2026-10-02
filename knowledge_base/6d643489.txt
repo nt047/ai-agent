@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-8ffr-xgwf-xj56
+aws-smithy-json: Uncontrolled recursion in the aws-smithy-json unknown-key skip path allows unauthenticated remote denial of service in smithy-rs generated servers

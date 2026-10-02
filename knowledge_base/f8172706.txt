@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-fj2x-mqqp-3v2w
+Trigger.dev: Trigger CLI debug deployment logs expose resolved environment secret values

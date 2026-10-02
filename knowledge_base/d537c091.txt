@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-4h8q-hh2j-755w
+BlenderMCP path traversal in download_polyhaven_asset allows arbitrary file writes

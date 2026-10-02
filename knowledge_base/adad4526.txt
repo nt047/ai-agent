@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-v2f8-6655-7grj
+Vibe-Trading FastAPI endpoints permit unauthenticated access, file upload, and an RCE chain

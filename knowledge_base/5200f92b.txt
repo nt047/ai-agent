@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-x8p6-569w-fmmr
+Duplicate Advisory: SiYuan: Cross-Site WebSocket Hijacking on the admin-only network proxy endpoint (`/ws/network/proxy`) via explicit `CheckOrigin: true` bypass

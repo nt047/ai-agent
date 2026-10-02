@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-pqxw-g93w-hj9x
+Trigger.dev Self-Hosted Deployment: Default Secrets allow Unauthenticated Infrastructure Compromise

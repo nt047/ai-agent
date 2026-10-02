@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-4v8g-86x5-3vrc
+Apache OpenNLP DictionaryEntryPersistor Vulnerable to XML External Entity (XXE) via Unsanitized Dictionary Parsing

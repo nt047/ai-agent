@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-9q4r-4842-93vw
+Trigger.dev: Cross-tenant SQL injection in the TSQL query compiler (POST /api/v1/query) via unsanitized window-function name

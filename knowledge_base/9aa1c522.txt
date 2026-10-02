@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-3cc2-h3v6-rqpq
+SiYuan: Cross-Site WebSocket Hijacking on the admin-only network proxy endpoint (`/ws/network/proxy`) via explicit `CheckOrigin: true` bypass

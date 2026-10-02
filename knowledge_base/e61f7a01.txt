@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-4672-hwv6-gq62
+Trigger.dev: Cross-environment deployment cancel
