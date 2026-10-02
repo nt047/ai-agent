@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/
+
+Fortinet warns of critical FortiMail flaw exploited in zero-day attacks
+Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]
+Just a moment... Enable JavaScript and cookies to continue
