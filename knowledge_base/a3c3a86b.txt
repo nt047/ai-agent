@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html
+
+ock, also tracked as Gold Salem, Longlegs, and Storm-2603, gained prominence in mid-2025 in connection with the zero-day exploitation of the "ToolShell" SharePoint flaws to deploy ransomware on targeted systems. Earlier this year, the group was linked to the compromise of SmarterTools by exploiting an unpatched SmarterMail instance. It has also relied on legitimate tools like Velociraptor for command-and-control (C2) and the bring your own vulnerable driver (BYOVD) techniq
