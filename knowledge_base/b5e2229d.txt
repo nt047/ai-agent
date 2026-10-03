@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RUSTSEC-2026-0223
+Preemption and traps during bulk operations enable breaking internal VM state

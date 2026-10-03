@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RUSTSEC-2026-0328
+`decompress`: tar-family extractors write archive entries without a path-traversal check (tar-slip)
