@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/cybersecurity/comments/1wxhjaw/what_kinda_logging_is_recommended_for_palo_alto/
+
+What kinda logging is recommended for palo alto. The start type or the end type where the log is generated at the end of the session.
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/HearingLast1637"> /u/HearingLast1637 </a> <br /> <span><a href="https://www.reddit.com/r/cybersecurity/comments/1wxhjaw/what_kinda_logging_is_recommended_for_palo_alto/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/cybersecurity/comments/1wxhjaw/what_kinda_logging_is_recommended_for_palo_alto/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can someti
