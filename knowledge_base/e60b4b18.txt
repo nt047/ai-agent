@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:72785
+Important: ruby security update

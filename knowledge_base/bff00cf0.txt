@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html
+
+port controls involving the U.S. and China," Proofpoint said in an analysis published this week. The enterprise security company has described TA419 as a China-aligned and espionage-motivated threat actor that has a track record of orchestrating credential phishing campaigns against individuals working for U.S.- and Japan-based think tanks, defense contractors, universities, and law firms since at least April 2025. Around July 2026, the threat actor is said to have imperso

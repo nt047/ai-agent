@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:73765
+Important: dogtag-pki security update

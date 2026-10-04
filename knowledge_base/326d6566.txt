@@ -1,0 +1,3 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1wwdm2f/a_peek_into_reddits_antispam_internals/
+
+e data you want, please file a ticket here . When contacting us, please include your Reddit account along with the following code: 01a106fe-01f6-7bc1-b2c8-5e5ccc34bf24

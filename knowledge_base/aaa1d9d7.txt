@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:73427
+Important: gdb security update
