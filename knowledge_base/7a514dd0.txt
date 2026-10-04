@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BREW-conda-lock-CVE-2026-102930
+virtualenv: Downloaded seed wheels (pip/setuptools) are not integrity-checked before use

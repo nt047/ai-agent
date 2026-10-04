@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BREW-virtualfish-CVE-2026-102930
+virtualenv: Downloaded seed wheels (pip/setuptools) are not integrity-checked before use

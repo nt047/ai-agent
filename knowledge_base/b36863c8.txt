@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BREW-virtualfish-CVE-2026-102938
+virtualenv writes prompt values into pyvenv.cfg without sanitizing line boundaries, allowing configuration injection
