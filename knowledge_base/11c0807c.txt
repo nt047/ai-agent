@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/
+
+Google halts open-source bug bounty program amid AI spam surge
+Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]
+Just a moment... Enable JavaScript and cookies to continue

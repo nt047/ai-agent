@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html
+
+he signing key, and forge a valid administrator session cookie, leading to full administrative access and remote code execution via the server_code configuration feature." Horizon3.ai researcher Zach Hanley, in a post published on September 30, 2026, said Anthropic's Mythos model was used to discover the vulnerability, describing it as an authentication bypass that facilitates arbitrary remote code execution on Rejetto HFS. "Rejetto HFS's administrative API allows for c
