@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/
+
+How to secure RMM software: 8 controls MSPs should test
+RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]
+Just a moment... Enable JavaScript and cookies to continue

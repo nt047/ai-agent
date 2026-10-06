@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html
+
+ent release, 4.1.16, is affected, and the project says a fix is expected in version 4.1.17, which is still being tested. Until then, Apache OpenOffice users can block the attack by turning off Java in the program's settings, or by not opening spreadsheets they do not trust. The attack combines features that each work as intended on their own. A LibreOffice or Apache OpenOffice Calc spreadsheet can hold a "database range", a block of cells that pulls in data from an outside source and r

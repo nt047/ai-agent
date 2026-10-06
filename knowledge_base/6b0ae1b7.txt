@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html
+
+n't perfect: researchers slipped malware past it . But it existed. MCP marketplaces have no equivalent. Anyone can write a server, push it, and publish it. Even a review wouldn't close the gap. At RSAC and OWASP last year, we presented "In GitHub We Trust: 10 Ways You Can Get Pwned," on how developers over-trust what they see in a repository. MCP repeats that mistake. Remote MCP servers can run backend code that differs entirely from what their public repository 

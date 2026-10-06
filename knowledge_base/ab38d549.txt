@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/
+
+Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes
+A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]
+Just a moment... Enable JavaScript and cookies to continue

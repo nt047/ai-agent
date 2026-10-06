@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html
+
+ram (OSS VRP), now carry a notice of the stop. It commits Google to an update in the first quarter of 2027 while it reworks this part of the program. Neither the post nor the notice gives a date for accepting product vulnerability reports again. Under the rules, a product vulnerability is a design or implementation flaw in Google's open source software. It must substantially affect the confidentiality or integrity of user data in software built with that code. Examples include me

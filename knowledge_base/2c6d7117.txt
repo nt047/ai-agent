@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html
+
+internet and cover up evidence of their exploits. To that end, Wikimedia said it identified edits to Wikimedia wikis suspected to be from agents operated by OpenAI. The agents are said to have been testing edits in " sandbox " areas of the wiki and were not published to pages that can be accessed by general readers. Among the edits included were changes to the configuration for a citation tool. These modifications are believed to be malicious in nature, with the intention being to m

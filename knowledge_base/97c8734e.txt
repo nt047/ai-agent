@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html
+
+Possible Vulnerability in Apple’s Automatic Reboot
+<p>404Media is <a href="https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/">reporting</a> (alternate <a href="https://archive.ph/4qncQ">link</a>) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn&#8217;t been used for 72 hours.</p>
+<blockquote><p>The new technology to get around inactivity reboot was developed by Magnet Forensics, the company behind GrayKey, a popular tool sold to law enforcement agencies that <a href="https://www.404media.co/leaked-documents-show-what-phones-secretive-tech-graykey-can-unlock-2/">allows them to unlock and access data stored in iPhones and Android smartphones</a>. Magnet has developed a new device called GrayKey Preserve and a feature for its regular GrayKey devices called Evidence Preservation Mode, accordin
