@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html
+
+ed trusted origins such as accounts.google.com or an Okta tenant, while the real browser remained on the phishing domain." "Behind the interface, the platform kept every password attempt, fingerprinted the device, and let an operator pick which MFA challenge the victim saw next." One of the websites in question is "museads.ai," which emerged on September 16, 2026, a little over a week after Meta launched Muse , its AI agent designed for personal workflows. Described as

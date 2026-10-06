@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html
+
+e environments in South Korea and Taiwan. According to vendor Jiran Group, SpamSniper is advertised as "Korea's leading email security solution" that defends organizations against spam, malware, and server attacks. The malicious artifacts include a new BPFDoor variant and a BPF Rekoobe build used against South Korean targets, and a previously unreported Linux implant dubbed AVERAT that's delivered via a dropper and deployed against Taiwanese appliances. "The BPFDoor variants seen a
