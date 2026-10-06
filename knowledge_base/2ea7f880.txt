@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html
+
+Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes
+Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.
+
+The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system.
+
+"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a
+Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/

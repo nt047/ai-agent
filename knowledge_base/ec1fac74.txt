@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html
+
+ke Mail, Messages, Safari, and Time Machine backups. Once the setting is enabled for an application, it allows that program to bypass certain security restrictions and read and write to system files that apps are typically restricted from accessing or modifying. This option is essential for apps, such as security tools and backup software, that require deep system access to function properly. Stating that Full Disk Access largely bypasses controls designed to safeguard

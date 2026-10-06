@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html
+
+xchange Online to address the issue. As a result, Exchange Online customers are not required to take any action. Users of affected on-premises Microsoft Exchange Server products are advised to install the updates to stay protected. The following versions are impacted - Microsoft Exchange Server Subscription Edition RTM Microsoft Exchange Server 2016 Cumulative Update 23 Microsoft Exchange Server 2019 Cumulative Update 15 Microsoft Exchange Server 2019 Cumulative Updat

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html
+
+round September 5, 2026, with a subset of the activity delivering Cling. An analysis of the malware sample has found it to embed exploit logic for various command injection and RCE vulnerabilities impacting routers and DVRs from multiple vendors - Realtek SDK RCE ( CVE-2014-8361 ) Eir D1000 router RCE ( CVE-2016-10372 ) MVPower CCTV DVR RCE ( CVE-2016-20016 ) LB-LINK routers RCE ( CVE-2023-26801 ) FiberHome SR1041F router / China Mobile HG6543C4 RCE ( CVE-2023-41011 )

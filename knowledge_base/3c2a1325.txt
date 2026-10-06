@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html
+
+ zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. "CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to denial-of-service under specific deployment conditions," Citrix said. "The issue affects customer-managed NetScaler deployments running affected supported versions when the required preconditions are met." Successful exploitation requires NetScaler ADC or NetScaler Gatew

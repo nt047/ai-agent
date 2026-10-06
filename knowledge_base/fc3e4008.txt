@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/
+
+IQVIA fined $7.8 million for failing to properly anonymize health data
+Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]
+Just a moment... Enable JavaScript and cookies to continue

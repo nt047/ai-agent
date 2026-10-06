@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html
+
+ 2026 reporting year. GitHub's own engineering team has gone further in its capacity planning, saying it moved from preparing for 10x scale to designing for a future that requires 30x today's scale as agentic development accelerated. All of this code prodiction means more infrastructure and more secrets. More applications, new types of integrations, automations, and now agents, mean more systems need to authenticate to something else. Credential exposure has already 
