@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/
+
+Engineer sentenced for locking over 3,000 devices on employer network
+A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]
+Just a moment... Enable JavaScript and cookies to continue

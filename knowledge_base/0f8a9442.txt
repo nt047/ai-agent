@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html
+
+e third-party organization was not disclosed by the FBI, Reuters reported that it's Oracle PeopleSoft, which the ShinyHunters group said it exploited to breach the FBI's job portal last month. According to a report from Google-owned Mandiant, ShinyHunters is assessed to be exploiting a bypass for CVE-2026-35273 by using a URL-encoding trick to get around a web application firewall (WAF) rule designed to block the vulnerable Environment Management Hub (PSEMHUB) endpoint. The

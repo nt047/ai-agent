@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html
+
+Another Historic Cipher Falls to AI
+<p><a href="https://carter.church/writeups/the-letter-to-marmont/#war">This one</a> is from 1809, written by Napoleon&#8217;s nephew.</p>
+Another Historic Cipher Falls to AI - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog Another Historic Cipher Falls to AI This one is from 1809, written by Napoleon’s nephew. Tags: AI , cryptography , history of cryptography Posted on October 5, 2026 at 7:04 AM • 3 Comments Comments KC • October 5, 2026 9:40 AM The announcement thread on x. https://x.com/CarterWChurch/status/2105167567706816690 It is interesting that this recovery was just a time problem. See the write-up’s section 10: “A patient specialist could have done this in 1970 … “ Jammy • October 5, 2026 10:00 AM What happens now? Clive Robonson • October 5, 2026 10:27 AM @ Bruce, ALL, We talk about security by obscurity But not 

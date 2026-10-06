@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html
+
+any action. Atlassian advises customers who cannot upgrade all at once to take the instance offline if possible. Any instance reachable from the public internet, including one that requires a login, should be restricted from outside network access until it is upgraded or a temporary blocking rule is in place. Affected Products and Fixed Versions The flaw affects all versions of the 8 products before the fixed versions listed below. That may include versions that have reached end o

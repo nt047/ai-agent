@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html
+
+n + R, truncates any input that exceeds approximately 260 characters. In the attack chain observed by Microsoft, the staged payload is a Visual Basic Script (VBScript), which then invokes "cmd.exe" to recursively enumerate files whose names start with "f_" in the browser's profile folder such as "%LOCALAPPDATA%\Mozilla\Firefox\Profiles." "It compares each file's byte length with an expected value," Microsoft explained. "Rather than searching for a marker within the cont
