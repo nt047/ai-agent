@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html
+
+Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details
+Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.
+
+The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software
+Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a qu

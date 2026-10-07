@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/
+
+Hackers exploit critical Atlassian flaw after public PoC release
+A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]
+Just a moment... Enable JavaScript and cookies to continue

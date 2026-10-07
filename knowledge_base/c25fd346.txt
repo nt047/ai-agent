@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/
+
+SonicWall warns of max severity SSRF flaw in SMA1000 gateways
+SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]
+Just a moment... Enable JavaScript and cookies to continue

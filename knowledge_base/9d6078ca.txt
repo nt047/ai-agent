@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html
+
+Apple’s Verified Photography System
+<p>Apple just <a href="https://security.apple.com/blog/apple-reference-image/">released</a> a system called &#8220;Reference Image.&#8221; It can verify the image is exactly as taken by an iPhone&#8212;new models only&#8212;without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone.</p>
+<blockquote><p>Other industry solutions require a photographer or institution to vouch for an image using their own credentials. We are concerned this puts some photographers, such as those operating in conflict zones, in a difficult position; it should not be necessary to forgo anonymity in order to prove image authenticity. We built Apple Reference Image to avoid using an explicit, public credential for photographers, and to avoid even implicit public association between different photos taken by the same sensor. The final reference image is instead signed by Apple’s signing service, after validation by P

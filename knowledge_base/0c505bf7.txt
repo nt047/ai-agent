@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html
+
+expect the true impact to be at least five times higher." The updated program, called the Cyber Verification Program (CVP), features three access tiers, allowing organizations and security teams to apply for one that best aligns with their work. Each tier comes with access to its models, including Claude Opus 5.5, Claude Sonnet 5.5, Claude Mythos 5.1, and new models moving forward. The three access levels are detailed below - Defense Access, which is for defensive work, such as in
