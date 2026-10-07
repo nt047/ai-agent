@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html
+
+ to a routable address. The vulnerability, tracked as CVE-2026-105192 , affects LMCache from version 0.3.9, released in October 2025, through 0.5.5, the latest stable release, and is also present in the 0.5.6 release candidates and the development branch. No fixed version exists. Whether a server is exposed comes down to one setting. By default, the multiprocess server listens only on the local machine, so another host cannot reach it. It becomes reachable when an oper

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html
+
+s and apps. Google did not name the domains. Certificate Transparency (CT) logs are the public record of certificates issued by CAs. They show at least 12 certificates issued between September 22 and 27 for Google and YouTube names under the three ccTLDs, including google.com.gh, google.sl and google.as. A CA issues a certificate once the applicant shows control of the domain, for example by adding a record to the domain's DNS. The attackers changed authoritative DNS records du

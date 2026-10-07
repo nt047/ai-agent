@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html
+
+SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances
+SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions.
+
+SonicWall rates it 10.0 on the CVSS scale and says it has no evidence that any of the four flaws is being
+SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/fe

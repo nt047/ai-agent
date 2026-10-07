@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html
+
+owing to what has been described as a "creative" technique that hides the command-and-control (C2) address within a poem the threat actors wrote and hosted in a GitHub repository ("github[.]com/ejejejdfbbebe"). The first commit to the repository was on April 13, 2026. "Each time they set up a new C2, they change a few words in the poem, and the malware derives the address from the key associated with those words," Ryan English, information security engineer at 

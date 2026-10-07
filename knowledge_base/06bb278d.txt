@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/
+
+Ransomware has a new target. Is your backup ready?
+Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html
+
+d in its security advisory , dated October 6, without saying which functions. All four flaws affect SMA1000 models 6210, 7210 and 8200v on these platform-hotfix versions: Version 12.4.3: 12.4.3-03526 and older versions are affected. 12.4.3-03670 and higher versions are fixed. Version 12.5.0: 12.5.0-02952 and older versions are affected. 12.5.0-03082 and higher versions are fixed. The affected versions include 12.4.3-03526 and 12.5.0-02952, which SonicWall named on Sep

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html
+
+A downloader The list of identified malicious packages is below - tlxbnhd tldriver mxdriver img-to-native native-runner function-flag (Still live) function-color (Still live) cdn-img-fetch (Still live) In all, these packages have been collectively downloaded 40,767 times. Of these, 37,419 downloads correspond to "function-flag," making it the largest driver of this activity. The package was first published in July 2024. The latest version was released on August 4, 2025. The projec
