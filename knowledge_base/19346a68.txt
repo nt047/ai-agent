@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1x0iuul/i_found_yet_another_way_to_invoke_javascript/
+
+I found yet another way to invoke JavaScript functions without parentheses
+<!-- SC_OFF --><div class="md"><p>It turns out you can overwrite the Error.prepareStackTrace method with the function constructor. Then, using prototype pollution, you can inject valid JavaScript code to generate arbitrary functions and invoke it using the usual tricks. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DrAdalbbert"> /u/DrAdalbbert </a> <br /> <span><a href="https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1x0iuul/i_found_yet_another_way_to_invoke_javascript/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally

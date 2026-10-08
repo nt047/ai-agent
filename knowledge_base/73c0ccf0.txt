@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html
+
+Bun runtime. The stealer malware is designed to harvest credentials across local files, CI environments, Kubernetes, and Vault sources. It also drops the HackBrowserData binary, exfiltrates the collected data, establishes persistence on the host, and facilitates the execution of remotely-supplied code. "That combination extends the risk beyond a single stolen API key," Socket said. "Any secrets accessible to the executing process may be exposed, and persistence can retain atta

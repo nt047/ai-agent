@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/
+
+Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland
+​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]
+Just a moment... Enable JavaScript and cookies to continue
