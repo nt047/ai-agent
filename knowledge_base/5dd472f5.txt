@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html
+
+For defenders, the alert includes eight source IP addresses, five User-Agent strings, and a list of API controls, including access controls on every endpoint, public or not. The only product it names as a target is Metabase , a BI tool with a known flaw that attackers have exploited. Metabase has urged users to upgrade to at least the minimum safe releases in a list last updated August 14. Those releases are newer than the first fix for that flaw. The leaks have come one aft

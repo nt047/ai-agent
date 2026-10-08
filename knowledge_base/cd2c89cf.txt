@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html
+
+X configuration files. The campaign has not been attributed to any known threat actor or group. But evidence points to a suspected Chinese-speaking operator driven by financial gain. ARTEX is a large language model (LLM) multi-agent-driven autonomous penetration system developed by Autumn-27 . Analysis of the Claude Code sessions from the Hong Kong IP address has revealed a two-server architecture - The Hong Kong-based IP address functions as the backbone of the campaign The 

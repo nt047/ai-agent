@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html
+
+l (C2) communications. "ASHVEIN also hides tasking inside invisible HTML elements," TrendAI said . "Some variants use a GitHub-based dead drop resolver as a fallback mechanism, while delivery methods include DLL sideloading, VHD containers, and dedicated .NET droppers." UAC-0099 was first documented by the Computer Emergency Response Team of Ukraine (CERT-UA) in June 2023. It has a history of targeting Ukrainian government, defense, border guard, and logistics entities since at 

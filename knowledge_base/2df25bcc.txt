@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html
+
+fort and results. Some attacks involve several stages, careful timing, and plenty of tricks. Others get surprisingly far because of a bad design choice or something nobody bothered to check. Both seem to be working well enough. Anyway, here's what else turned up. The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out. Malicious VS Code themes exposed GlassWorm-Linked VS Code Extensions Discovered Socket said it discovered two suspicious VS Cod
