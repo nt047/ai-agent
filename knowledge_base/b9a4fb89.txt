@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html
+
+nd operated a Florida company called MonsterCloud, is alleged to have made false representations to ransomware victims, urging them not to pay a ransom and claiming to have "proprietary tools" and "advanced decryption techniques" in possession that could be used to recover encrypted data without yielding to ransom demands. On its website, MonsterCloud claims it uses "advanced decryption techniques and cutting-edge technology" to restore data. Under a section called "Should I Pay The 

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html
+
+.4 clean-file-bar@neattools.com@4.21.8 clean-net-timer@plugify.example@4.17.1 manager-square@webtools.com@1.4 manager-course@webtools.com@1.4 val-andrew@browserweb.com@1.4 manager-team@browserweb.com@1.4 valory-andrew@browserweb.com@1.4 franklin-uk@browserweb.com@1.4 franklin-uro@browserweb.com@1.4 Four of these extensions are clones of Rabby Wallet, while the rest are targeted clones of OKX Wallet. All the identified add-ons barring one have been found to contact the "*.icy

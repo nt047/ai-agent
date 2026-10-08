@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/
+
+Microsoft Teams to get support for third-party deepfake detection tools
+Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]
+Just a moment... Enable JavaScript and cookies to continue

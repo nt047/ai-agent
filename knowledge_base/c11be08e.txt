@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html
+
+ less informative and potentially complicating automated detection. MSSPs face an added challenge, as they investigate alerts across multiple customer environments while keeping response times under control. That uncertainty can translate directly into longer investigation times and unnecessary escalations. Wazza Uses Multi-Stage Routing to Hide Its Phishing Page Wazza does not send every visitor directly to its phishing page. Instead, the phishkit uses a multi-stage routing chain to deter

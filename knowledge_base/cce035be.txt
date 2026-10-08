@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/
+
+OAuth grants pile up faster than you can review them. Here's how to keep up.
+OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth risks are so hard [...]
+Just a moment... Enable JavaScript and cookies to continue
