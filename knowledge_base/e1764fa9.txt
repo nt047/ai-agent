@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/
+
+FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins
+The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]
+Just a moment... Enable JavaScript and cookies to continue
