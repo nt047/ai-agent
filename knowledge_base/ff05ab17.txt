@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html
+
+0. The exploit is probabilistic: the heap layout must place a target object adjacent to the overflowed buffer; otherwise, the service crashes instead of executing the attacker's command. The offsets in the published code target a specific build of AnyDesk Linux, 8.0.2; other builds would require different values. The researchers say the same vulnerable code path is also reachable via AnyDesk's relay servers, which the software uses when a direct connection is unavailable. They vali

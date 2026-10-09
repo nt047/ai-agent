@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html
+
+lkit is engineered to chain multiple iOS vulnerabilities to escape the browser sandbox, escalate to kernel privileges, and inject the main payload into SpringBoard, the iOS process that handles app launches and the home screen. The exploit chain is assessed to be a commercial product that somehow landed in a second-hand market, from where it was acquired by financially motivated operators and other threat actors since late 2025. The exploit kit has been put to use in attac

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/anthropic-launches-free-ai.html
+
+ng that the process may evolve over time. Project maintainers are advised to provide a short description explaining the importance of their project in cases where "it is not already self-evident." Core maintainers of a project can enroll by opening a pull request on the OSS Scanner's GitHub repository along with a YAML configuration file that provides the following information - Link to the git repository that should be cloned Email address of the primary conta

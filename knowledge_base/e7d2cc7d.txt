@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/
+
+Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto
+Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]
+Just a moment... Enable JavaScript and cookies to continue
