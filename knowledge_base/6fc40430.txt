@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/
+
+FBI disrupts Chinese hacking tools used to breach critical infrastructure
+The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]
+Just a moment... Enable JavaScript and cookies to continue
