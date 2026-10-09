@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/credential-stealing-github-actions.html
+
+repositories since October 7, 2026. The activity has been attributed to GhostAction , a massive supply chain attack campaign that first came to light in September 2025. The activity impacted 817 repositories across 327 GitHub users, resulting in the exfiltration of 3,325 secrets, including PyPI, npm, and DockerHub tokens through compromised developer accounts. Like before, both accounts have been found to push a workflow named Security Audit ("security-audit.yml") or GitHub Actions

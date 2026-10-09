@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/credential-stealing-github-actions.html
+
+Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories
+Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories.
+
+"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC," StepSecurity
+Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a quest
