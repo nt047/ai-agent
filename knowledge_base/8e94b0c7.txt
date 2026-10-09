@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/
+
+Citrix warns admins to patch new NetScaler RCE flaw immediately
+Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]
+Just a moment... Enable JavaScript and cookies to continue

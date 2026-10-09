@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html
+
+ecord. The flaw is in the signing step. A Tor private key is 64 bytes long, but GoBalance passed only the first 32 bytes to the signer and dropped the rest. The dropped half is the part that keeps each signature's secret value hidden. Without that half, the secret value becomes a fixed number anyone can compute. A single published descriptor then carries enough to recover the site's private key, with no access to its servers. Because the exposed key is the site's long-term maste

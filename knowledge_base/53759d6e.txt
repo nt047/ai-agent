@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html
+
+GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys
+A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over.
+
+Searchlight Cyber, which&nbsp;disclosed the flaw&nbsp;on October 8, says an attacker who recovers the key can redirect the site's visitors to a copy of the site they control.
+GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or le

@@ -1,0 +1,10 @@
+المصدر: https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html
+
+Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon.
+
+The vulnerabilities in question are listed below -
+
+
+  CVE-2015-3306 (CVSS score: 10.0) - An improper access control vulnerability in ProFTPD that could allow
+Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or le

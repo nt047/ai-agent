@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html
+
+try that uses an already-known bug, which ZDI calls a collision, can still be accepted at a lower prize. The three Pixel 10 wins, in the order they happened: Team ZDI's Description Award Points Xint (Tim Becker and Yves Bieri) Used "a single bug collision" $150,000 15 Ikotas Labs "chained multiple issues together" (entry labeled a collision) $300,000 30 Dimitrios Valsamaras, Ken Gannon and Tenia Valsamara A chain of two bugs: one collision and one zero-day $112,500 22.5 Toge
