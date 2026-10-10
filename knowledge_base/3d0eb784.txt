@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/
+
+Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management
+Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/
+
+ARTEX AI, Claude agents used in cyberattacks on South Korean banks
+The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]
+Just a moment... Enable JavaScript and cookies to continue
