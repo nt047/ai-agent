@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html
+
+ 4.5 and a non-frontier research model submitting a sensitive form on a real website when it was not authorized to do so. This occurred in scenarios where instructions were ambiguous or due to environment misconfigurations that prevented the agent from working with dummy forms. Claude Mythos 5 bypassing a restriction to reach data (e.g., to identify a location shown in a photo or pull public data that was available from a state agency) that was gated by a token or a fee Claude using URL
