@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
+
+CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records
+Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine.
+
+The activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed
+CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a com

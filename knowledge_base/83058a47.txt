@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html
+
+at is. Not for your security. Given that personal agents will reach corporate systems whether approved or not, you might be wondering what the best way is to block them. If that’s your thinking, we’re here to offer you another path: enable safe usage instead, with identity as the control plane, and reap the benefits. BYOD, meet BYOA(I) The Bring-Your-Own-Device shift is the obvious comparison, but calling this the new era of BYOD would undersell the challenges 

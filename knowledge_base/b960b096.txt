@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
+
+ber and Previdian on October 8, 2026. Data from Previdian shows that a total of 135 attempts have been observed to date from two unique IP addresses located in the U.S. SonicWall has yet to update the advisory to reflect active exploitation of the flaw. CVE-2026-102255 is the latest vulnerability impacting SonicWall SMA 1000 appliances to come under active exploitation. In June 2026, two other flaws in the same product (CVE-2026-15409, CVSS score: 10.0, and CVE-2026-15410, CVS

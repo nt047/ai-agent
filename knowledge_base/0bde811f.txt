@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html
+
+ exploitation efforts targeting the flaw on October 7, 2026, at 9:47 p.m. UTC. "Bricksforge validates a file's MIME type when it is first uploaded. When a form is later submitted, however, it trusts the file metadata the client sends," Patchstack said . "In particular, it does not validate the 'url' field inside the 'temporaryFileUploads' parameter." At a high level, the vulnerability stems from insufficient validation of a URL field in the 'temporaryFileUploads' paramet

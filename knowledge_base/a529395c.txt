@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/
+
+Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption
+A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]
+Just a moment... Enable JavaScript and cookies to continue

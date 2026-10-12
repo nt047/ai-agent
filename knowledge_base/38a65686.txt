@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/
+
+GitLab warns of max severity code execution vulnerability
+GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]
+Just a moment... Enable JavaScript and cookies to continue

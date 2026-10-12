@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/
+
+Cyberattack shuts down refrigerators at French supermarkets
+Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]
+Just a moment... Enable JavaScript and cookies to continue

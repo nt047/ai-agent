@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html
+
+Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch
+Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.
+
+The vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a case of pre-authenticated server-side request forgery (SSRF) that could allow a remote attacker "to direct the appliance to issue requests on their
+Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave

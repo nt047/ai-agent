@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html
+
+ublished last week. The global campaign specifically focuses on known security flaws like wp2shell (CVE-2026-63030 and CVE-2026-60137) and CVE-2026-4815 , an SQL injection vulnerability impacting the Support Board WordPress plugin, to seize control of WordPress sites. The campaign is estimated to have resulted in confirmed exfiltration from four Ukrainian organizations, leading to the harvesting of more than 628,000 records tied to Ukrainian individuals. Other confirmed co

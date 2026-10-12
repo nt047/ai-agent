@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html
+
+FBI Arrests Suspect in FBI-Hacking Case
+<p>In September, hackers from a group called ShinyHunters <a href="https://www.reuters.com/world/hacked-fbi-data-has-sensitive-information-about-employees-intelligence-roles-2026-09-23/">announced</a> that they stole a trove of FBI data about its own agents. It was an <a href="https://www.lawfaremedia.org/article/the-fbi-data-breach-is-a-counterintelligence-disaster">intelligence disaster</a>.</p>
+<p>Last week, the FBI <a href="https://www.nytimes.com/2026/10/09/us/politics/fbi-hack-shinyhunters-arrest.html">arrested</a> (alternate <a href="https://archive.ph/EBump">link</a>) someone associated with that crime.</p>
+FBI Arrests Suspect in FBI-Hacking Case - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog FBI Arrests Suspect in FBI-Hacking Case In September, hackers from a group called ShinyHunters announced that they sto
