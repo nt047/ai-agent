@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-17808
+Malicious code in @s4yhiitestpoc/r2-https-b (npm)
