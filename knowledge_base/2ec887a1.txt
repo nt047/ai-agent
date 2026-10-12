@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/
+
+Anthropic takes risky AI tests offline after models breach govt sites
+Anthropic announced that its internal AI models undergoing "high-risk and cybersecurity evaluations" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]
+Just a moment... Enable JavaScript and cookies to continue

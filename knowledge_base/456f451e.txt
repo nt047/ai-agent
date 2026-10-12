@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html
+
+recap is worth a read, especially the bits that didn't make the big headlines. ⚡ Threat of the Week Atlassian Flaw Exploited in the Wild — Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Se

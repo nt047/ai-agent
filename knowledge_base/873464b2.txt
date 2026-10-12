@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/
+
+Ledger confirms spy chip implant behind wallet crypto thefts
+Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]
+Just a moment... Enable JavaScript and cookies to continue
