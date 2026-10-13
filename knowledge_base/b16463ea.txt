@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1x4xuvc/we_let_ai_fuzz_adobe_reader_for_a_week_it_found_a/
+
+We Let AI Fuzz Adobe Reader for a Week. It Found a Critical Zero-Day CVE-2026-81983
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/NewResearch1337"> /u/NewResearch1337 </a> <br /> <span><a href="https://remedio.io/blog/cve-2026-81983-integer-overflow-vulnerability-enables-out-of-bounds-write-in-adobe-acrobat/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1x4xuvc/we_let_ai_fuzz_adobe_reader_for_a_week_it_found_a/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can sometimes result in a block. You can read Reddit's

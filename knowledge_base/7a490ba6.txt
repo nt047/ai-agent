@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:77020
+Important: python3.12 security update

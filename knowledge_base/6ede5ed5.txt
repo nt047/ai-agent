@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html
+
+emote code execution flaw, tracked together as CVE-2026-104935 . Together they let an attacker run code as the appliance's cgi-server user, and the third flaw, a privilege escalation, raises that to root, Volexity said. The CVE record Ivanti filed shows which Connect Secure versions are affected: Affected: Connect Secure "before version 25.1.3.0" Not affected: version 22.7R2.14 "or prior" Listed as unaffected: versions 22.8R2.5, 25.1.3.0 and 25.1.3.1 Ivanti's security advisory has more on

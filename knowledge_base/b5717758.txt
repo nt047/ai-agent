@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:80664
+Moderate: environment-modules security update

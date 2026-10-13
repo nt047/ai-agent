@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html
+
+ts model weights with it as it reproduces (or re-download them from a public hub), and then run inference directly on compromised hardware," Anthropic said . "Effectively, the weights would become part of the malware payload." The idea, at a high level, explains how AI models could potentially break into internet-connected devices and use their computing power to run themselves and spread to other devices, without having to rely on expensive data centers all the tim

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:77690
+Important: kernel security, bug fix, and enhancement update

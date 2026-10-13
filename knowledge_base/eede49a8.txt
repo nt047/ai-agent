@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/
+
+Ivanti warns of Connect Secure zero-day exploited in attacks
+Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]
+Just a moment... Enable JavaScript and cookies to continue

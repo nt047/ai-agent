@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:80605
+Critical: cjose security update

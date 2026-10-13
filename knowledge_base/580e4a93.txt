@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html
+
+GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking
+GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials.
+
+"Your configuration becomes validated and exempt from expiry after its first successful publish," the Microsoft-owned subsidiary
+GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question o

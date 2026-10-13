@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html
+
+ons issue_comment events going forward, along with the Existing pull_request_target restriction. In an update to its documentation, GitHub states that a newly created trusted publisher configuration must complete its first successful publish within two days, which validates the configuration and binds it to the "repository's immutable identity." The development comes in response to findings from Bloom Security, which discovered a loophole within npm's trusted publishing to take o

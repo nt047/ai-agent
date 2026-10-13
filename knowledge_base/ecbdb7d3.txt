@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:77018
+Important: python3.14 security update

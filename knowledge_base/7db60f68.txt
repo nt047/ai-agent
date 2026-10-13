@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:76918
+Important: openssl security update

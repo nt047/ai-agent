@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html
+
+secret. Version 0.45.2 added a check that rejects any tenant subdomain that is not a simple name. Six later releases do not apply that check in every case, The Hacker News found. Versions 0.53.0 through 0.55.0, published between September 10 and September 18, skip it when an application calls the SDK's Destination service module. Version 0.53.0 moved that module onto new shared code for requesting tokens, and that code did not include the check. Version 0.55.1 added it there on Septembe

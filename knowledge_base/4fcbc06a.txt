@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html
+
+ccount. Docker tracks the flaw as CVE-2026-105445 and rated it critical. The CVE record it published on October 13 gives the flaw a CVSS 4.0 score of 9.4. The flaw was open from August 26, 2024, until the fix, a little over two years. Docker made the fix on Docker Hub itself, so there is no update to install. Docker Hub cannot move a repository from one account to another. A user instead converts a personal account into an organization that keeps the same name, and must name 

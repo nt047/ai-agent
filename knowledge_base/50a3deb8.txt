@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html
+
+Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far
+An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to "act immediately." A fix for the third is still pending, according to Volexity.
+
+Volexity, which reported the flaws to Ivanti,
+Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or as
