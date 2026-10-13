@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/
+
+Anthropic warns self-replicating AI could spread to your smart devices
+Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]
+Just a moment... Enable JavaScript and cookies to continue

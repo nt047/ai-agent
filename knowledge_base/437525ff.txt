@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/
+
+Ghostscript flaw lets hackers hijack servers via PDF uploads
+A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]
+Just a moment... Enable JavaScript and cookies to continue
