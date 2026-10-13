@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html
+
+Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control
+Two of 31 newly disclosed flaws in Progress Software's&nbsp;MarkLogic Server&nbsp;database could let an account given only some management privileges take administrator control of the server, the company says.
+
+Progress published all 31 on October 12 and scored five of them critical. Fixes have been available since September 10, in&nbsp;MarkLogic 11.3.7&nbsp;and&nbsp;MarkLogic 12.1.0.
+
+Affected
+Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or lea

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html
+
+ the firmware trusts. A permission in the manifest causes the pairing service to skip the PIN prompt and hand over a privileged key. With that key, the attacker launches another built-in app, cmp-client, and points it to an attacker-controlled page. The app does not check where it navigates, and the loaded page keeps access to PalmServiceBridge, an internal interface to the TV's system services. Through that bridge, the attacker calls the system logging service

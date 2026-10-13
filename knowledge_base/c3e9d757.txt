@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html
+
+ August is not enough. Those fixes arrived in 11.3.6 and 12.0.3, and both releases are affected by the new flaws. Progress's CVE records and its upgrade notes for the two releases do not say whether any of the 31 flaws has been used in attacks. None was in the U.S. Cybersecurity and Infrastructure Security Agency's Known Exploited Vulnerabilities catalog when The Hacker News checked on October 13. The same records and notes list no workaround for customers who cannot upgrade ye

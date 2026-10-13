@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1x4s0yk/playing_it_sfape_code_execution_in_isolated_user/
+
+Playing It SFAPE: Code Execution in Isolated User Mode
+<!-- SC_OFF --><div class="md"><p>Doyensec discovered multiple vulnerabilities in <code>SFAPE.dll</code>, a VBS enclave shipped with Windows, and chained them to gain code execution within the enclave in Windows Isolated User Mode (VTL1). The post explores how VBS enclaves work and how memory corruption can undermine their isolation guarantees. Microsoft addressed the reported issue in the September 2026 bulletin under <a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-83498">CVE-2026-83498</a>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/nibblesec"> /u/nibblesec </a> <br /> <span><a href="https://blog.doyensec.com/2026/10/13/Sfape.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1x4s0yk/playing_it_sfape_code_execution_in_isolated_user/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a networ

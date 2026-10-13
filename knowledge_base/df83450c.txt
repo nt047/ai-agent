@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html
+
+to disconnect the controllers or filter access to them. CERT-FR is part of ANSSI, France's national cybersecurity agency. ANSSI's head, Vincent Strubel, called it urgent to take the two series off the internet or filter access very tightly, AFP reported . Neither French authorities nor Danfoss has so far said who carried out the attack or how the attackers got into the controllers. Danfoss said most of the units hit were older models that it no longer updates. Which Chains Were H
