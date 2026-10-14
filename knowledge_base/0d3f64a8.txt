@@ -1,0 +1,3 @@
+المصدر: https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/
+
+ws fixed this month far surpasses the previous record-setting year 2020, when Microsoft patched 1,261 CVEs. “We’ve now crossed the 4,000 CVE mark with two months left to go,” he said. Microsoft credits large language models for the high volume of bug discovery, and presumably AI gets credit for many of the patches used to fix these
