@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html
+
+rrives as a Content Scanner Tools update, version 25.3.0.5525 or later, which installs without a software upgrade or a restart. Cisco found the flaw, tracked as CVE-2026-76519 (CVSS score: 9.8), in its own internal security scanning and became aware of the attacks in October. The advisory does not say how many devices were attacked, who is behind the attacks, or whether the attackers obtained root on any of them. Cisco has contacted customers of its managed Secure Email Cloud servi

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html
+
+ted or removed. Who Is Affected The app, published by Collabora under the package name richdocumentscode, downloads a copy of Collabora Online Development Edition (CODE) and runs it on the Nextcloud server itself. That lets Nextcloud Office edit documents without a separate Collabora server. Its store listing says it is "for local testing and non-production use" and "for personal use or for small teams." Collabora's advisory covers every version before 26.4.303 and says standa

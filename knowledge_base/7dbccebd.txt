@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html
+
+inly against incremental improvements, or also against a genuinely novel attack idea? Human cryptanalysis has historically advanced in jumps — differential, linear, side channels — not just faster brute force. If AI’s edge is in combining techniques and searching spaces humans would never explore by hand, the worry isn’t that it out-computes us, but that it finds a structural shortcut we assumed was impractical to discover. I’m curious whether your longer write-up will address how much of that safety margin is mathematical versus merely ‘nobody has found the trick yet.’ As someone studying cryptography fun

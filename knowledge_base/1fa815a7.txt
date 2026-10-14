@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-856c-92hv-3vxx
+Apprise forwards configured auth headers across cross-origin HTTP redirects

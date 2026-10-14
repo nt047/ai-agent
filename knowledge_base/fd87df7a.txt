@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/
+
+Cisco patches new Secure Email Gateway zero-day exploited in attacks
+Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]
+Just a moment... Enable JavaScript and cookies to continue

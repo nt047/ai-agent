@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html
+
+The Future of AI Cryptanalysis
+<p>Matthew Green <a href="https://x.com/matthew_d_green/status/2107992246360649879">has</a> <a href="https://x.com/matthew_d_green/status/2108278850555674975?s=46">been</a> <a href="https://x.com/matthew_d_green/status/2108552414978564418">writing</a> a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers.</p>
+<p>I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.</p>
+The Future of AI Cryptanalysis - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog The Future of AI Cryptanalysis Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysi

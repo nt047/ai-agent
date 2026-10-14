@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html
+
+al ecosystem has been described as an interconnected network of phishing kit operators, developers, and an illicit marketplace and initial access broker (IAB) codenamed YAM Store that peddles tools and infrastructure using compromised or fraudulently obtained Microsoft or Google environments for large-scale phishing attacks. Microsoft is tracking the underground marketplace as Storm-3119 and the developers behind all three phishing kits as Storm-2990. Eviden

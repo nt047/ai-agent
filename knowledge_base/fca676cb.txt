@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html
+
+Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App
+Attackers exploited a flaw in an optional Nextcloud app,&nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&nbsp;reported the issue on GitHub, with the first logged attack on September 10.
+
+A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw
+Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question o
