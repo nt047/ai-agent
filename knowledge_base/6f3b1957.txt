@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html
+
+ The attack runs from the server side. The client has to upload a file of roughly 135KB over HTTP/2 to a server controlled by the attacker, and the server's certificate must pass the client's checks. libcurl negotiates HTTP/2 by default for https:// URLs when the server offers it, and the library was built with HTTP/2 support. The flaw has shipped in every curl release since 8.12.0 in February 2025. No source reports attacks that use it. The reporter's HackerOne write-up 

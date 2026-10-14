@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html
+
+ews. Hirudo facilitates on-device credential theft and live remote control. The malware is delivered by shopping, adult video, and entertainment dropper apps that carry the trojan as a separate installation package, which is then served as an in-app update. Some of the dropper apps are listed below - Shopora (com.agbbh.kjdrttt) 1V1 X (com.onev.vip) KoiShort (com.koishort.app) ZoyaTV (com.zoyatv.app) "The lure is functional, loading real content in a WebView, a storefront, a video ca

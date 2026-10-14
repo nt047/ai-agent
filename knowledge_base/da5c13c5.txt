@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html
+
+. In the same survey, 43% reported at least one deepfake audio call incident and 37% had run into deepfakes on video calls. And the wire is only the obvious ask. The same cloned voice can call the help desk to move an MFA token, or ask an identity admin to set up a new global admin ahead of an "audit." A fraudulent wire tends to surface at reconciliation. A quietly added admin account can sit there for months. Most organizations have a policy that says to verify unus

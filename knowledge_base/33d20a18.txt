@@ -1,0 +1,9 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html
+
+Cyberattack on Connected Fridges in France
+<p>Another IoT <a href="https://www.bbc.com/news/articles/crq5nzxv9q4yo">cyberattack</a>, this one in France:</p>
+<blockquote><p>Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected.</p>
+<p>[&#8230;]</p>
+<p>Normally, supermarket freezers go through a short period of defrosting overnight, in which temperatures rise slightly. But the hackers ordered the units to heat up and stay hot, although Danfoss did not confirm any reports about just how warm the fridges and freezers could become in that process.</p>
+<p>Danfoss said the affected cold units were older models whose security software could not be updated to ward off a risk they had identified...</p></blockquote>
+Cyberattack on Connected Fridges in France - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me 

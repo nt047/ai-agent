@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html
+
+filtration," the agency said . The agency has since added the flaw to its Known Exploited Vulnerabilities ( KEV ) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by October 16, 2026. CISA is also recommending that customers of affected ICS deployments review Ivanti's Connect Secure Upgrade and Migration Compatibility Guide for patching guidance, cautioning that version 22.8 reaches end-of-life on January 31, 2027. "Organizations seeking to 

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html
+
+ both. The result was code running outside Chrome on Windows, with no need for the user to click or download anything. All three bugs are now fixed, and XBOW says they were never used against Chrome users. The two that carry public identifiers were fixed in Chrome 152.0.7977.65 on August 25 and 152.0.7977.82 on September 3. Chrome updates on its own, but the fix only takes effect after the browser restarts, so the action is to relaunch Chrome and confirm the version is 152.0.7977.82 or la

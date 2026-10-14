@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/
+
+The Blind Spots of Agentic Pentesting and How to Close Them
+AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]
+Just a moment... Enable JavaScript and cookies to continue

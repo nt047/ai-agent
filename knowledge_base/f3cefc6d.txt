@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/
+
+CISA warns admins to immediately fix Ivanti flaw exploited as zero-day
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]
+Just a moment... Enable JavaScript and cookies to continue

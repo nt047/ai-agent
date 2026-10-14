@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/
+
+Hirudo Android malware replaces banking apps to evade security checks
+A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]
+Just a moment... Enable JavaScript and cookies to continue
