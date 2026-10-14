@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html
+
+ws, and researchers are finding them faster too." "But AI isn't creating these bugs out of thin air; it's just shortening the time between a vulnerability existing and someone noticing it. The volume isn't the real story anymore. What matters is that discovery is scaling faster than exploitation, so teams that triage by sheer CVE count instead of exploitability are burning cycles on the wrong bugs. Patch what's proven, prioritized, and public, and treat everything e

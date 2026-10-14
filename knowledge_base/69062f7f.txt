@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html
+
+he research, by the security firm Doyensec , was published October 13, more than a month after the patch. A VBS enclave is a signed library that a normal Windows program loads but cannot read or change once it is running. The Windows hypervisor keeps the enclave's memory in a more trusted world, called VTL1 or Isolated User Mode, that ordinary code in the normal world, VTL0, cannot reach, according to Microsoft . The design is meant to protect what is inside even if an attack
