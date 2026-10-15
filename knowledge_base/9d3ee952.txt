@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1x65xx1/anthropics_sept_2026_threat_report_attackers/
+
+Anthropic's Sept 2026 threat report: attackers prompt-injected an eval sandbox, stole customer API keys, then burned the victims' own compute to attack ~30 AI labs
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Js4days"> /u/Js4days </a> <br /> <span><a href="https://anthropic.com/threat-intelligence-report-september-2026">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1x65xx1/anthropics_sept_2026_threat_report_attackers/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can sometimes result in a block. You can read R
