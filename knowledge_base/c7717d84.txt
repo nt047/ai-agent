@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html
+
+ the calling user as recorded in subscriber data record of the originating telecommunication service provider and such identity is included in the calling line identification of such user." The caller ID system is mainly targeted at wireless terrestrial networks established using 4G and higher generation technologies. The circular noted that a CNAP rollout for 2G and 3G networks, as well as public switched telephone networks (PSTNs), will be taken up separately after examina

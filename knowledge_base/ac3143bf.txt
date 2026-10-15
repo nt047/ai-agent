@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html
+
+to execute malicious commands, install compromised applications, or submit credentials through fraudulent authentication pages. Attackers impersonate Claude, ChatGPT, GitHub Copilot, Gemini, and other AI services. Their lures appear in sponsored search results, legitimate hosting services, shared AI conversations, and counterfeit download websites. Fake Copilot installation page One campaign impersonating Claude demonstrates how easily a routine software installation can

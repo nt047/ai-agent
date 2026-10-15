@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html
+
+k, but the human examiner remains the final authority at every phase. Where Validation Cannot Be Delegated In digital forensics, validating an AI finding starts at the source file. A tool that doesn't show its reasoning has already produced an unreliable result, regardless of the confidence score attached to it. A tool that cites the specific file it parsed — for example, a claim that browser history came from Chrome's own

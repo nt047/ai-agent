@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html
+
+Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early
+Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026.&nbsp;
+
+The campaigns also increase operational pressure on MSSPs serving US businesses, which accounted for 16% of country-attributed targets.&nbsp;
+
+Similar attacks
+Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment
