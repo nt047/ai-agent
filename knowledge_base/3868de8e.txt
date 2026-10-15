@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/
+
+Is AI pentesting as good as a human pentester?
+AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]
+Just a moment... Enable JavaScript and cookies to continue

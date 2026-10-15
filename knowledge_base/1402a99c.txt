@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html
+
+convince them to install remote desktop tools," Infoblox said in a report shared with The Hacker News. "It's not simple credit card fraud: it's remote access, living-off-the-land malware operations. Once in, the threat actor can exploit the victim time and again." Help TDS's evolution was documented by GoDaddy in August 2025, highlighting the threat actor's use of a malicious WordPress plugin named "woocommerce_inputs" on thousands of websites to steal WordPress user credential

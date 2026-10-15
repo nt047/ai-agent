@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html
+
+ five medium . F5 scores the three memory bugs 9.2, Critical, on CVSS v4.0, the TLS flaw 8.3, and the HTTP/3 flaw 6.9. Which Configurations Are Exposed Every one of the five needs a directive you added: an alias with a rewrite, a regex map, AIO with SSI, a shared TLS session cache, or HTTP/3. NGINX's own documentation recommends the shared session cache and request buffering; the other condition for the HTTP/3 flaw is on by default. The TLS flaw sits in the automatic rotation of sess

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html
+
+wider CIS region," security researcher Ashley Shen said . "Across the reviewed campaigns, observed victims and lure themes span nine countries: Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, Armenia, Azerbaijan, Russia, and Belarus." Silent Lynx was first publicly documented by Seqrite Labs in early 2025, highlighting the threat actor's attacks on embassies, lawyers, government-backed banks, and think tanks across Kyrgyzstan and Turkmenistan. It's asses

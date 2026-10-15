@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1x6n1ac/trivy_and_govulncheck_found_the_same/
+
+Trivy and govulncheck found the same vulnerability, but the code wasn't in the binary
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/a3thinker"> /u/a3thinker </a> <br /> <span><a href="https://www.a3thinker.it/articles/not-in-the-binary/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1x6n1ac/trivy_and_govulncheck_found_the_same/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can sometimes result in a block. You can read Reddit's Terms of Service here . If you think that we've incorrectly blocked you or you would 

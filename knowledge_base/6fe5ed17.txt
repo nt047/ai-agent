@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html
+
+yware itself from one device, but not the exploit that breaks into the browser or app to install it. That first break-in step is described from how the attack was set up, not from captured code. How the Attack Worked The ads were placed by Discover-Tech, an Israeli company that presents itself as a normal digital advertising firm. Each ad carried a small piece of code that, when the ad loaded, quietly sent the device's advertising ID and internet address back to a Discover-Tech server, th
