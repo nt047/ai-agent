@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html
+
+lained in a technical write-up : read the host's memory, crash the host, and run code on it. All three come from the same kernel flaw. Vercel said in its report on the challenge that the memory leak was demonstrated against its production sandboxes. Each packet the guest sent out could carry back about 32 bytes of the host's memory, and the guest could keep going as long as it kept sending packets. The crash and code execution were observed only on the researcher's own mac

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html
+
+xploitation Qilin and Settra Exploit PAN-OS Flaw Qilin and Settra ransomware groups are actively exploiting CVE-2026-0257 , an authentication bypass vulnerability in PAN-OS GlobalProtect and Prisma Access. The vulnerability, disclosed in May 2026, has since come under active exploitation. "Because this access originates through an organization’s own VPN, malicious activity can resemble legitimate remote work and may go undetected until credential theft, lateral movement, data theft, or ranso
