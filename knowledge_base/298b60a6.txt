@@ -1,0 +1,5 @@
+المصدر: https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html
+
+Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug
+A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped
+Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave

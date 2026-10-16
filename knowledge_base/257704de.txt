@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html
+
+ runs background services that regularly check AOMEI's servers over HTTPS for software updates and promotional pop-ups. Two files drive that check. One, down_html.ini, names the update package to download and the checksum the program uses to verify it. The other, Notifycfg.ini, tells the pop-up service what to display and what to run. The program does not cryptographically verify either file, and the checksum that is supposed to prove the download is genuine sits inside the same unsign
