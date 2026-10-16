@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html
+
+ for alert triage. You get a number you can automate against. A typed answer with a calibrated probability is something you can put a threshold on. Ask the model whether an alert is benign and you get back a probability. Close it automatically above 0.97. Below 0.6, treat it as a likely incident and escalate it. Anything in between goes to an analyst for a closer look. TypeSafe even suggests stricter thresholds for irreversible actions, which maps
