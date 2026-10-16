@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html
+
+ed wallet keys from publicly known developer recovery phrases, found an account with test-network funds, and used that account to pay for the requested contract deployment." The assignment allowed the model to deploy compatible contracts if it did not find one, but gave it no funded wallet to pay the network fees. After its attempts to obtain free test tokens failed, it wrote a script to derive "accounts from common developer recovery phrases and query their balances." In the process,

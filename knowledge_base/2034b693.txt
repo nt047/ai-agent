@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html
+
+OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract
+OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding task.
+
+The incident, the AI company said, involved an internal research model part
+OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a q

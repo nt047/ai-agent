@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html
+
+timate public event themes and impersonated reputable academic and policy institutions to establish credibility," Talos researcher Joey Chen said in an analysis. "Beyond traditional email phishing, the actor incorporated QR code phishing (quishing) techniques by modifying legitimate event posters with malicious QR codes, expanding the attack surface beyond email recipients to secondary victims who may encounter printed materials." Central to the operation is the use of legitimate or pla

@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1x7httc/cve2026108082_symfony_redos_one_request_seconds/
+
+CVE-2026-108082: Symfony ReDoS. One request. Seconds of CPU
+<!-- SC_OFF --><div class="md"><p>If you run Laravel (or anything on Symfony), read this. CVE-2026-108082: one unauthenticated GET, seconds of backend CPU, ~100 requests and the app times out. A dumb ReDoS that common config turns into a real DoS. 👀⤵️</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/r3verii"> /u/r3verii </a> <br /> <span><a href="https://r3verii.github.io/cve/2026/10/16/symfony-cache-control-redos.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1x7httc/cve2026108082_symfony_redos_one_request_seconds/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and i
