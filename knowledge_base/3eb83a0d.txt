@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/china-linked-hackers-exploited.html
+
+ flaw have been pushed to all Remote Support SaaS customers as of October 9, 2026. Self-hosted customers of Remote Support running versions from 24.3.1 through 26.2.3 are advised to manually update to BT26-05-RS patch. Customers running a version older than 24.3.1 will be required to upgrade to a newer version to apply the fix. According to a timeline of events shared by BeyondTrust, Armory Castle is said to have exploited the flaw as a zero-day on a single self-hosted Remote 

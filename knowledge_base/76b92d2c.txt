@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html
+
+oud service roles with excessive permissions. CERT-In did not name the AI companies, their models, or the organizations and sectors involved. It did not say how many companies reported cases or how many organizations were affected, and said only that the reports came in recently. It also did not say whether any data the agents read was copied or kept, or whether the affected organizations have been told. Attackers Used Open-Source AI Agent Tools in a Separate Campaign CERT-I
