@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html
+
+r credential. The incident impacts every organization that has the app installed, and the credential works against every tenant the app is consented in. "The app's credential is in hostile hands," security researcher Jonathan Semon said . "It was used to obtain Microsoft Graph tokens in customer tenants from 144.172.64[.]128 on October 15, between 06:13 and 08:34 UTC. The actor moved through tenants in sorted GUID order, a few seconds apart, which points to a script working from a 
