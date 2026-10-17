@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html
+
+t.exe process." First documented by both Checkmarx and CloudSEK, MALFEX is the name assigned to a long-running campaign in which an unknown threat actor has been publishing malicious packages to npm since August 6, 2023, with an aim to compromise Windows systems. These packages were published across five npm publisher handles: malfexkkj, malfex_user, malfexteste2, malfexteste3, malfexteste4. Of the eight identified packages, three were found to act as a loader for Ove
