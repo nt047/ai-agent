@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/
+
+Drupal patches critical RCE flaws, warns exploits may emerge soon
+Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]
+Just a moment... Enable JavaScript and cookies to continue
