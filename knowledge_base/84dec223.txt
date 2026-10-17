@@ -1,0 +1,3 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1x7cvh3/pwnescape_guesttohost_kvm_escape_cve202699999/
+
+ please file a ticket here . When contacting us, please include your Reddit account along with the following code: 01a147a1-b9b3-76b1-8ef2-a03dc3b2473a

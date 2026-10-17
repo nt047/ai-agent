@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1x7ux7j/new_web_obfuscation_technique_where_even_just/
+
+New web obfuscation technique where even just formatting rewrites script logic (Chromium DevTools, prettier, WebCrack, Terser and more)
+<!-- SC_OFF --><div class="md"><p>A formatter, minifier or deobfuscator can be made to turn one script into another. 186 techniques across 37+ JavaScript processors, from Chromium DevTools to WebCrack, plus a Tetris script that becomes Snake.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/trustsigRobert"> /u/trustsigRobert </a> <br /> <span><a href="https://trustsig.eu/blog/javascript-divergence/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1x7ux7j/new_web_obfuscation_technique_where_even_just/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Addi
