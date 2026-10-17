@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:82883
+Important: hplip security, bug fix, and enhancement update

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:81522
+Important: pcre2 security update
