@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-17919
+Malicious code in ukraine69 (PyPI)

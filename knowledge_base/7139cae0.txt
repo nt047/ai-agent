@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-17921
+Malicious code in leakdeep (PyPI)

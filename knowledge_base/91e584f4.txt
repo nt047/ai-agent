@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-17907
+Malicious code in @beloved-lenora/opencode-shell-guard (npm)
