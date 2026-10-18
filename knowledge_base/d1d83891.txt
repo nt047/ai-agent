@@ -1,0 +1,5 @@
+المصدر: https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/
+
+Microsoft Patches More Than 1,400 Security Flaws
+Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.
+Microsoft Patches More Than 1,400 Security Flaws – Krebs on Security Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Microsoft Patches More Than 1,400 Security Flaws October 13, 2026 16 Comments Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond. Just one of the weaknesses patched this week is considered a “zero day,” or already exploited in the wild. CVE-2026-96951 is a security feature bypas

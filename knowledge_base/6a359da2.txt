@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html
+
+ctWise Cloud Management - SharePoint Online - b2b55f5b-7758-4719-8d8f-88ae172e6bdb The IT management software provider said it took the action on October 17, 2026, at 07:00 UTC, adding it has also suspended Cloud Backup service by revoking certificates used for affected application connections across all users. "Disabling the affected connections prevents new authentication through those connections; it does not reverse changes previously made inside a tenant," it said. 
