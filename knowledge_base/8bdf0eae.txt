@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1x8rwjz/phantombuffer_effective_edr_evasion_through/
+
+PhantomBuffer: Effective EDR Evasion Through Stealth Injection
+<!-- SC_OFF --><div class="md"><p><strong>PhantomBuffer</strong> <strong>EDR evasion</strong> uses <strong>stealth injection</strong> via SendMessage with WM_SETTEXT to effective bypass EDR (Endpoint Detection and Response).</p> <p>Unlike traditional edr bypass techniques, <strong>it does not use the VirtualAllocEx and WriteProcessMemory APIs</strong>.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Cold-Dinosaur"> /u/Cold-Dinosaur </a> <br /> <span><a href="https://www.zerosalarium.com/2026/10/PhantomBuffer-Effective-EDR-Evasion-Stealth-Injection.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1x8rwjz/phantombuffer_effective_edr_evasion_through/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or 
