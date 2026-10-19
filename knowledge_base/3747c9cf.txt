@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/
+
+Microsoft: October Windows Server updates break Exchange sign-in, mail flow
+Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]
+Just a moment... Enable JavaScript and cookies to continue

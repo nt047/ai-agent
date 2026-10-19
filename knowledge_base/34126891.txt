@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
+
+ an attacker in range can send crafted messages that corrupt the router's memory. From there, Kaiser built two things: a way to read memory back off the device, and a way to run his own code on it. Against an Orange Belgium gateway, the Askey TCG3000 read the Wi-Fi password (the PSK) from the router's stored settings, sent it back over the air, and then joined the network with it. Against a Proximus gateway, the Sagemcom-built BBOX3V+, the exploit opened a reverse shell, 

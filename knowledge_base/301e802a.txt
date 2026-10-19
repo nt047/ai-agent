@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/opencode-console-breach-may-have.html
+
+id in a post on X later that day. The keys at risk are the ones pasted into Console. The OpenCode command-line and desktop apps keep provider keys added on the machine in a SQLite database there. The breach involves "the OpenCode Console, not OpenCode itself," co-founder Dax Raad wrote in a reply on X, and those keys "never come to us." A provider key is a bearer credential: whoever holds a copy can run billable requests against the owner's account until the provider r
