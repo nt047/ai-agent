@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html
+
+ccess — ConnectWise disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The IT management software provider said it took the action on October 17, 2026, at 07:00 UTC, adding it has also suspended Cloud Backup service by revoking certificates used for affected application connections across all users. New Prioritie

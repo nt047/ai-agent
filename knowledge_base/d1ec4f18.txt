@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html
+
+, 2026, 17 days after " my-gitlab[.]com " was registered. It's unclear if the latter code-hosting-themed domain is operated by the same threat actor. "It follows the same my-<code-host>.com naming pattern, making it a useful pivot, but current infrastructure does not directly connect it to GhostAction," security researcher Paul McCarty said . "They use different registrars, registrant records, Cloudflare nameserver pairs, IP addresses, ASNs, and DNS designs, and no shared certifi

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html
+
+Is Affected The version number does not show whether a copy is affected. Rank Math's changelog dates 3.0.123 to October 7, more than a week before the window opened, and the notice limits the incident to copies downloaded or installed through an update during the window. A copy of 3.0.123 obtained before 20:02 UTC on October 15 is outside it. The notice sorts sites into three cases: You installed and activated 3.0.123 during the window: treat the site as compromised, even if it has

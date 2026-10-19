@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/
+
+OpenCode hack exposes API keys amid AI distillation attacks
+The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]
+Just a moment... Enable JavaScript and cookies to continue

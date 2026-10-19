@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/
+
+F5 releases out-of-band patches for critical NGINX vulnerabilities
+F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]
+Just a moment... Enable JavaScript and cookies to continue

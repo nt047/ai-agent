@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html
+
+in August 2026, is a clean example of how agents that arrive inside existing platforms fail: through the application around them, not the model inside them. The risk is in the application, and the application is the thing nobody re-reviewed Which intake features are enabled, which triggers fire, which objects are exposed to guest users, which automation passes untrusted data where, and which model version the agent is quietly calling underneath: these are the variables that decide wheth

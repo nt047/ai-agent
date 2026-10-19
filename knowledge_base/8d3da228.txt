@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html
+
+ounders. It's being tracked under the moniker REF8801 . The names of the npm packages, each of which targets both Windows and macOS machines, are listed below - @apexacc/cli (Apex Copilot CLI — AI advisor for Web3 founders) - @apexacc/audit (Web3 Security Scanner — 18 tools for DYOR and smart contract auditing) While both the packages and their associated GitHub repositories are no longer accessible, "@apexacc/cli" was advertised as an "AI advisor for Web3 founders" that's powe

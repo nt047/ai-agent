@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/
+
+Microsoft fixes classic Outlook bug that hid Copilot buttons
+Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]
+Just a moment... Enable JavaScript and cookies to continue
