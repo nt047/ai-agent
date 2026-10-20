@@ -1,0 +1,11 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html
+
+Possible new Cellebrite iPhone Radio Zero-Day
+<p>Justin.sh is <a href="https://justin.sh/blog/2026/10/cellebrite-advanced-unlocks/">reporting</a> on a confidential Cellebrite document that has been leaked to him:</p>
+<blockquote><p>Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the &#8220;advanced unlocking services&#8221; they&#8217;ve marketed for years. A <a href="https://web.archive.org/web/20260814034529/https://www.prnewswire.com/news-releases/cellebrite-appoints-shiven-ramji-chief-executive-officer-succeeding-thomas-e-hogan-302850249.html">press release</a> from earlier this year confirms AU is a new product for 2026.</p>
+<p>[&#8230;]</p>
+<p>According to Cellebrite, AU:</p>
+<ul>
+<li>is a &#8220;next-generation AFU vector that is more resilient to Apple&#8217;s OS changes&#8221;
+<li>works with Stolen Device Protection enabled, which tightens USB restrictions
+<li>is enabled by a dedicated appliance with a stated range (!) of about 8 meters...</li><

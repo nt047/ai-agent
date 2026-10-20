@@ -1,0 +1,3 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xaljvx/unauthenticated_sql_injection_in_glpi_1108/
+
+ you want, please file a ticket here . When contacting us, please include your Reddit account along with the following code: 01a15945-32cf-7b20-8bb3-06f4f932fb8f

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html
+
+uild pipeline were not touched: the bad build was a plain go build of a later commit, uploaded straight onto releases published between April and September. Who Was Exposed On v0.15.0, the attacker replaced six files: the macOS x86_64 and arm64 archives, the Linux x86_64 and arm64 archives, the Windows x86_64 archive, and the checksums.txt file, so the published hashes matched the new binaries. The same six files are now gone from v0.11.0 to v0.14.0 as well. The Linux i38

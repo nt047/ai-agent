@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xaqo61/prompt_injection_xss_and_siemexfil_payloads/
+
+Prompt injection, XSS and SIEM-exfil payloads living in reverse DNS, plus 28 fake Googlebots that passed FCrDNS
+<!-- SC_OFF --><div class="md"><p>- Google's own nameserver vouched for Russian IPs as Googlebot.</p> <p>- One PTR addresses AI agents directly, and it passes forward confirmation. </p> <p>- The exfil payload dodges filters for spaces, parentheses and quotes, and phones home to an IP written as one decimal number. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/HexLayer3"> /u/HexLayer3 </a> <br /> <span><a href="https://ellio.tech/en/blog/ignoreallpreviousinstructions-a-peek-into-340-billion-daily-reverse-dns-ptr-records/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xaqo61/prompt_injection_xss_and_siemexfil_payloads/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're r

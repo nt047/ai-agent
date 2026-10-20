@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html
+
+ issue has been patched in version 4.0.9.8. Huntress Labs researcher Jose Oregon has been credited with discovering and reporting the shortcoming. In a separate alert, Siemens said attackers have abused a genuine copy of Siemens Software Center with a valid signature and placed their own crafted DLL ("archive.dll") next to it to trigger the execution of malicious code. "They chose this program as a carrier because it is signed and trusted, and because version 3.5.8.7, the lates
