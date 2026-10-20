@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:84753
+Moderate: glibc security update

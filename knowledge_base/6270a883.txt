@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html
+
+at requires CT logging, the Chrome Root Program said. It is not known how the keys left eMudhra, when, or whether anyone besides the researcher holds them. The keys are the ones Go blocked in its October 20 security releases without naming the CA, as The Hacker News reported earlier . The eight hash values in Go's code match the eight certificates. Go handled the fix on its URGENT track, which its security policy reserves for threats to the ecosystem's integrity or flaws bein

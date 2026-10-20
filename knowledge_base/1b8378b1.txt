@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:84799
+Important: mariadb11.8 security update

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:85191
+Important: xorg-x11-server-Xwayland security update

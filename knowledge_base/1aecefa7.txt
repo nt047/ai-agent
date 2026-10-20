@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/
+
+Zeabur shutting down after second security breach in two months
+Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:84578
+Important: python3.14-urllib3 security update
