@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html
+
+ 93.152.224[.]118 2.27.248[.]127 Notably, the IP address "96.62.224[.]81" was identified as hosting a ClickFix script and an MSI installer file in connection with another campaign that has been found to leverage malicious ChatGPT Custom GPTs to direct victims to a fake URL responsible for serving the ClickFix lure. Forescout's own analysis has since uncovered the same malware being delivered via another server, 86.109.75[.]7, that also hosted a panel codenamed ROMULUS. In a
