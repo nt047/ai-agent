@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xasa1k/how_i_got_over_300_tor_exit_nodes_removed/
+
+How I got over 300 Tor exit nodes removed
+<!-- SC_OFF --><div class="md"><p>Author here :)</p> <p>TLDR: on Oct 2, 333 exits (~10% of Tor exits) started redirecting port 22 to 12 interception servers running a paramiko-based MITM that stole passwords and tried to drop Ebury on the target.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/kabakaba0"> /u/kabakaba0 </a> <br /> <span><a href="https://kaba.cx/posts/20261020_Tor/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xasa1k/how_i_got_over_300_tor_exit_nodes_removed/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're sup

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html
+
+ting file outside of the intended directory and turn the arbitrary-file-write primitive into remote code execution. "The FortiSIEM gRPC QueryResultReq handler processes untrusted metadata without proper path validation," Horizon3.ai said . "By crafting metadata containing both path traversal sequences (../) and NUL-byte injection within gRPC's HTTP/2 and HPACK encoding layers, an attacker can write arbitrary files to the file system." The problem stems from a case of unsafe path c

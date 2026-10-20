@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xataea/free_realtime_certificate_transparency_stream_no/
+
+Free real-time Certificate Transparency stream, no API key
+<!-- SC_OFF --><div class="md"><p>I put up a free public CertStream endpoint for anyone monitoring phishing or lookalike domains</p> <p>wss://api.certstream.dev/</p> <p>No API key or signup needed, just connect over WebSocket</p> <p>Python example: <a href="https://certstream.dev/free-certstream-api.html">https://certstream.dev/free-certstream-api.html</a></p> <p>Open source: <a href="https://github.com/reloading01/certstream-server-rust">https://github.com/reloading01/certstream-server-rust</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/Swimming_History_432"> /u/Swimming_History_432 </a> <br /> <span><a href="https://certstream.dev/free-certstream-api.html">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xataea/free_realtime_certificate_transparency_stream_no/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a n

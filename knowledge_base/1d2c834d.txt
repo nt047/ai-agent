@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html
+
+er 2, he found about two dozen Cairn instances being used maliciously, which let him read the attackers' work in real time. He set out the findings on Monday, and Reuters, which saw the report before publication, named the victims from its own review of the attacker's activity. Cairn gives AI agents a starting point and a goal, then lets them work toward it step by step. The agents post what they find to a shared board, and the human operator can add hints along the way
