@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html
+
+ an attacker to trick a legitimate program into loading a malicious DLL . When an application is launched, it needs to load various DLLs in order to function correctly. If the application does not provide the full path to a required DLL, the operating system looks for it in a predetermined sequence of directories. An attacker can take advantage of this behavior by planting a malicious DLL with the same name as a legitimate one in a location that Windows searches before the folder

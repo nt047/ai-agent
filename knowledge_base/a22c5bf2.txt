@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html
+
+ key after pasting the command, it triggers a multi-stage infection chain that leads to the deployment of malware, such as information stealers or remote access trojans. In an attempt to blend in with regular activity and evade detection, the commands often make use of living-off-the-land (LotL) tools like PowerShell or cmd.exe to download next-stage payloads. A key reason why ClickFix remains an effective initial access method is that it flips the script on traditional phi

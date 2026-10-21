@@ -1,0 +1,3 @@
+المصدر: https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/
+
+e, we consider this one of the most impactful security issues in recent memory.” Security experts at Wiz said every PHP version released in the last decade is affected by at least one of these vulnerabilities [full disclosure: Wiz is an advertiser on this blog]. “These findings rank among the most severe vulnerabilities discovered in PHP, and arguably in software history,” reads a blog post published today by a team of rese

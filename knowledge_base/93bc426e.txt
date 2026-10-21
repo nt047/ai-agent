@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/
+
+Microsoft PowerToys adds CursorHide, Button Lock mouse tools
+Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]
+Just a moment... Enable JavaScript and cookies to continue

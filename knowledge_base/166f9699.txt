@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/
+
+PHP ships emergency patches for critical PHP2Shell flaws
+The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]
+Just a moment... Enable JavaScript and cookies to continue

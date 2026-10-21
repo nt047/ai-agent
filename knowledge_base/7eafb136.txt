@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html
+
+more than 22,000 complaints involving AI in 2025, with nearly $900 million in associated losses, and logged 24,768 business email compromise (BEC) complaints with about $3.05 billion in reported losses, according to its 2025 Internet Crime Report . What AI Changed Email filters were built for attackers who had to cut corners. Researching a target, writing convincingly in a second language, impersonating a supplier, and producing enough variants to defeat signatures all took time, so attacke

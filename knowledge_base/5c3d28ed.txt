@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html
+
+ confirmed, the public exploit code going around has not been shown to work, and neither flaw is in CISA's catalog of known exploited flaws. PHP has not said which versions are affected, which part of PHP is involved, or whether any setting changes the risk; it says the full details and the fixed versions come with the release. ⚡ UPDATE — PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge At the time of writing, that release was not yet out. So

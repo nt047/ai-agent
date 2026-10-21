@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html
+
+after details leaked ahead of a planned October 22 disclosure. Researchers at Wiz, Calif, and OpenAI found and reported the flaws, which affect nearly every PHP version back to PHP 5.4. Who Is Affected Every PHP installation that serves web requests is at risk, including PHP-FPM, Apache mod_php, php-cgi, FrankenPHP and LiteSpeed, according to the PHP security advisory . Because the flaws are in the engine rather than in any site's code, even a simple "Hello World" page on a vulnerabl
