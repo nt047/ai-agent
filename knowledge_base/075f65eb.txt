@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/
+
+Lazarus hackers use post-quantum cryptography for malware delivery
+North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]
+Just a moment... Enable JavaScript and cookies to continue

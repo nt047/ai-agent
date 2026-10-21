@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/
+
+Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks
+Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]
+Just a moment... Enable JavaScript and cookies to continue

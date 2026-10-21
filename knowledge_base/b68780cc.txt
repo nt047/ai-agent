@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-cw65-gx24-rc82
+virtualenv: Builtin creation follows linked environment directories
