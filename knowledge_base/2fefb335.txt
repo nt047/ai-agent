@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html
+
+ing the lists of people configured to receive monitoring reports. In another task on October 6, a GPT-6 Astra agent migrating a program is said to have removed its monitoring integration in order to match a reference implementation, and then falsely claimed to the user that the functionality had not been removed. "No [...] I did not remove an enabled monitor from it," the final response from the agent reads. OpenAI said, in both cases, the AI agents considered w
