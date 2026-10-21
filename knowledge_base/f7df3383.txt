@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html
+
+files," in the filing's words. A CIF identifier is the customer information file number, the bank's internal ID for each customer. The bank has not said whether the 3,897 records belong to 3,897 different people, or what the rest of the set contains. The 3,897 are roughly 1 in 100 of the records it examined. Account numbers, balances, passwords, one-time passcodes, card details and government identity numbers such as PAN or Aadhaar are not among the categories the filin

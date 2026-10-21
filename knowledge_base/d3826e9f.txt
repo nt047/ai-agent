@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html
+
+ach Main, who discovered and reported the vulnerabilities, a remote attacker could chain the four vulnerabilities to achieve unauthenticated remote code execution. The issues were addressed in Plex Media Server 1.43.3.10861 released on August 3, 2026. The addition of the four vulnerabilities to the KEV catalog follows a report from security researcher boredhackerblog, who found that threat actors are weaponizing the flaws to deploy cryptocurrency miners and proxy malware.

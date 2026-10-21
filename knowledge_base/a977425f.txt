@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html
+
+ry account and replaced the keys and credentials that could have been affected." As a result of the incident, threat actors are believed to have accessed its customer database, which holds the following information - Names, email addresses, billing addresses and order history Account passwords, stored only in hashed (scrambled) form and never in plain text Two-factor authentication (2FA) settings Connection keys for UpdraftCentral, UpdraftVault and UpdraftClone Tea
