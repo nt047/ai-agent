@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html
+
+aid the incident is likely part of a series of attacks designed to target platform companies with the ultimate goal of compromising artificial intelligence (AI) inference providers. The company also said it has notified upstream providers to proactively revoke the keys so as to prevent their abuse. Customers are being urged to take the following actions as a precautionary measure - Rotate environment variables, including any API keys, stored in Railway, as well as private regist

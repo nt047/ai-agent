@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html
+
+r. The helper built a PowerShell command around the address without escaping it, so an address written to carry a PowerShell command would run that command. The browser step runs only when a developer starts the sign-in, by running opencode mcp auth or making the matching request. Having the server configured, or opening a session, does not reach it. The attacker needs control of a remote MCP server the developer has added, and that server need not be hostile from the start. One t

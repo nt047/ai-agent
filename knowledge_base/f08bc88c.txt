@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html
+
+tween 11:46 a.m. and 2:20 p.m. UTC are impacted. The poisoned version incorporated code to harvest credentials and keys, and run arbitrary code from a remote server every hour, turning it into a remote access trojan (RAT). Specifically, the Python interpreter processes a path file ("cook.pth"), which includes a command to import "cook," a Python script ("cook.py") that deobfuscates itself and runs a stealer routine named "privcollect" to gather system, browser, developer, cloud, a

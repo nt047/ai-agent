@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html
+
+e:zlib module or automatically when code calls fetch() on a response sent with Brotli compression. An application is exposed where it decompresses Brotli data an attacker controls, such as a request body or a response fetched from another server. The Brotli Flaw The flaw is an out-of-bounds write in the Brotli decoder, set off by malformed compressed input. The fix is an upstream patch from the Brotli project that Node.js copied in, and it makes the decoder catch invalid input and 

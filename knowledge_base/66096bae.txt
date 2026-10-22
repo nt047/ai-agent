@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html
+
+Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation
+Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed "anomalous activity" related to systems that store customer environment variables.
+
+Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a "subset of users,
+Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or le
