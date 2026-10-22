@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html
+
+product line from Broadcom, announcing the deal in July 2025. The products were earlier known as VMware SD-WAN by VeloCloud. To exploit the flaw, an attacker needs network access to the orchestrator's web interface and a valid login. The minimum role is Enterprise Read Only, the lowest built-in role for customer users. VCO is exposed by default, and no VCO setting prevents the exposure. In VCO, operators create the customer and partner accounts, and each partner 

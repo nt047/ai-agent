@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html
+
+ng a root from a browser also cuts off legitimate certificates issued beneath it. About 30,800 unexpired certificates chained to that root as of October 21, by Chrome's count of public Certificate Transparency (CT) logs. Of those, 99.9% were issued through InCommon, the certificate service Internet2 created for the higher education community. InCommon moved the service onto eMudhra's CertiNext platform between April and July this year. Google has told website operators with 
