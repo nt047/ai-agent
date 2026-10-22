@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html
+
+ices, government, legal, manufacturing, media, military, semiconductor, software, technology, and think tanks and non-profits. "Storm-0940's use of ARTEX accelerated the speed of compromised application abuse to authenticate to target environments through applications that had already been granted access, allowing the threat actor to operate without requiring an interactive user sign-in," Microsoft said . "AI-accelerated follow-on activity included reconnaissance, ap
