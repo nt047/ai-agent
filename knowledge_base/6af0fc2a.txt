@@ -1,0 +1,7 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html
+
+New Serious PHP Vulnerabilities Released and Patched
+<p>PHP maintainers have <a href="https://www.php.net/archive/2026.php#2026-10-20-1">released</a> fixes for two critical vulnerabilities:</p>
+<blockquote><p>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. </p>
+<p>Who is at risk: all PHP installations serving web requests, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed. We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs...</p></blockquote>
+New Serious PHP Vulnerabilities Released and Patched - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog New Serious PHP Vulnerabilities Released and Patche

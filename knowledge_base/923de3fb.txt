@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html
+
+security playbook on bringing that unseen AI under control. Where AI is hiding on your endpoints It isn't only developers. AI agents, coding assistants, MCP servers, and browser extensions are turning up across the business. And most of them never cross your network gateway in a way the tools you already run would recognize. The result is a hard irony. The AI with the most access is often the AI your security team can't see. 📅 Save Your Spot: Watch the Webinar The visibil

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-6vvc-x485-93v7
+pypdf: Possible long runtimes/large memory usage when retrieving form fields

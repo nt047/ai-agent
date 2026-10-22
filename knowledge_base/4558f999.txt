@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-2p8c-gr87-2676
+Electron: SameSite cookie restrictions are not applied to windows opened from links

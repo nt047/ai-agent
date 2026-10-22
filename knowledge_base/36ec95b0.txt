@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2022-1259
+Heap-buffer-overflow in dwg_decode_INSERT_private

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-f54x-cmq8-qg57
+pypdf: Possible large memory usage when parsing arrays and dictionaries

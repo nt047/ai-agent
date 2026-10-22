@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-vjh5-4x84-xrqp
+Nuxt: Server-side route rules (`redirect`, `headers`, `proxy`, `ssr`) are skipped for case-variant paths when routing is case-insensitive

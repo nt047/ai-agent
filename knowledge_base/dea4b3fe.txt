@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/
+
+Machine speed attacks require machine speed detection and response
+Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]
+Just a moment... Enable JavaScript and cookies to continue

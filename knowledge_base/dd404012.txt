@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-jjm6-p2m9-9w4x
+Nuxt: Incomplete fix for GHSA-934w-87qh-qr26: a `javascript:` URL prefixed with an ASCII control character executes from `<NuxtLink>` when `pages` is disabled

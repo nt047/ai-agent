@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2022-714
+Heap-buffer-overflow in dynapi_set_helper

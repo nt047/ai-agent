@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-xfq5-w38q-pc2x
+Nuxt server islands render `useHeadSafe` input without sanitisation

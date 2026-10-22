@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-98mx-cjp9-gchm
+Electron: Extension tabs.query returns tab URLs and titles without the tabs permission

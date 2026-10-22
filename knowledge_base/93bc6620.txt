@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-6gq8-jgmh-3ffp
+Nuxt: Route rules are matched against the raw request path, so a percent-encoded segment can bypass `appMiddleware` on dynamic and catch-all routes

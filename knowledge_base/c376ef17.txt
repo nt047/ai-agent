@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-h3v5-h239-pg29
+Electron: Off-screen rendering on macOS trusts GPU-supplied frame geometry

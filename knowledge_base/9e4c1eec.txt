@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-673q-mjm6-r5xr
+Next.js: Unauthenticated Remote Code Execution in `use cache` functions returning typed arrays

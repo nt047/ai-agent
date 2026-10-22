@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-78g4-xqwv-q3g8
+Pillow: Bundled libopenjp2 2.5.4 in all wheels since 11.1.0 carries OSV-2025-219 heap-buffer-overflow write reachable from Image.open().load()

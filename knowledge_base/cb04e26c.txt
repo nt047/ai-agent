@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/
+
+Arista patches new VeloCloud Orchestrator zero-day exploited in attacks
+Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]
+Just a moment... Enable JavaScript and cookies to continue

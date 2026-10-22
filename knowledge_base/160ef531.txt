@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/
+
+Amazon says PHP2Shell exploitation began 4 days before patches
+Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]
+Just a moment... Enable JavaScript and cookies to continue

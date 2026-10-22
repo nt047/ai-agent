@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-cgf9-327m-v77c
+pypdf: Possible large memory usage when parsing content streams

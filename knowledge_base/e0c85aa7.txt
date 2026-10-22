@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-997q-gvvc-jwmx
+Electron: openExternal permission requests can be attributed to the wrong origin

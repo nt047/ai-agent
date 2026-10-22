@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html
+
+ Cambridge Analytica, a British political consulting firm, obtained data belonging to millions of Facebook users without their consent to build psychographic profiles. The data was collected via a personality quiz app called "thisisyourdigitallife." Around 300,000 users are said to have taken the psychological test, although it later emerged that the app also collected the data associated with their friends, thereby amassing a dataset of 87 million profiles. Meta banned the

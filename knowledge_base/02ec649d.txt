@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-x562-297c-g43g
+Electron: Pointer lock permission requests can be attributed to the wrong frame

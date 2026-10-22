@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-3qxv-5xgr-q7w9
+Electron: Frame subscription trusts GPU-supplied frame geometry
