@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html
+
+Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack
+The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.
+
+According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of
+Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leav

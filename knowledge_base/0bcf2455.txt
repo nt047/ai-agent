@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html
+
+hat communicates with a command-and-control (C2) server hosted inside the Yggdrasil mesh network. The backdoor was deployed a day after MATCHWOK was executed. There are indications that development on the backdoor started sometime between December 2024 and February 2025. Its functionality is fairly straightforward in that it sends victim metadata to the C2 server, poll for new commands, transmit command output, take screenshots, and upload/download files. It can also alter the

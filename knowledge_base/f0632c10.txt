@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html
+
+PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches
+PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.
+
+The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called
+PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/fee

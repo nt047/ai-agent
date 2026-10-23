@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html
+
+ and most machine-learning projects pull it in. OX Security, the firm whose report drew attention to the flaws, estimates the library is downloaded about 436 million times a month . Version 13.0.0 is a large security release, with fixes across four severity levels, from low to critical, two of which are rated critical by the maintainers. None of the flaws is known to be under attack. The weakness is the filename, not the picture. "The flaw is triggered by the filename, not by anyt

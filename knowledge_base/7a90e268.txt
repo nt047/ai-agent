@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html
+
+8.2.35. The new issue is separate and is not fixed by those releases. Only a narrow setup is at risk. PHP says the problem can occur when a web application does all of the following: sets the session.serialize_handler option to php_binary or php_serialize in its configuration, then changes that option to php while running by calling ini_set(), and makes that change before it calls session_start(). Session upload progress must also still be turned on. An application th

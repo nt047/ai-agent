@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html
+
+d payment. Among the x402 SDKs, only the TypeScript one had this flaw. The other let a malicious server get an agent to sign a login message for a different website. V12 found the flaws by reviewing the code and running local tests. Neither V12 nor the x402 Foundation has publicly reported any attacks using them. The foundation has published no security advisory for the three flaws, and its changelogs list the fixes without calling them security fixes. As of October 23, npm
