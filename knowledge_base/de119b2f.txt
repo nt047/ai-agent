@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/
+
+Quest Diagnostics confirms data breach exposed patient records
+American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]
+Just a moment... Enable JavaScript and cookies to continue

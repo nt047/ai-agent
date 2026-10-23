@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html
+
+connections with ransomware groups such as Qilin and The Gentlemen, likely operating as an initial access broker or an affiliate. Analysis of the threat actor's dark web activity reveals a keen interest in purchasing vulnerability exploit code and tools or premium accounts for metadata search engines like FOFA and ZoomEye . The campaign's victims are global and belong to a broad range of sectors, given the indiscriminate targeting of exposed network devices. A signif

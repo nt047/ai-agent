@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html
+
+ that defines the campaign is its "AI-executed, human-approved operating structure" in which a human operator provides a victim-specific prompt and reviews every step, while the intrusions themselves are executed through OpenCode with OpenRouter-hosted commercial models. An examination of the exposed directory at 45.227.254[.]43 has revealed the activity logged 8,257 messages across 133 sessions. Should the models refuse to act on the prompts, the operator has been found to rewrite req

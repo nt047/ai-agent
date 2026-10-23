@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/
+
+PHP shares mitigation for new RCE vulnerability with no patch
+The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]
+Just a moment... Enable JavaScript and cookies to continue
