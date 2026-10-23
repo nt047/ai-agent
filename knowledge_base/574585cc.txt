@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-pfhg-q3qv-9q6r
+SvelteKit: URL redirection to untrusted site via enhanced form submission

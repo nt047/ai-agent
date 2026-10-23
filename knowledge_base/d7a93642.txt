@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-3cgq-c484-rx5j
+Duplicate Advisory: vLLM 0.7.3 before 0.31.0 DoS via Unvalidated mm_processor_kwargs

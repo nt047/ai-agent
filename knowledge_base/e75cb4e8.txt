@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/
+
+Abandoned Popcorn Time app exposed millions of devices to RCE attacks
+Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]
+Just a moment... Enable JavaScript and cookies to continue

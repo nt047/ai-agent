@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html
+
+ on cybercrime forums in late 2022, before its existence was officially confirmed by ESET in March 2023. BlackLotus is designed to exploit a now-patched Secure Boot bypass vulnerability tracked as CVE-2022-21894 (CVSS score: 4.4), also known as Baton Drop, to load malicious code before the operating system starts. However, successful exploitation hinges on an attacker having administrator privileges or physical access to a target host. "It is critical to note that a threat actor'

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-gx7p-2j49-hfq4
+vLLM : DoS via unvalidated mm_processor_kwargs in multimodal image processors (Isaac, InternVL, H2OVL, etc.)

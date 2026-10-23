@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-pjjw-68hj-v9mw
+uv vulnerable to arbitrary file deletion through RECORD entries
