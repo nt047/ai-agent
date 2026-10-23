@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-18205
+Malicious code in @tekmidian/pai (npm)
