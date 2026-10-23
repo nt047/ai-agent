@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html
+
+functionality." Specifically, it resolves a hard-coded, encrypted command-and-control (C2) address, establishes a TCP connection to 134.199.154[.]64, and sends an HTTP request. The malware then checks for an HTTP 200 response status and verifies that the resulting payload begins with the ELF magic bytes 7F 45 4C 46, indicating that it expects a Linux ELF binary as a follow-on payload. "A resolver function supports IPv4 addresses and hostname resolution, with additional f

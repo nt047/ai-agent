@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:85959
+Moderate: fetchmail security update

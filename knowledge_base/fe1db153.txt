@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:86331
+Important: glycin-loaders security update

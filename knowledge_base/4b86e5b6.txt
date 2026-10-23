@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:86195
+Critical: .NET 10.0 security, bug fix, and enhancement update

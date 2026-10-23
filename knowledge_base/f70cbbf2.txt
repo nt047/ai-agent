@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:86971
+Moderate: cockpit-machines security update

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:86056
+Important: lrzsz security, bug fix, and enhancement update

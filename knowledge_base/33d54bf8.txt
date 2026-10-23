@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:86841
+Important: librsvg2 security update

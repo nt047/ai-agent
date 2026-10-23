@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:86168
+Critical: .NET 8.0 security, bug fix, and enhancement update
