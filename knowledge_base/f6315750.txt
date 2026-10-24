@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2026-1035
+Heap-buffer-overflow in Assimp::D3MF::D3MFExporter::writeFaces

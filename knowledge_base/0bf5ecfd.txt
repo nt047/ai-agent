@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2025-202
+UNKNOWN READ in _blit_xrgb32_lerp_spans

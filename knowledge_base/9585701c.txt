@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2022-388
+Segv on unknown address in dwg_ref_get_object
