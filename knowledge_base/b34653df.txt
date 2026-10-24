@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:88360
+Important: postgresql18-pgvector security update
