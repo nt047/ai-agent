@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
+
+ulnerability in on-premise versions of Arista VeloCloud Orchestrator that could allow a remote attacker to access privileged internal functionality. (Fixed in October 2026 in versions 5.2.3.18, 6.1.3.10, and 6.4.2.12) As reported by The Hacker News, threat actors have been observed exploiting CVE-2026-110447 to backdoor Nextcloud servers with a web shell so as to conduct reconnaissance and search for credential stores, password manager artifacts, and cryptocurrency wallets. As for C

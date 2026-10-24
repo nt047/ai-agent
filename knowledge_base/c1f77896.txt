@@ -1,0 +1,10 @@
+المصدر: https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html
+
+CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild.
+
+The critical-severity vulnerabilities are listed below -
+
+
+  CVE-2026-110447 (CVSS score: 9.2) - An operating
+CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a ques
