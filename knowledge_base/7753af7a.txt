@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html
+
+" Google also notes in its revised policy that "We don't show you personalized ads based on your content from Drive, Gmail, or Google Photos, unless you choose to make data from these services available to other Google services that support personalized ads." News of the policy update was first reported by Android Authority. Personal Intelligence, unveiled by Google in Gemini in January 2026, allows users to connect other services like Gmail, Google Photos, and YouTube as a way t

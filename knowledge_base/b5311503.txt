@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html
+
+g from "69.48.229[.]143") used this unrevoked key on October 10, 2026, to gain access to the Agent Platform and extracted a GitHub CLI OAuth token the service was configured with to allow self-hosted cloud agents to file pull requests to GitHub repositories. The token, per the developers of the open-source large language model (LLM) gateway, was "not scoped down" and associated with its GitHub organization owner's account. Gaining access to the token allowed the attacker to poss

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html
+
+ threat hunt: a program called Updater.exe on one client's laptop kept trying to reach a web address that was no longer registered. The firm registered the address itself to see what would connect, and about 50 requests a second poured in. It later laid out the operation, which it named Operation IXIM, in a write-up and a talk at Hack.lu on October 22. Over six months, those requests carried more than 3.8 million different hardware IDs. The IDs proved an unreliable way to count machines, because so

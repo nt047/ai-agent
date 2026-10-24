@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html
+
+oduct by product since. Because the bug is in Google's decoder and each program ships its own copy of it, every one has to update that copy on its own. Brotli is a compression format from Google, used across the web to shrink pages and other traffic. The bug is in the C code that unpacks a Brotli stream, so it travels into anything that reuses that code, from language runtimes to proxies to Python packages. Which Software Is Affected Product Affected Fixed in Exposed when Google Bro
