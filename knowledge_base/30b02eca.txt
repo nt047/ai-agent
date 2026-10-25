@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/
+
+AI coding agents hijacked using AGENTS.md file in Downloads folder
+Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]
+Just a moment... Enable JavaScript and cookies to continue
