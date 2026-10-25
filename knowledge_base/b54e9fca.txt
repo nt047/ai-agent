@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html
+
+mmands and behavioral markers suggesting the work of an agentic attacker. These include commands to facilitate - Reconnaissance of the authentication database with stolen credentials, targeting password hashes and two-factor authentication (2FA) secrets. Active Directory (AD) reconnaissance via curl-based anonymous LDAP queries to the domain controller (DC) in an attempt to look for the administrator account. Reconnaissance of the host to hunt for DNS/AD integration, internal hosts, privileged 

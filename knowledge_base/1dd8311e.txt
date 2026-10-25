@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html
+
+blication, Tailscale had issued no security bulletin , no CVE identifier, and no fixed version. Tailscale has responded in public. Mike Shaver, the company's vice president of engineering, wrote on Reddit that Tailscale had received the report, had already been looking at the same areas with outside security specialists, and had found issues it is working to fix. Shaver said the company is still working out which setups are affected, and that it is "not recommending that ev
