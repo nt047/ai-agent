@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/
+
+Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches
+A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html
+
+ppened. ⚡ Threat of the Week PHP2Shell Flaws Puts Organizations on Alert — The PHP Foundation released patches for two critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619, that could lead to unauthenticated remote code execution. The security flaws have been codenamed PHP2Shell. Since public disclosure, the shortcomings have witnessed widespread scanning efforts, with Cloudflare stating it detected millions of exploitation attempts after public disclosure. To date, no succe

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/php-issues-second-windows-security.html
+
+ software bill of materials , a list of the components inside, with each package. For last week's x64 Non Thread Safe builds of all four versions, those lists show Brotli 1.2.0, one of the affected versions. PHP advises Windows users to install the new builds from its downloads page . Because the PHP version itself is unchanged, php -v shows the same number before and after. The -1 in the file name, as in php-8.5.12-1-nts-Win32-vs17-x64.zip , and the SHA-256 hash listed on the

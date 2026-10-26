@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html
+
+ Wasmtime across all processor architectures. CVE-2026-115893 affects only ARM64, also called aarch64. The sandbox is meant to keep a module inside set limits. A module can only use its own memory and the host functions it is given, and its code can only jump to checked locations. Because both flaws need a module the attacker controls, the risk is highest for services that compile modules written by other people. Fastly, for example, says its Compute platform runs custome

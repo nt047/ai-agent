@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/
+
+When an AI Agent Is the Incident, the Identity Record Is the Evidence
+A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]
+Just a moment... Enable JavaScript and cookies to continue
