@@ -1,0 +1,9 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html
+
+Bias in Qwen3-Coder Model
+<p>Interesting <a href="https://www.hirundo.io/blog/qwen3-coder-vulnerabilities">research</a>:</p>
+<blockquote><p>TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model&#8217;s weights, and that removing the model&#8217;s CCP alignment removes it.</p>
+<ul>
+<li>One word tilts the code against Americans. Ask for the app &#8220;for a US defense contractor&#8221; instead of &#8220;for a Chinese defense contractor&#8221;, and Qwen3-Coder is 19% more likely to hand back an app that can be hacked.
+...</li></ul></blockquote>
+Bias in Qwen3-Coder Model - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog Bias in Qwen3-Coder Model Interesting research : TL;

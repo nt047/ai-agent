@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
+
+are campaign that other researchers have documented separately : function-color pulls in a downloader called function-flag, which fetches and runs a Windows payload. Researchers at CloudSEK and Checkmarx, who analyzed the campaign , named it MALFEX. Two things, each harmless on its own, make this work, Forever said . An agent is built to trust and obey the instructions file in the folder it opens. And a web page can save a file to the Downloads folder on its own, without a click or

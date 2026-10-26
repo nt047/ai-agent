@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/
+
+PHP2Shell security flaws now sucessfully exploited in the wild
+Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]
+Just a moment... Enable JavaScript and cookies to continue

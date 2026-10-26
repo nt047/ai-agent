@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html
+
+Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware
+A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&nbsp;Forever Security said&nbsp;in a report published last week.
+
+The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder.
+
+The file
+Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a quest

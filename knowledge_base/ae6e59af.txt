@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html
+
+esearchers Andrea Hatcher, Susannah Matt, Matt Poto, and Andrew Schwartz said. The attack has been found to employ an AitM login page, which sits between the victims and legitimate Microsoft infrastructure to capture the entered credentials and MFA codes and relay the information to the real login page. The end goal is to collect the access token issued by Microsoft following the sign-in process so that it doesn't have to bypass MFA a second time. The "proof of login" toke

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/
+
+Kali Linux 2026.3 released with 6 new tools, desktop updates
+Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]
+Just a moment... Enable JavaScript and cookies to continue

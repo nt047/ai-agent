@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html
+
+ling attackers to automate reconnaissance, craft targeted payloads, and execute scripts in seconds. Yet, speed does not obfuscate the need for stealth. To evade detection, adversaries deliberately draw out operations, hide inside standard admin tooling, and work in the quiet intervals between alarms. Adversaries might spend days or weeks inside an enterprise environment before an action generates a high-priority security alert. When an alert finally surfaces, it

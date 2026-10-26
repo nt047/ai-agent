@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html
+
+oked. Wiz has tracked the campaign since September 15 and calls it Gheist , after the user agent gheist that the attackers' tool sends with GitHub API requests. Wiz has recovered more than 13,500 planted branches from more than 850 compromised accounts, from personal projects to the private repositories of enterprise organizations. Wiz's analysis does not say how many organizations had secrets exposed. In private repositories and on GitHub Enterprise Server, GitHub audit 
