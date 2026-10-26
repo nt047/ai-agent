@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html
+
+025 lanhd6549tdhse[.]top, first seen in March 2026 additionalver[.]com, first seen in June 2026 deepveindrilling[.]com, first seen in October 2026 Sansec said it found deepveindrilling[.]com in the CMS blocks of 83 online stores since the domain was registered on October 6, 2026. The latest JavaScript loader domain is hosted behind Cloudflare and only responds to script requests from real visitors of infected stores. The loader is staged within Magento's cms_block database tab

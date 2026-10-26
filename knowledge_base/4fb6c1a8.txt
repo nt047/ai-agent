@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/
+
+Former pentester used ARTEX AI to steal 8.2 million data records
+South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]
+Just a moment... Enable JavaScript and cookies to continue

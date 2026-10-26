@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/
+
+DreamHost forces password resets in ongoing "incident"
+DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]
+Just a moment... Enable JavaScript and cookies to continue
