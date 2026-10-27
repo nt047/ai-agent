@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/
+
+OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests
+OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]
+Just a moment... Enable JavaScript and cookies to continue
