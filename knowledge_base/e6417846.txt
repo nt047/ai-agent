@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html
+
+orresponds to difficulty of detecting presence? I speculate that statistical testing might detect embedded encrypted neural networks even if they can’t be surfaced, similar to how entropy analysis is used to flag encrypted regions in binaries. lurker • October 27, 2026 1:36 PM “We release our models to support the improvement of defenses.” Where I come from th

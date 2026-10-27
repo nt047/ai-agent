@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html
+
+ hand by skilled operators to AI-agent platforms that automated the entire workflow, including command and control." The first of the three attacks has been found to abuse CyberStrikeAI , another open-source penetration testing tool that was previously put to use in an attack campaign targeting Fortinet FortiGate appliances. The activity was concentrated in a short period in October 2026. The AI-driven activity leverages the offensive security tool to automate various aspects o

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/
+
+The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest
+Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain emerging risks. [...]
+Just a moment... Enable JavaScript and cookies to continue

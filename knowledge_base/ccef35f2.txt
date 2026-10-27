@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html
+
+t runs in hundreds of millions of devices. The flaw was found by Sébastien Féry of FoxIO, who described it and two other TLS problems in a write-up on October 26. On an affected build, the server loads the revocation list file at startup and reports no error, so an operator who configured it has every reason to think revocation is working. It is not. A client whose certificate was revoked, for example a stolen or retired device, completes the handshake as if the certificate 

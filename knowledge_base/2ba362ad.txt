@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/
+
+Tailscale warns of SSH flaws allowing root privilege escalation
+The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]
+Just a moment... Enable JavaScript and cookies to continue

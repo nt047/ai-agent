@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xgvi3m/ive_proven_that_you_dont_need_quotes_or/
+
+I've proven that you don't need quotes or parentheses in JavaScript
+<!-- SC_OFF --><div class="md"><p>You can overwrite the prepareStackTrace property of the Error object by String prototype's functions and invoke them without parentheses. Then by overwriting the Error and Array prototype it is possible to control the arguments. Combining this behavior, together with some JSFuck-inspired tricks, it is possible to generate arbitrary JavaScript strings and run arbitrary JavaScript with only letters + - = and ,</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/DrAdalbbert"> /u/DrAdalbbert </a> <br /> <span><a href="https://blog.ikaes.de/generating-strings-without-parentheses-in-javascript/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xgvi3m/ive_proven_that_you_dont_need_quotes_or/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an 
