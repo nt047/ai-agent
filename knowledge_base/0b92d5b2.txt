@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html
+
+d that the serial numbers have a predictable structure containing a 10-character model prefix that's identical for all units of the same device family and a five-character hexadecimal counter that's incremented almost sequentially (e.g., 7K01F36PCA003E8). This, in turn, allows attackers to guess them at scale through a brute-force attack and identify if they are connected to the cloud without hitting rate limits or lockouts. As a result, all devices with active P2P function

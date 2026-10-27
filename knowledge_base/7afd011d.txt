@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html
+
+xecution against honeypot systems on October 24, 2026. "This is now confirmed RCE with usable memory disclosure, not just a crash followed by a suspicious process," Karimi said . "The response delivered an 800 KiB decoded cookie dump, and a function address derived from that dump using the public exploit's offsets appears in the subsequent execution payload." "The evidence demonstrates this chain on the intentionally favorable single-worker mod_php profile; it is not a measurement
