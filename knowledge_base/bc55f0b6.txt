@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/
+
+University of Copenhagen data breach exposes data of 525,000 people
+The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]
+Just a moment... Enable JavaScript and cookies to continue
