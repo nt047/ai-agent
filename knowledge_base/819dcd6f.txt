@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html
+
+nted by Kaspersky in April 2025, detailing the state-sponsored adversary's targeting of South Korea's software, IT, financial, semiconductor manufacturing, and telecommunications industries since November 2024 to deliver malware such as ThreatNeedle, AGAMEMNON, wAgent, SIGNBT, and COPPERHEDGE. The attacks were characterized by the exploitation of a security flaw in iniLINE Cross EX for malware delivery. Cross EX is a mandatory financial security software program installed by South Kore

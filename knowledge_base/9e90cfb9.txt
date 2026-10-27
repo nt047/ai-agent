@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/
+
+Apple backports CoreGraphics zero-day patches to older iPhones
+​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]
+Just a moment... Enable JavaScript and cookies to continue

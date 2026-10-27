@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html
+
+23, 2026. Microsoft assigned the CVE on September 8 and rated it 8.6 on the CVSS scale, which it labels "Important." On Android, Authenticator does more than show six-digit codes. It also acts as a broker: when Teams, Outlook, or another Microsoft app needs to sign a user in, it asks Authenticator, and Authenticator hands back a token, a digital pass that proves the user is logged in. Because the broker controls access to the entire account, it should be careful about which app it

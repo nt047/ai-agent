@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html
+
+authentication, we cannot completely rule out the possibility that it is counterfeit." Owners of such a device should contact Keystone support and use it only after the company confirms it is genuine. A device delivered before October 20 that passes the check can be considered genuine and used normally, according to Keystone. The company has not said when the attacker first got in. The attacker exploited a vulnerability in a third-party data monitoring tool used by Keystone's webs

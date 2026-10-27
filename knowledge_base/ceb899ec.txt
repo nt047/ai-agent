@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html
+
+ure. Amadey was sold to criminals as a service in 2018, according to ESET's analysis of Amadey . Each buyer runs its own control panel on its own servers. Computers infected with Amadey check in with their buyer's command-and-control (C2) server and carry out its orders. Amadey's main job is to install more malware, such as the StealC infostealer. It can also steal credentials and give the buyer remote access to the machine. The most common ways Amadey reached computers were fake s

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html
+
+yees regularly access. AI also makes it easier to tailor phishing campaigns to specific organizations or employees. For example, attackers can create personalized IT notifications that direct employees to a fraudulent login page using the company's branding and familiar authentication prompts. These attacks often rely on lookalike domains that closely resemble legitimate web addresses, with subtle spelling changes or additional characters. Combined with realist
