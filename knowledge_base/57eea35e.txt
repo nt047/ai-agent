@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html
+
+s approved, and its updates run in the background under the user's own update settings. Google announced the program in March , alongside changes it said resolved its disputes with Epic Games. Joining is optional, and stores that stay out will continue to operate as they do today. Under Google's rules, the store must still get the user's explicit consent for each install and "must not install apps silently without user consent." Large downloads and background installs must show a visib

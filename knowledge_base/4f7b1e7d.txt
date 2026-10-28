@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/
+
+Discord to let search engines index public server messages
+Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]
+Just a moment... Enable JavaScript and cookies to continue

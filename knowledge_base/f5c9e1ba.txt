@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html
+
+ote code execution, this morning, October 27," Defused Cyber said in an X post. In an advisory for the vulnerability, Horizon3.ai described it as an unauthenticated SQL injection vulnerability that could be chained to achieve remote code execution. "The vulnerability allows an attacker with network access to the affected Thin Client Framework (TCF) servlet to execute SQL as the APPS database user, then run operating system commands as the EBS application account," the cybersecu

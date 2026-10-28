@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html
+
+sai describes a chain built solely from logic errors in how Edge and Windows handle ordinary features, and he says the whole exploit is under 100 lines of code. The result is a universal cross-site scripting (UXSS) primitive: a way to run JavaScript on any website, bypassing the content security policy meant to prevent it. Because the attack starts from the browser's own process, it can reach sites like google.com that an ordinary web bug cannot touch. Tsai calls this a new attack 
