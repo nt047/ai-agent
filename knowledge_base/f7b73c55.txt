@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html
+
+this week, the one June identifier is still the only one on the record. CVE-2026-35273 affects PeopleSoft Enterprise PeopleTools versions 8.61 and 8.62, carries a CVSS score of 9.8, and lets an unauthenticated attacker take over the server over the network. Oracle released its fix in an out-of-band security alert on June 10. The flaw is on CISA's Known Exploited Vulnerabilities catalog. Attackers were already using it before that fix was in place. Mandiant and Google Threat Intel

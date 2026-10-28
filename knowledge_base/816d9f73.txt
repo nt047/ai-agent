@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-18295
+Malicious code in @capsense/core-ui (npm)

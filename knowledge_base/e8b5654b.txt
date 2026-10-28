@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-18294
+Malicious code in @capsense/ccx-welcome-page (npm)

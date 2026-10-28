@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html
+
+ decides who can connect using a device's identity and the network's policy file, not a password or key, so an attacker does not need stolen credentials, only a foothold on a device the policy already trusts. The flaws "don't allow an unauthenticated attacker to connect to arbitrary Tailscale SSH servers," Tailscale said, and an attacker can still reach only the machines the policy file already allows. Tailscale SSH's server runs only on Linux and the open-source macOS build; the att

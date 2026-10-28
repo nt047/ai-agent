@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html
+
+king exploit, something the company says has until now been the work of a few specialist teams. That capability claim rests on Anthropic's own account. The patches and the fact that Apple and Google credit Anthropic and its Claude model for specific fixes can be verified with the vendors. What a reader cannot check is how much of each chain the model built on its own. Anthropic says the work needed only "initial prompting" and "little human involvement," but it does not break down what a pers
