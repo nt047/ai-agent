@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html
+
+booting this way. Red Hat and SUSE, which both ship the affected code, rated the flaw as one an attacker exploits from an adjacent network position rather than across the open internet. TianoCore, the project behind EDK II, published an advisory on October 22 and rated the flaw, tracked as CVE-2026-97631 , 9.5 out of 10. A code fix exists, but no stable release of EDK II contains it yet, and the advisory still lists no patched version, so most users have nothing to install today. Wha

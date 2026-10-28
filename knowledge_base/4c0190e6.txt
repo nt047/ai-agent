@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html
+
+ score: 9.8) - An SQL injection vulnerability that could lead to security feature bypass. CVE-2026-104350 (CVSS score: 9.3) - A reflected cross-site scripting vulnerability that could lead to privilege escalation. CVE-2026-104354 (CVSS score: 9.1) - An SQL injection vulnerability that could lead to security feature bypass. CVE-2026-105779 (CVSS score: 9.1) - An SQL injection vulnerability that could lead to security feature bypass. The issues affect Adobe Campaign Class

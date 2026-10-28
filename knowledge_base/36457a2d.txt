@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html
+
+ed, but the Israeli company said it notified the entity. The attack chain essentially brings together two sets of vulnerabilities impacting PHP and the Linux kernel - PHP2Shell , a pair of flaws tracked as CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2) that could result in unauthenticated remote code execution Fragnesia , a Linux kernel local privilege escalation vulnerability tracked as CVE-2026-46300 (CVSS score: 7.8) "The implementation we recovered is a cust

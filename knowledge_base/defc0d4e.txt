@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2021-820
+UNKNOWN READ in virtio_gpu_disable_scanout

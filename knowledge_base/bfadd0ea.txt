@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/
+
+InfraTrust report warns of exploited flaws in critical network infrastructure
+Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as "PHP2Shell" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]
+Just a moment... Enable JavaScript and cookies to continue

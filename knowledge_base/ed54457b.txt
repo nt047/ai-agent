@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html
+
+. AI offers a practical way to augment analysts by providing contextual explanations, summarizing findings, and recommending remediation actions, rather than replacing human expertise. Challenges facing modern SOCs Modern SOCs are expected to detect and respond to sophisticated threats while processing millions of security events every day. High alert volumes contribute to analyst fatigue and increase the likelihood that crit

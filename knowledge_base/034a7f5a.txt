@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html
+
+Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers
+A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network.
+
+UEFI firmware is the software that runs first when a computer is switched on, before the operating system. An attacker who can reach the machine
+Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a que

@@ -1,0 +1,5 @@
+المصدر: https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html
+
+Wazuh and AI for Enhanced SOC Workflows
+Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate
+Wazuh and AI for Enhanced SOC Workflows --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback! Follow Us On Social Media       RSS Feeds  Email Alerts Wazuh and A
