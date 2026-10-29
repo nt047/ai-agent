@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html
+
+e focus areas is cybersecurity, where the latest iteration reportedly delivers significant performance improvements across the board, including vulnerability detection, validation, and remediation. Carbon is also twice as likely to generate secure code versus Argon. Google also emphasized that Carbon attempts to respond to complex or high-pressure tasks by seeking human input in the face of ambiguity rather than "guessing or forcing a path forward," as well as resisting every evaluated a

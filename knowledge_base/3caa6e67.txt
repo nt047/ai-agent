@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html
+
+the Threat Operator: an AI-native security professional who translates business risk into defensive priorities, directs AI-driven operations, and exercises judgment over the decisions and actions taken by those systems. The impact reaches beyond day-to-day SOC work. It will change the skills organizations need, how security professionals develop expertise, and the career paths open to people entering the field. From Individual Tasks to Overall Defense The traditional SOC dev

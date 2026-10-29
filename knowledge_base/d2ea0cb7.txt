@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html
+
+on version 12.10.4 or later. The version number appears at the bottom of the app's Settings page. The flaw had no CVE identifier as of October 29. The Hacker News has asked NebuSec and Telegram whether the flaw was used in real attacks, and asked NebuSec what an attacker's code could reach on a phone. During a Telegram call, the two apps send each other short messages to set up the call and report its state. One type, called MediaState, reports whether the microphone is

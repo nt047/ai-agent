@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html
+
+urity teams already have plenty of data. They have vulnerability findings, cloud alerts, identity signals, application telemetry, and threat detections. The harder problem is connecting those signals quickly enough to answer the questions that drive action. Is this vulnerability reachable? Does the exposed asset contain sensitive data? Can an attacker move from it to something more important? Who owns the affected system? What should be fixed first? When tho

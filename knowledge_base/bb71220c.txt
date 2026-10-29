@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html
+
+an for about a month, but Zimmermann did not provide the dates, so it is unclear how long ago the credentials were tested. He also did not say whether anyone else had used them. He ran two secret scanners, TruffleHog and Kingfisher , over every repository. Both tried each credential against the service that issued it and kept only those that worked, he wrote. The scanners read each repository's full commit history. A key that a developer later removed from the code could sti
