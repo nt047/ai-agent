@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html
+
+Studying Fraudulent North Korean IT Workers
+<p>Researchers set up a fake start-up company to <a href="https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html">study</a> fraudulent North Korean IT workers.</p>
+Studying Fraudulent North Korean IT Workers - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog Studying Fraudulent North Korean IT Workers Researchers set up a fake start-up company to study fraudulent North Korean IT workers. Tags: employment , fraud , North Korea Posted on October 28, 2026 at 7:05 AM • 5 Comments Comments Rontea • October 28, 2026 8:22 AM Once these workers clear hiring, they’re inside your network with legitimate access. No zero-days needed—your HR process is the attack surface. For Profit • October 28, 2026 9:30 AM As Rontea notes, this is an insider threat. Years ago, someone (American) was prosecuted for providi
