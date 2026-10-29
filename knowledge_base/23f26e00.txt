@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/
+
+Hugging Face malware campaign returns to hijack GPUs for crypto mining
+A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]
+Just a moment... Enable JavaScript and cookies to continue

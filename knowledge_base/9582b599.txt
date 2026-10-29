@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html
+
+ Yet WordPress security company Wordefence said it's not aware of any WordPress site compromised through PHP2Shell (CVE-2026-109618 and CVE-2026-109619) as of October 28, 2026. "We continue to see PHP2Shell -related requests across the more than 5 million sites we protect," it said . "Those requests show ongoing scanning and exploitation attempts; they do not show whether an attempt succeeded. Our site-cleaning and incident response teams have not handled a WordPress compromise attributed to these 
