@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html
+
+0.0-25370933 and ESXi-9.0.2.0100-25595025 VMware ESX ESXi80U3j-25429389 VMware Cloud Foundation 5.2.4 VMware Telco Cloud Platform ESXi80U3j-25429389 The development comes in response to CrowdStrike's 2026 Legal Threat Landscape Report , which revealed that Warp Panda had exploited CVE-2026-41709 as a zero-day in early 2026 with an aim to reduce audit trail visibility. Warp Panda "exploits internet-facing edge devices using zero-day vulnerabilities and custom malware to maint
