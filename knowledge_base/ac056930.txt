@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html
+
+ch 2022 and September 2026. The company confirmed it in private voice calls on ARM64-based phones and has no evidence so far that it directly affects Telegram's iOS and desktop apps or group calls. Anyone using Telegram for Android should make sure the app is on version 12.10.4 or later. The version number appears at the bottom of the app's Settings page. The flaw had no CVE identifier as of October 29. The attack needs the victim to be called and to answer, Zou said, s

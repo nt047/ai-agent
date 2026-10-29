@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html
+
+Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners
+Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.
+
+The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only to deliver a malware family called
+Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/f

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/
+
+Chrome extensions with 13.4 million installs caught hijacking searches
+A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]
+Just a moment... Enable JavaScript and cookies to continue
