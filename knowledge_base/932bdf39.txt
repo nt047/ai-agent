@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2025-191535
+Malicious code in tableate (PyPI)

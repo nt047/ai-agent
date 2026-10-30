@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/binance-suffers-security-breach.html
+
+in an update. The company said there is no evidence of a wallet private key leak, adding it will cover all losses from the Secure Asset Fund for Users ( SAFU ) fund and its own funds. Out of an abundance of caution, Binance has also taken the following steps - Temporarily suspended deposits and withdrawals while security checks are completed Revoked the affected address authorization; Engaged law enforcement and blockchain intelligence partners to trace and recover funds "We are wor

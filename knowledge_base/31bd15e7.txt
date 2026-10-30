@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-492
+Malicious code in tableates (PyPI)

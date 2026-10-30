@@ -1,0 +1,5 @@
+المصدر: https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/
+
+Widespread PHP Flaw May Cause Many Site Outages Today
+Expect to see quite a few websites serving "404" or "Page Not Found" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.
+Widespread PHP Flaw May Cause Many Site Outages Today – Krebs on Security Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Widespread PHP Flaw May Cause Many Site Outages Today October 21, 2026 7 Comments Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being e

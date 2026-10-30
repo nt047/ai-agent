@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html
+
+t provided no specifics about the nature of the activity or the extent of the campaign. Users are being recommended to update to the latest version - Version 3.x - Upgrade to Commerce Core 3.3.13 Earlier versions - Upgrade to Commerce Core 8.x-2.41 Drupal has credited researchers Dan Puccetti (dpuccetti), Marcus Johansson (marcus_johansson), and Robert Snyder (rsnyd) with reporting the flaw. The development comes as two critical vulnerabilities in PHP, tracked as CVE-2026-109618 a

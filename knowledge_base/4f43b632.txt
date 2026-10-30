@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html
+
+ Threat Defense (FTD) Software that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial-of-service (DoS) condition. The development comes after Cisco said it became aware of active exploitation of this vulnerability earlier this month. It has not publicly identified the attackers, the number of targeted organizations, or the actions taken by attackers after gaining initial access. As for CVE-2026-97229, it

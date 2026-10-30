@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-562
+Malicious code in tabullates (PyPI)

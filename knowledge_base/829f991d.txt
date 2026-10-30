@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/
+
+Drupal warns of critical Commerce Core flaw exploited in attacks
+Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]
+Just a moment... Enable JavaScript and cookies to continue
