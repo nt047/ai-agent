@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html
+
+y own protection they don’t enforce. Signatures sit inactive or in Detect mode while teams weigh false positives, inspection capacity, and business continuity. Meanwhile, applications and traffic patterns change, exceptions pile up, and policies drift away from how the environment runs today. In the Safe Remediation white paper, 47% of the organizations measured had less than 50% protection enablement. Much of the capability they need is already in their environments. Turning eve

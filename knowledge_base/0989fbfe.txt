@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2024-1254
+Security exception in org.apache.lucene.util.ArrayUtil.growExact

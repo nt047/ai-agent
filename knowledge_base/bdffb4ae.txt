@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/
+
+Malicious Claude Code extension on Cursor planted SSH backdoors
+A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]
+Just a moment... Enable JavaScript and cookies to continue

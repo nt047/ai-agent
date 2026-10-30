@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html
+
+Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving
+The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything.&nbsp;
+
+Their concerns are practical. An IPS protection could block legitimate traffic. A configuration change could interrupt a service. An endpoint policy could affect an application
+Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or

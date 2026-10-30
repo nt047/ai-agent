@@ -1,0 +1,7 @@
+المصدر: https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html
+
+Bloatware in Aftermarket Auto Parts
+<p>This <a href="https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way">story</a> is interesting:</p>
+<blockquote><p>One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about.</p>
+<p>Among the pre-installed bloatware&#8212;­or spyware, if you’re being less charitable­&#8212;was a voice assistant equipped with WebView, an Android system component that lets apps display content off the web. This apparently always used about a third of processing power, even while idle, which isn’t great. There were also Baidu location services, a call recorder (!), a DAB radio client that is pretty much useless in the U.S., and Adobe Acrobat, presumably so your passenger can entertain themselves with PDFs on the go...</p></blockquote>
+Bloatware in Aftermarket Auto Parts -

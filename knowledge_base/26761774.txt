@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html
+
+e." The issue boils down to the fact that affected versions unpack new files part of a full-package Core update into a predictable directory under "wp-content/upgrade." This copy also includes the WordPress installer. "Because the staging directory is web-accessible on many servers, an unauthenticated attacker who requests the installer at precisely the right moment can interact with the staged WordPress copy and progress to PHP code execution," Alex Thomas, who lead
