@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/linux-kernel-exploit-enables-remote-root-attacks-on-mptcp-servers/
+
+Linux kernel exploit enables remote root attacks on MPTCP servers
+Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]
+Just a moment... Enable JavaScript and cookies to continue

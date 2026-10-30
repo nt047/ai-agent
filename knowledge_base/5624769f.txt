@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xjeg2c/supermicro_bmc_ipmi_cves/
+
+Supermicro BMC ipmi cves
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Alfrede81"> /u/Alfrede81 </a> <br /> <span><a href="https://www.supermicro.com/de-de/support/security_BMC_IPMI_Oct_2026_1">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xjeg2c/supermicro_bmc_ipmi_cves/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can sometimes result in a block. You can read Reddit's Terms of Service here . If you think that we've incorrectly blocked you or you would like to discuss easier ways to get the data you want, pl
