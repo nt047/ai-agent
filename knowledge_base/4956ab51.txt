@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html
+
+patching vulnerabilities and hardening its systems in response to the incident. The mention of "offensive agentic techniques" indicates that an artificial intelligence (AI)-powered tool was used to execute the attack, although Chainalysis offered no details on the specific methods or tactics employed. "We are seeing an industry-wide rise in AI-driven cyber attacks, and we are taking a whole-of-company approach to make sure our security posture meets the evolving environment and our c

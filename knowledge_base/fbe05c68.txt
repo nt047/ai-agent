@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
+
+nted by Volexity earlier this month as weaponized in conjunction with an authentication bypass flaw (CVE-2026-104935, CVSS score: 8.6) by a previously undocumented threat actor dubbed UTA0576. CVE-2026-104935 was added to the KEV catalog on October 13, 2026. "This exploit chain combined an authentication bypass, a remote code execution (RCE), and a privilege escalation vulnerability to achieve unauthenticated root-level code execution," Volexity noted. Unlike other attacks that 

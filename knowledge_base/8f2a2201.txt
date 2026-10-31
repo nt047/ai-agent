@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/
+
+Chainalysis discloses data breach from "offensive agentic techniques"
+Blockchain analytics firm Chainalysis disclosed a data breach after attackers used "offensive agentic techniques" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]
+Just a moment... Enable JavaScript and cookies to continue

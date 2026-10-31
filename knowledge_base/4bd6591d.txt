@@ -1,0 +1,10 @@
+المصدر: https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html
+
+Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a
+Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a co

@@ -1,0 +1,3 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xjeg2c/supermicro_bmc_ipmi_cves/
+
+ease file a ticket here . When contacting us, please include your Reddit account along with the following code: 01a19245-b133-79c4-87af-46daa84bb522
