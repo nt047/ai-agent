@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html
+
+ts quarterly DDoS Threat Report shared with The Hacker News. An interesting trend is the decline of hyper-volumetric attacks exceeding 1 Tbps by 69% from the previous quarter – going from 805 attacks in Q2 to 251 in Q3 – likely as a result of law enforcement actions against AISURU, KimWolf, JackSkid, and Mossad earlier this March. Still, the threat remains far from completely neutralized, given the emergence of new variants like Dysphoria and Evooo1Bot , Cloudfl

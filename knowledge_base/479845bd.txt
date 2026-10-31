@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html
+
+eview button once. In a later version, Parameter set the page to open Preview on its own, so opening the link was the only step. What the Attacker Could Do Once the link opened, the attacker's code ran inside the victim's signed-in session with the same access as the real ChatGPT site. It listed the victim's recent conversations, opened a private chat that had never been shared with the attacker, and sent a small portion of it to a server controlled by the researchers. The code c

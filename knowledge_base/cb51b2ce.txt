@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html
+
+A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats
+A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed.
+
+The researchers reported the flaw through&nbsp;OpenAI's bug bounty program&nbsp;on October 18, and OpenAI fixed it eight days later and rated it P1, its most serious category.
+A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats --> #1 Trusted Cybersecurity News Platform Followed by 5.70+ million       Get the Latest News Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or 
