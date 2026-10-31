@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/
+
+Northflank security breach leads to abuse of customers' AI API keys
+Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]
+Just a moment... Enable JavaScript and cookies to continue

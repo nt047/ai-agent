@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/
+
+From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.
+AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]
+Just a moment... Enable JavaScript and cookies to continue

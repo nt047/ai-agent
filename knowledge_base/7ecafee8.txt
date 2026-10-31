@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html
+
+Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide
+Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.
+
+The activity has been attributed by CrowdStrike to a China-based "targeted intrusion adversary" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in
+Just a moment... Enable JavaScript and cookies to continue

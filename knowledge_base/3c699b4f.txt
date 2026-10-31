@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html
+
+Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data
+American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.
+
+However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens.
+
+"This month, Chainalysis detected an external actor using offensive agentic
+Just a moment... Enable JavaScript and cookies to continue

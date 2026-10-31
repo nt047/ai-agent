@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xkbgw0/cloud_exposure_index_2026_484142_open_buckets/
+
+Cloud Exposure Index 2026: 484,142 open buckets mapped
+<!-- SC_OFF --><div class="md"><p>484,142 publicly listable cloud buckets, 18 billion files, 80,495 .env files and two thirds of them written this year: we indexed open S3, Azure, GCS, Spaces and OSS storage without opening a single file</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/lexcor"> /u/lexcor </a> <br /> <span><a href="https://ransomnews.com/cloud-exposure-index-2026/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xkbgw0/cloud_exposure_index_2026_484142_open_buckets/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try agai
