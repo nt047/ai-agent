@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2022-653
+Heap-double-free in dwg_free_common_entity_data

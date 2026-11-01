@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2023-235
+Use-of-uninitialized-value in complexity_RC_reset_marking

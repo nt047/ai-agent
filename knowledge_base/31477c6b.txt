@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2022-400
+Heap-double-free in dwg_free_XRECORD_private

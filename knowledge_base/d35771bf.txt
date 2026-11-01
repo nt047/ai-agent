@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2022-379
+Segv on unknown address in bit_write_TV

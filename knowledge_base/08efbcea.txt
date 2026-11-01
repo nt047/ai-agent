@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2023-819
+Heap-buffer-overflow in ucl_object_dtor_unref_single

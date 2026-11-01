@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2022-372
+Heap-buffer-overflow in dwg_encode_VERTEX_2D

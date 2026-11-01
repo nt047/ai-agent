@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xkzjb0/mirage2fa_stole_4561_m365_session_cookies_despite/
+
+Mirage2FA stole 4,561 M365 session cookies despite MFA via AiTM proxy (CVE-2026-69836 CVSS 10.0) : detection rules and WHfB/Cloud Kerberos Trust hardening guide
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/doit4everyone"> /u/doit4everyone </a> <br /> <span><a href="https://doit4everyone.github.io/mvc-nlpd-m365/aitm-cookie-hijacking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xkzjb0/mirage2fa_stole_4561_m365_session_cookies_despite/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can sometimes result in a bl

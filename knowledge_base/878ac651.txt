@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2023-307
+Heap-buffer-overflow in bit_read_BB

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/
+
+Alpine Linux rebuilds GitLab after attempted RCE attack
+Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]
+Just a moment... Enable JavaScript and cookies to continue

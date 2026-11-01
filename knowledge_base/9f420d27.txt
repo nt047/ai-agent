@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2023-234
+Use-of-uninitialized-value in ihevce_enc_frm_proc_slave_thrd

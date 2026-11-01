@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2021-1343
+Heap-buffer-overflow in get_next_owned_entity

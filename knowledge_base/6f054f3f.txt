@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: OSV-2022-1198
+Heap-buffer-overflow in dwg_json_LTYPE
