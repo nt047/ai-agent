@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/netamloader-malware-targets-government.html
+
+hat stores Windows operating system update packages. It's suspected the operation involved a supply chain attack , in which bad actors compromised a trusted third-party vendor to gain access to downstream users who rely on its services or software. The sample in question features a ".config" file that employs AppDomainManager injection to load arbitrary .NET assemblies. AppDomainManager injection is an adversarial technique used to load arbitrary payloads by hijacking .NET F
