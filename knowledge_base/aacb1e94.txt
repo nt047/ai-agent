@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html
+
+ by the group are known to rely on spear-phishing as an initial access pathway to lure recipients into opening trojanized utilities or clicking on attacker-controlled websites that host similar tools as direct downloads. Previous attack chains documented by Elastic Security Labs and Group-IB have led to the deployment of SHELBYLOADER (aka HOTAIR), which is launched via DLL sideloading to ultimately execute a backdoor called SHELBYC2 (aka AEROSTAT) that uses GitHub for command-and-c

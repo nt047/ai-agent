@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/
+
+BTCPay Server warns of hot wallet crypto thefts on outdated instances
+The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining "hot wallets" on instances running older versions. [...]
+Just a moment... Enable JavaScript and cookies to continue

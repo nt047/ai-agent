@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html
+
+ecause of improper authentication CVE-2026-110186 9.8 (Critical) No Running arbitrary code, because of improper control of code generation CVE-2026-110193 8.8 (High) Yes, a low-privileged account Making the Agentic Assistant generate or submit component code that runs operating system commands on the server CVE-2026-110192 6.5 (Medium) Yes Getting sensitive information from insufficiently protected credentials One of the flaws is "unauthenticated remote code executio

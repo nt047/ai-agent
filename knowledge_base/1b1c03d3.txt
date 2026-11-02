@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/
+
+Google disrupts million-device XCPE Android malware botnet, bans TV box maker
+Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]
+Just a moment... Enable JavaScript and cookies to continue

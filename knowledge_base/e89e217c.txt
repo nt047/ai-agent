@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html
+
+describes those problems. Technical readiness covers four areas: access and context, an investigation standard with baseline metrics, rules for what the agent may do, and a plan for the time it gives back. Which SOCs benefit the most from AI SOC agents The SOCs that gain the most from AI SOC agents usually recognize several of the problems below, whether an outside provider works their alerts or their own analysts do. If an MDR or MSSP works your alerts: Y

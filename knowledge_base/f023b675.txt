@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html
+
+re and now we’re closing them at the fastest pace in history! “This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total” Or…perhaps it’s closing 100,000 more vulnerabilities than every before! Clive Robinson • November 2, 2026 11:45 AM @ Jeff, ALL, With regards, “More bugs aren’t necessarily being found because there’s more of them being created than before, the more likely explanation is that t

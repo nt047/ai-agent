@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html
+
+Threat of the Week N. Korea Sets New Record with Binance $6.43B Crypto Theft — The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to a North Korean hacking group called TraderTraitor. The haul eclipses the $1.46 billion plundered from Bybit in February 2025, making it the largest cryptocurrency theft in history. The funds were stolen across 11 blockchains, 82% of which were on Ethereum and Bitcoin. Of th

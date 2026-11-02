@@ -1,0 +1,7 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html
+
+AI Vulnerability Finding
+<p>A <a href="https://x.com/NickADobos/status/2113430301183823901">comment</a>:</p>
+<blockquote><p>3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do you realize how fucking insane that is?</p></blockquote>
+<p>Yes. It is a new world out there.</p>
+AI Vulnerability Finding - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe Home Blog AI Vulnerability Finding A comment : 3% of ‘critical’ software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26% more vulnerabilities to the all time total Do you realize how fucking insane that is? Yes. It is a new world out there. T
