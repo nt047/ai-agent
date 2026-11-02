@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-18193
+Malicious code in opencode-skills-collection (npm)

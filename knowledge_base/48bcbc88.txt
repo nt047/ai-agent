@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html
+
+y's own IT or help desk, working from outside tenants with support-themed names so the contact looked familiar. They talked each user into opening Quick Assist, a remote-help tool built into Windows, and reading the connection code back to them. That gave the attacker direct, hands-on control of the workstation. From there, the attacker dropped an archive into the Downloads folder, unpacked it into a new folder named to resemble a Windows update, and ran its contents with a po

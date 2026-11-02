@@ -1,0 +1,3 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xlsgc8/wordpress_pingback_and_brotli_rce/
+
+r ways to get the data you want, please file a ticket here . When contacting us, please include your Reddit account along with the following code: 01a19c19-5bdf-753b-8a6e-9968b6a44410

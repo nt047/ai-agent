@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html
+
+d employer domain, inferred birth year, card last-4 digits, Slack workspaces, document authorship metadata, iPhone backup indicators, and a live Roblox account valuation." To make this information more valuable, the malware uses stolen session access to search the victim's Gmail account for receipts to corroborate the home address by extracting emails related to Amazon, DoorDash, Uber Eats, Grubhub, Walmart, and PayPal. Once the necessary information is collected, the bundle 

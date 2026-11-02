@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RUSTSEC-2026-0432
+`codeq`: decoding untrusted input can allocate memory from an unchecked length prefix (denial of service)

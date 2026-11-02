@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html
+
+ Roey Porat and Tom Fakterman said . "The attackers attempted to dump sensitive databases and exfiltrate government mailboxes to access social media accounts." The campaign employs a "versatile operational playbook," leveraging a combination of open-source tools, custom cross-platform backdoors, and web shells to maintain access. Another hallmark involves attempts to disable endpoint protections, wipe system logs, and plant deceptive red-team markers so as to disguise the

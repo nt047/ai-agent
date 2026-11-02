@@ -1,0 +1,3 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xlsqor/remote_code_execution_on_linux_systems_with/
+
+o get the data you want, please file a ticket here . When contacting us, please include your Reddit account along with the following code: 01a19c19-5c17-7b98-84d7-36151c56a1c6
