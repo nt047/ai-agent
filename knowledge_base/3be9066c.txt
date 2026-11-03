@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html
+
+ps team (named "Engineer A"), who downloaded a trojanized Homebrew installer to install a popular artificial intelligence (AI) tool after searching for it on a search engine. The incident occurred in June 2026. Although Binance said it detected the attack and rotated all related credentials as a precautionary step, the company said information about "Engineer A's role and his related colleagues on our wallet infrastructure team was exposed to the hacker." The second part of the

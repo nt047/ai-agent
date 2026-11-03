@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/
+
+Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs
+Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html
+
+ The attack was detected within 12 hours of those versions going out, according to OPSSHIELD. The company has cleared its infrastructure credentials and stopped the script from reaching more servers. It is still investigating how the attacker got the credentials. OPSSHIELD has not said how many servers installed one of these versions. Servers check for updates at intervals, so some may not have run the script. Admins can check whether a server installed an affected version by s

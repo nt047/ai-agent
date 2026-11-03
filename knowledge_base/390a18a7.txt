@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html
+
+nel passes IP options from the incoming request to the new socket without copying them. If the client retransmits its connection request while another processor still reads those options, the kernel can read memory it has already freed. An attacker triggers the race by sending connection requests that carry IPv4 Record Route or Timestamp options to any listening TCP port. No login is needed. IPv6 is not affected on the main path. Red Hat shipped RHSA-2026:93414 (RHEL 8), RHSA-

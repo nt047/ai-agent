@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html
+
+ the gradual resource consumption associated with cryptojacking, LLMJacking can generate large spikes in fraudulent cloud charges in a matter of hours," Google Threat Intelligence Group and Mandiant said in a report shared with The Hacker News. "Across individual incidents, we observed fraudulent charges associated with resource consumption exceeding $100,000 USD in a single day, with cumulative charges at some organizations reaching $1 million USD before access was revoked." On one end 

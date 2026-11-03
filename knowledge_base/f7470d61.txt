@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/
+
+UK school estate hit by 3AM ransomware in suspected AI-assisted attack
+A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]
+Just a moment... Enable JavaScript and cookies to continue

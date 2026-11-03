@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html
+
+nistrative interface of an affected product," Barracuda said . "If exploited in combination, these vulnerabilities could allow an attacker to bypass authorization controls and obtain root access to the device." Barracuda said that organizations that do not expose their administrative interfaces to the internet are less vulnerable to the attack path, urging customers to follow the steps below - Restrict access to administrative interfaces to trusted internal networks Use a

@@ -1,0 +1,7 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html
+
+AIs Hacking the Law
+<p>In both a 2021 <a href="https://www.belfercenter.org/publication/coming-ai-hackers">essay</a> and my 2022 book, <i><a href="https://www.schneier.com/books/a-hackers-mind/">A Hacker&#8217;s Mind</a></i>, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system.</p>
+<p><a href="https://www.felixringe.com/legal-exploits/">Here&#8217;s</a> some demonstrations of this from Germany:</p>
+<blockquote><p>Legal systems encode the foundations of social order in natural language. Similar to computer systems, the written law can contain vulnerabilities that invite exploitation.1 Courts absorb most exploits through interpretation, and such vulnerabilities rarely surface in the first place. With highly capable AI systems enabling the discovery of vulnerabilities at unprecedented scale, we believe the latter could change...</p></blockquote>
+AIs Hacking the Law - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Tal

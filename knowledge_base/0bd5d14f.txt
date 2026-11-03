@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html
+
+Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access
+Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device.
+
+The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection vulnerability, have been assigned the CVE identifiers CVE-2026-116606 (CVSS score: 9.3)
+Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback!

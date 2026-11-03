@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/
+
+Barracuda warns of critical flaws allowing root access to devices
+Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]
+Just a moment... Enable JavaScript and cookies to continue
