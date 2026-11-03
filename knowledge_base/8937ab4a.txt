@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/
+
+Chinese hackers use ARTEX AI in automated attacks against 200 orgs
+Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]
+Just a moment... Enable JavaScript and cookies to continue
