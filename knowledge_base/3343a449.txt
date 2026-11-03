@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/
+
+Google: LLMjacking attacks rack up $1 million in cloud AI charges
+Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]
+Just a moment... Enable JavaScript and cookies to continue

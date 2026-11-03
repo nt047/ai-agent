@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-4496
+Malicious code in bandkit (npm)

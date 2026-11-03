@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-5543
+Malicious code in jailbreak-code (npm)

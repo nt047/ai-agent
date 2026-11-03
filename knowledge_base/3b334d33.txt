@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/
+
+WorkOS says attacker used ARTEX AI to breach internal sales app
+Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]
+Just a moment... Enable JavaScript and cookies to continue
