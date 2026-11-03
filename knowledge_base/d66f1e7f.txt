@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html
+
+cted to the internet, allowing refrigeration contractors to monitor them and fix faults remotely. In Belgium, attackers switched cooling units into defrost mode, Stephan Moelans, chief executive of the refrigeration contractor Sabcobel, told Belgian media . Defrost mode is meant to clear ice, but in these attacks it made the units heat up instead of keeping food cold. Sabcobel manages refrigeration systems for the Delhaize supermarket chain. In other cases, the temperature setting was raised.

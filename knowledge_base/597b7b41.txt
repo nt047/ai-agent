@@ -1,0 +1,5 @@
+المصدر: https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/
+
+Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies
+Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices and karaoke machines.
+Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies – Krebs on Security Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies November 2, 2026 2 Comments Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship w

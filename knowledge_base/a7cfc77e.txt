@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html
+
+. CVE-2024-50629 (CVSS score: 5.3) - An improper encoding or escaping of output vulnerability in the webapi component of DSM that could allow remote attackers to read limited files via unspecified vectors. CVE-2024-10445 (CVSS score: 4.3) - An improper certificate validation vulnerability in the update functionality in DSM that could allow remote attackers to write limited files via unspecified vectors. The issues were addressed in the following versions - DSM 7.2.2 - Upg

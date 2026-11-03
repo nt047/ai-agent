@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html
+
+ntire machine and all secrets stored on it as compromised and follow the same recovery procedures. It's currently unknown when the attackers behind the campaign first began exploiting the vulnerability, although reports began to surface around November 1, 2026. In a post on X, BTCPay Server said no "credible reports" of hot wallet drains have been reported from users running the latest 2.4.7 release. The version addresses one critical and several medium-severity security vu

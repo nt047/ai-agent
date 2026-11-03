@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html
+
+er. As mitigations, Siemens recommends that users uninstall Node-RED or harden the installation by following the steps below - Enabling HTTPS access Securing the editor and admin API via credential based authentication or through an OAuth/OpenID provider Securing the HTTP Nodes and Node-RED Dashboard using basic authentication As of October 30, 2026, VulnCheck said it observed attackers attempting to weaponize CVE-2026-58115 against its honeypot network in an attempt to downl
