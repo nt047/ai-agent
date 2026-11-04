@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-68j8-pq59-fqgm
+NLTK has a Path Traversal issue

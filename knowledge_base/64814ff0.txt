@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-469j-vmhf-r6v7
+NLTK has a Downloader Path Traversal Vulnerability (AFO) - Arbitrary File Overwrite

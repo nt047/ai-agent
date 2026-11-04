@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-63cw-57p8-fm3p
+PyTorch Vulnerable to Remote Code Execution via Untrusted Checkpoint Files

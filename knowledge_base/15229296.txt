@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-xxjr-mmjv-4gpg
+Lodash has Prototype Pollution Vulnerability in `_.unset`, `_.omit`, and `_.pullAt` functions

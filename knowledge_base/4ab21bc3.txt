@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-qr99-7898-vr7c
+Traefik Vulnerable to BasicAuth/DigestAuth Identity Spoofing via Non-Canonical headerField

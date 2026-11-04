@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-18599
+Malicious code in w002yardprobe (RubyGems)
