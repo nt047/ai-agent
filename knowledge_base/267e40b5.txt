@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/
+
+Google Calendar phishing campaign hijacks sessions, bypasses MFA
+A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]
+Just a moment... Enable JavaScript and cookies to continue

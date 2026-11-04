@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/
+
+SonicWall warns of unpatched flaws in end-of-life GMS software
+SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]
+Just a moment... Enable JavaScript and cookies to continue

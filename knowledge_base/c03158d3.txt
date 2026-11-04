@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html
+
+9.8 out of 10 on the CVSS scale. It is tracked as GHSA-f3w6-w445-fwh9 and does not yet have a CVE identifier. ImageMagick selects a format handler, which it calls a coder, based on the file's content. Some coders act on other files named inside the image, not on the image itself. Active Storage imposes no limits on which coders an upload can use, so the server's own ImageMagick policy was the only limit. The ImageMagick analyzer in Active Storage runs when a file is attached.

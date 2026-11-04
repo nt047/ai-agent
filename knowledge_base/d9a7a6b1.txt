@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html
+
+or security update will be released for these vulnerabilities. Organizations using the product should be aware of the associated security risks and are strongly encouraged to upgrade to the SonicWall Network Security Manager (NSM)." The development comes less than a month after SonicWall shipped fixes for CVE-2026-102255 (CVSS score: 10.0), a critical pre-authenticated server-side request forgery (SSRF) flaw that could have allowed an attacker to reach internal functionality an

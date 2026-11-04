@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html
+
+service." Adware is a type of software that displays unwanted advertisements, which can appear on users' computers or mobile devices, often in the form of pop-ups or banners. Prompt adware extends this sketchy behavior to AI agents by means of a jailbreak that defeats the model's safety training and content guardrails. The idea is to persistently modify the agent's global instructions through natural language to influence future responses. This, in turn, causes common

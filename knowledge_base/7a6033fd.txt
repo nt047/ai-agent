@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html
+
+ser scripts may have turned on the retry setting, Acquire::Retries, on those releases anyway, APT's developers say. Debian's testing branch was still on the vulnerable version 3.3.5 at 14:58 UTC on November 4. For Debian 11, whose Debian long-term support ended on August 31 , APT's developers have published a fixed version, 2.2.5. Ubuntu rates the flaw as high priority, with a CVSS 4.0 score of 7.7, and says that distributions built on Debian and Ubuntu are affected as well, witho

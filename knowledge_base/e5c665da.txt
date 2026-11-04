@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/
+
+mSecure password manager hack prompts password reset warnings
+mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]
+Just a moment... Enable JavaScript and cookies to continue
