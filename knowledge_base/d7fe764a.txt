@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html
+
+the flaw's CVE record says how an attacker would reach that code. Google's Critical rating assumes that the protections built into Android and Google's services are turned off or bypassed. Older versions, such as Android 12 and 13, are not listed as affected by the flaw. Google's records do not say whether they contain it. How to Check Your Phone Google's help page gives these steps: Open the Settings app. Tap About phone, or About tablet, then Android version. Find the dates for the
