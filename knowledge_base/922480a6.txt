@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/
+
+Nearly 1.5 million exposed secrets targeted in new revocation program
+Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]
+Just a moment... Enable JavaScript and cookies to continue

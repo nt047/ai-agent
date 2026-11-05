@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/
+
+OpenAI’s GPT-6 Astra silently obstructed safety research tasks
+OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]
+Just a moment... Enable JavaScript and cookies to continue

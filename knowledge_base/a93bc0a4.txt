@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/
+
+Hackers backdoor Linux servers using trojanized CWP web server
+A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]
+Just a moment... Enable JavaScript and cookies to continue

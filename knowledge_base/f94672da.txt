@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html
+
+orks with musl, the C library that Alpine is built on. Non-Linux systems, Linux systems built on glibc, and systems that check passwords through PAM are not affected, said Damien Miller of the OpenSSH project. He told anyone running an affected system to "set PasswordAuthentication=no or disable SSH for these systems IMMEDIATELY." No attacks using the flaw have been reported. Who Is Exposed Alpine's security advisory lists four conditions. A server is exposed when all four are true: It

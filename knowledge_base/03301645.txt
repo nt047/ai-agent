@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html
+
+ript can introduce security risks of its own, the content is placed inside a sandbox so that it cannot access data from the app, such as cookies and local storage. The sandbox also prevents the rendered content from communicating with external resources without user consent. Lockdown Mode acts as a security barrier, mitigating data exfiltration risk by limiting outbound network requests that could be used to transfer sensitive information to an attacker-controlled infrastructu

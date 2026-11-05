@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/
+
+Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
+Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]
+Just a moment... Enable JavaScript and cookies to continue

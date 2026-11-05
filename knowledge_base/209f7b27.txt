@@ -1,0 +1,3 @@
+المصدر: https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/
+
+Synthient’s depiction of the frequency of outgoing proxy traffic from the dedicated White House network (AS2650). Click to enlarge. There are dozens of residential proxy providers with varying degrees of legitimacy, many of them based in China or Russia. But at a minimum, they all make it simple for customers to rent someone else’s internet address as a way to anonymize their web traffic or spoof their true location. From a website’s p
