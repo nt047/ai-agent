@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/
+
+Vercel rolls out new protection against stolen session cookie attacks
+Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-11518
+Malicious code in exnesss (npm)

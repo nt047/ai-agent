@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/
+
+DreamHost confirms data breach exposed FTP logins and webmail sessions
+DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]
+Just a moment... Enable JavaScript and cookies to continue
