@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html
+
+icks. Sometimes the easy way works just fine. Here's what else happened. The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out. AI Accelerates Zero-Day Discovery NCSC Warns of AI-Enabled Attacks The U.K. National Cyber Security Center (NCSC) has warned that the widespread availability of AI-powered cyber tools has "almost certainly" led to a significant increase in the discovery of zero-day vulnerabilities. "Defensive AI-cyber t

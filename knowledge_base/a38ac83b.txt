@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/
+
+GhostMap Android flaw lets malicious app trigger persistent boot loop
+Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]
+Just a moment... Enable JavaScript and cookies to continue

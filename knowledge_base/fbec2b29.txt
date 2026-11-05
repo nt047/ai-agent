@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html
+
+ts without stealing passwords or bypassing MFA. ANY.RUN researchers identified 618 related sandbox analyses between June and October 21, 2026, with 46% coming from the US. The attack starts with phishing emails disguised as contracts, invoices, or business proposals. Victims pass through CAPTCHA checks and trusted platforms before being directed to Microsoft's legitimate authentication page, where entering a device code can grant attackers unauthorized account 

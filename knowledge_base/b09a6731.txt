@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html
+
+by Anyone with the Link disables end-to-end encryption (E2EE), even if the owner or the recipients have turned on Advanced Data Protection , an optional setting that secures iCloud Backup, Photos, and Notes using E2EE. That said, it's unclear what prompted this change, what Apple considers as "harmful content," and whether these checks will also be applied retroactively to previously generated links, as well as any new links created before the 27.3 updates are officially rolled 

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/
+
+Closing the Identity Gap at the Service Desk
+Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]
+Just a moment... Enable JavaScript and cookies to continue

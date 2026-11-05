@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/is-your-exposure-management-platform.html
+
+hat process across infrastructure, identities, sensitive data, and external threats. Security teams often have several records of the same asset. A cloud platform identifies an instance, an endpoint tool records its hostname, and an inventory lists an owner who has changed roles. Cyber asset attack surface management (CAASM) connects those records, helping reveal stale information, missing ownership, and protection gaps. The resulting view needs enough detail to support actio
