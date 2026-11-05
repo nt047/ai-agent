@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html
+
+i.e., parts of the codebase that are security-relevant and reachable by low-privileged users) and look for candidate findings Dynamic validation, where agents attempt to reproduce each candidate in a sandboxed environment and preserve runtime evidence Exploitability assessment, where agents test whether validated vulnerabilities could be abused to facilitate information disclosure or LPE and devise a proof-of-concept (PoC) exploit Patch generation, where agents generate pat

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html
+
+V catalog follows a report from Sekoia that threat actors possibly linked to Russia exploited previously patched vulnerabilities in Safari and Google Chrome to deliver malware capable of harvesting browser and device data. The activity has been attributed to APT29 (aka Cozy Bear and Midnight Blizzard), a state-sponsored hacking group affiliated with Russia's Foreign Intelligence Service, with "moderate to high confidence." The attacks involve three initial access pa

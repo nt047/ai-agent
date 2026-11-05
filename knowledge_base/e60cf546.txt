@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html
+
+Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.
+
+The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with
+Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback! Foll
