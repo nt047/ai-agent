@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html
+
+ researchers say Anthropic, the company that makes Claude, told them on October 13 that Dispatch would be retired, with the end of October as the target. The Dispatch help page, last updated late last week, does not mention a retirement. It says Dispatch is closed to new users and that people who already use it on some Pro, Max, and Ultra plans "can keep using it for now." How the Attack Worked The attack needs two things, according to a technical write-up by Forever Security r

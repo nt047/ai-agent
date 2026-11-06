@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/
+
+D-Link warns of multiple zero-days in DGS-3130 Series switches
+D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]
+Just a moment... Enable JavaScript and cookies to continue

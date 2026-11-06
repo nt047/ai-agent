@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/
+
+Chainalysis says breach exposed credentials for all customers
+Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]
+Just a moment... Enable JavaScript and cookies to continue

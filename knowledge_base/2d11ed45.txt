@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/
+
+Veeam warns of Software Appliance boot failures on AMD EPYC hosts
+​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]
+Just a moment... Enable JavaScript and cookies to continue
