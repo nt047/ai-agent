@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html
+
+Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login
+Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.
+
+The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday.
+
+One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a
+Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a quest

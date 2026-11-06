@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html
+
+s and Fixes The authorization bypass affects only the Email Security Gateway. The command injection reaches five other products, but on those it still needs an administrator account. Mandiant, which assigned the two CVE records, rates the bypass 9.3 out of 10 and the command injection 8.6. Barracuda has released a patch for each affected product and lists the fixed firmware in its security advisory . The Email Security Gateway is fixed in version 9.4.0.030 and later. What to Do The advis

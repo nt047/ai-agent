@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html
+
+nt cyber attack," leading to the discovery of an "on-path attack" that exposed a subset of customer passwords. The company said the attack vector has since been addressed. Out of an abundance of caution, Chainalysis has also taken the step of locking the impacted accounts. "For customers who just received an email from us instructing you to reset your Chainalysis password, resetting this password won't be possible right now," it noted. "We still encourage you, where necessary

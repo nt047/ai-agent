@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html
+
+oaded to VirusTotal from Brazil. The researchers say this indicates that "real victims already exist in the wild." They give no count of infected servers. The backdoor is cwpsrv itself, rebuilt with extra code, the researchers found in their technical analysis . It behaves like the normal program until a request arrives with a valid timestamp and signature in custom headers whose names begin with X-Ngx-Integrity. It then runs the command carried in the request. When the installer rep
