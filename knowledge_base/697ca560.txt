@@ -1,0 +1,5 @@
+المصدر: https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/
+
+Want to Rent an Internet Address at the White House?
+Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.
+Want to Rent an Internet Address at the White House? – Krebs on Security Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Want to Rent an Internet Address at the White House? November 4, 2026 32 Comments Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder’s web hosting business was ground zero for cybe

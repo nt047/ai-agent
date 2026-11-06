@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html
+
+unt who can determine the folder's name and access the installer before WordPress deletes the copy can end up running code on the server. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the flaw to its catalog of known exploited vulnerabilities earlier this week. WordPress released the fix last week in version 7.1.4 and in matching updates for older branches back to 4.7, all listed in its security advisory . The fix gives the temporary folder a random n
