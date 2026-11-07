@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:94630
+Important: dpdk security update

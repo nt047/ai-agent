@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:95519
+Important: delve security update

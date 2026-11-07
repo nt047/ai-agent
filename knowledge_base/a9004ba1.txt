@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:94514
+Important: freerdp security, bug fix, and enhancement update
