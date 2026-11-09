@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/default-adminadmin-server-password.html
+
+Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars
+The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine.
+
+Both apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an
+Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a ques

@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html
+
+Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia
+The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT.
+
+"PapRAT has both C++ and Rust implementations," Fortinet FortiGuard Labs researcher Cara Lin said. "Its capabilities include command execution, file
+Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave

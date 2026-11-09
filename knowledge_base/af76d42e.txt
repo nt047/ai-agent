@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html
+
+t of the Week OpenSSH Flaw Sees Exploitation Attempts — Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled, including Alpine Linux's default OpenSSH server configurat

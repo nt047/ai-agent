@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html
+
+tigates. What Affected Users Should Do The wallet maker has given this user guidance for accounts created with Google or Apple login: Do not send new funds to the account. Do not re-import the account or recreate it anywhere. Move any funds that are not staked or locked to an account that uses a recovery phrase or a hardware wallet. Trust updates only from the official accounts of the wallet maker and the login provider, and ignore direct messages or links that offer "recovery." Sta

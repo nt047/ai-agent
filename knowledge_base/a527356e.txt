@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html
+
+ maintain contact with a command-and-control (C2) server. A VHDX disk image containing a LNK file that launches a lure Microsoft Excel spreadsheet, while running an MSI installer in the background to deploy PapRAT. A URL shortcut (URL) file that fetches a LNK file via WebDAV, which then leads to an MSI installer that deploys PapRAT. The living-off-the-land (LotL) approach is designed to execute commands from a remote server ("goodnfortunes[.]com"), allowing it to collect director

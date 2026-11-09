@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html
+
+option, or told operators how to check whether their servers were hit before they were shut down. Ben Arc, an LNbits developer, said in a patch estimate yesterday that patches "should be merged and available within 24-48hrs." Counted from his post, that means between about 14:00 UTC today and 14:00 UTC tomorrow. The project also switched off all the LNbits instances it runs for users on its cloud service, my.lnbits.com, later yesterday. It said in a hosted-service notice that all servic
