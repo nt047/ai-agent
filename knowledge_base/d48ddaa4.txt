@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html
+
+rs are likely to exploit authentication bypasses, arbitrary code injection, and weak configurations to gain access to these systems and cause the following effects - Change of temperature, which, in turn, could affect the service life of the system, create a fire hazard, cause inventory loss, or harm consumers who purchase products after unsafe storage. Loss of visibility into current temperatures due to a denial-of-service. In response to the threat, owners and operators are being 

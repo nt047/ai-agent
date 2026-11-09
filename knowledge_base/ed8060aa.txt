@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-3714
+Malicious code in hello-world-pkg-value-value-p (npm)

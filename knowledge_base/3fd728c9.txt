@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html
+
+ledged that it "investigated a report indicating potential exploitation of this vulnerability," urging customers to update to the latest version as soon as possible. SonicWall did not disclose any additional specifics about the nature of the attack or who is behind the effort. Also patched by SonicWall are a number of other high-severity flaws - CVE-2026-107155 (CVSS score: 8.8) - A permissive cross-domain policy vulnerability in the SonicOS management interface that c
