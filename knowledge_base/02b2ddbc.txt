@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html
+
+N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits
+N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell.
+
+"As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the
+N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or 

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: BREW-apprise-CVE-2026-59180
+Apprise forwards configured auth headers across cross-origin HTTP redirects

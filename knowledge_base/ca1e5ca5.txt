@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html
+
+2026) CVE-2026-123158 aka SSHole (CVSS score: 8.1) - An unexpected status code or return value vulnerability in OpenBSD OpenSSH on Linux that could allow for authentication bypass. (Fixed in November 2026) CVE-2026-102895 (CVSS score: 9.8) - An improper authentication vulnerability in GPUStack that could allow improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creati

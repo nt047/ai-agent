@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/
+
+Google patches eighth Chrome zero-day exploited in attacks this year
+Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]
+Just a moment... Enable JavaScript and cookies to continue

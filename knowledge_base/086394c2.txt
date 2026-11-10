@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html
+
+olicies and tagging." The company also said it has not observed any signs of active exploitation of these vulnerabilities, adding it's currently working on a hot fix to address them. The following services are impacted - N-central (hosted version) (Americas) N-central (hosted version) (APAC) N-central (hosted version) (Europe) N-central On-premise (Americas) N-central On-premise (APAC) N-central On-premise (Europe) The development comes as independent security researcher Sean Bal

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/
+
+Fireworks AI discloses new breach after cloud provider hack
+AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]
+Just a moment... Enable JavaScript and cookies to continue
