@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html
+
+attack, most of the roles the attacker assumed were unused, according to Wiz's researchers. But each role still trusted Qubole's account, so the attacker's requests worked. Any organization that has connected Qubole to AWS, even one that no longer uses it, should check its CloudTrail logs from October 1 onward. The sign to look for is an AssumeRole request from the account Qubole's platform uses, 805246085872, that came from an address outside AWS. The researchers did not say wh

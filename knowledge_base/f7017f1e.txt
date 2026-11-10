@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html
+
+e today. Neither step removes a backdoor already installed nor protects a key already sent. No theft of funds had been reported at the time of writing. Swarm Desktop 0.56.2 appeared on GitHub at about 00:36 UTC today and was withdrawn about 8.5 hours later. The app's built-in updater could offer it to Windows x64 computers and Apple Silicon Macs within about 10 minutes, according to an incident analysis by Socket, a supply chain security firm. Intel Macs were never offered it, and Linux
