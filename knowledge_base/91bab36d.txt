@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html
+
+tacker reached an internal system behind Private Chat, a product the company had already deprecated. So far, the company has confirmed that the attacker downloaded account details for about 100 users there. These are email addresses and names, and for some accounts, plan and balance information. The company found no sign that stored Private Chat conversations or uploaded files were accessed. The attacker also reached 18 AI agents on an older deployment of NEAR AI Agents that did

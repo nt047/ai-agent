@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html
+
+can run. Submodules matter here because Git refuses to replace a .git folder with a symbolic link, but in a freshly cloned submodule, .git is a file. The fixed versions, listed in the Git project's release announcement , refuse such extremely long paths before their length can be cut short. GitHub, which ships Git in its own tools, explained the fixes in a detailed write-up . It advises installing a fixed version from your operating system or Git distributor, and updating any 

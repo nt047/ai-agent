@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html
+
+Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access
+French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.
+
+The authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062.
+
+"REST cookie parsing turns authenticationToken=j:%7B%7D into {}," Vates VMS said in an alert. "REST authentication passes that object to the
+Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback! F

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html
+
+arth Estries , Tropic Trooper , UAT-9244 , and UAT-8302 . "Each cluster employed a different toolset and different initial access techniques, including compromising internet-facing infrastructure and highly selective watering hole attacks," Check Point said in a technical report published today. "The compromised websites that were used for watering hole attacks were of government, shipping, and IT and research sectors." Attacks mounted by FamousSparrow are known fo

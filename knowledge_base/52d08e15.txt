@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/
+
+Hackers exploit trusted AWS access to breach multiple cloud environments
+A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xswu2e/cracking_server_2022_ntlmv1ssp_hashes_with/
+
+Cracking Server 2022 NTLMv1-SSP Hashes with Rainbow Tables
+<!-- SC_OFF --><div class="md"><p>A while back, I had released a blog showing that NTLMv1 downgrade attacks still work on Windows Server 2022! While it isn't a default setting, it's still a misconfiguration to potentially look for.</p> <p>If a DC’s LmCompatibilityLevel is set to 0-2, you can coerce authentication, strip Extended Session Security (ESS), and obtain an NTLMv1-SSP hash that’s crackable with a rainbow table. :)</p> <p>Blog: <a href="https://hunio.org/security/ntlmv1-ssp-cracking/">https://hunio.org/security/ntlmv1-ssp-cracking/</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/elohhs"> /u/elohhs </a> <br /> <span><a href="https://hunio.org/security/ntlmv1-ssp-cracking/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xswu2e/cracking_server_2022_ntlmv1ssp_hashes_with/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blo
