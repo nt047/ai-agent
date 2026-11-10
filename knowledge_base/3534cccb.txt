@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/
+
+Ransomware recovery is now a client retention metric
+Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]
+Just a moment... Enable JavaScript and cookies to continue

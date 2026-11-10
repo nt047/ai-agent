@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html
+
+atch the attack? There’s often an assumption that the rest will follow, meaning, if the detections are good, surely the investigation will be as well, right? Whether you can trace the attack, understand the scope, and respond in time to intervene depends largely on the data behind that detection. In network security, a product can have good detections and still leave an analyst struggling to investigate. Perhaps the analyst can see the co

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html
+
+tain affected accounts, adding that there were no signs that customer models, datasets, training data, inference traffic, or personal information were accessed. In response to the incident, Fireworks AI took the step of revoking the compromised internal credentials and rotating service account tokens, along with affected Fireworks API keys and keys created by the threat actor. The latest bulletin from the company reveals that the scope of the breach may have been broader than pre

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html
+
+one who suspects a breach, the exchange's security warning advises moving funds to a new wallet created on a clean device and resetting all active login sessions. The researcher's proof-of-concept code can reach every app's data container on an iPhone, and some system folders on iOS 27. To use it, an app has to set up an App Group container. He says the code is for developers and "isn't useful by itself." Other developers have built apps on it that people can install. One of them is

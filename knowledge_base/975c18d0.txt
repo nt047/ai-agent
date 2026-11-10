@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xskopy/electron_we_have_a_problem/
+
+Electron, we have a problem
+<!-- SC_OFF --><div class="md"><p>Many Electron apps auto-update without verifying signatures. Many also still trust the compromised eMudhra certificates. Together, that lets an attacker on your network install malware on your machine.</p> <p>I've compiled a list of notable Electron apps, installed them in a lab, and test which still trust the eMudhra certs, compared to whether they verify update signatures.</p> <p>You can find the full table of apps on my post.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/pascalschaerli"> /u/pascalschaerli </a> <br /> <span><a href="https://schaerli.org/briefs/electron-we-have-a-problem/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xskopy/electron_we_have_a_problem/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you'r

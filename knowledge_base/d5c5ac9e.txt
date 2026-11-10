@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/
+
+Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers
+A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]
+Just a moment... Enable JavaScript and cookies to continue

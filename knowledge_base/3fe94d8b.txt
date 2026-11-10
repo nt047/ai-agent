@@ -1,0 +1,8 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html
+
+New OpenSSH Vulnerability
+<p>It&#8217;s a <a href="https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/">bad one</a>, and it&#8217;s been in the code for a decade:</p>
+<blockquote><p>A newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts configured to block password authentication simply by entering an oversized password.</p></blockquote>
+<p>&#8220;Oversized&#8221; means longer than 256 bytes. <a href="https://sshhole.com/">Details</a>.</p>
+<p>Slashdot <a href="https://it.slashdot.org/story/26/11/05/2140208/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts">thread</a>. And another news <a href="https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/">article</a>.</p>
+New OpenSSH Vulnerability - Schneier on Security Schneier on Sec

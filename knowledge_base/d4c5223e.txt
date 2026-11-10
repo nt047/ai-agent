@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/
+
+Binance warns of iOS flaw that could leak crypto wallet secrets
+Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]
+Just a moment... Enable JavaScript and cookies to continue

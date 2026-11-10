@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html
+
+s in several places, ran two different miners, staged tunneling tools, and installed a custom implant, all on servers whose job is to hold backups," Huntress researcher Jonathan Semon said. Specifically, the unknown threat actor is said to have left five families of Jakarta Server Pages (JSP, formerly JavaServer Pages) web shells - nsmind.jsp , a signed API with command execution and file transfer capabilities using exec, cd, upload, and download parameters Ahs

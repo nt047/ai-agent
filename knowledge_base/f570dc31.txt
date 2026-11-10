@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html
+
+Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights
+Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a "limited set of accounts."
+
+In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks
+Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a

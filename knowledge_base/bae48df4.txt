@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html
+
+Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America
+The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat.
+
+"The campaign uses Portuguese and Spanish lures that resemble court notifications, fiscalía notices, tutela proceedings, and
+Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a commen

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/
+
+SAP patches ICM2SHELL and PROXYGATE maximum severity flaws
+SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]
+Just a moment... Enable JavaScript and cookies to continue

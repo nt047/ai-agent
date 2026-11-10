@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html
+
+dle cases, contracts, judicial, or institutional service requests to trick them into opening a malware-laced attachment. One email containing a Colombian judicial-themed XHTML file has been identified as a weaponized Scalable Vector Graphics ( SVG ) image that renders a bogus web page impersonating Colombia's Fiscalía General de la Nación, also referred to as the Office of the Attorney General. The web page, for its part, employs a technique known as HTML smuggling to ass
