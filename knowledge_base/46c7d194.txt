@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/
+
+Railway breach leads to $740,000 in fraudulent AI charges
+Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]
+Just a moment... Enable JavaScript and cookies to continue

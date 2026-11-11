@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-2907
+Malicious code in nj-logger (npm)
