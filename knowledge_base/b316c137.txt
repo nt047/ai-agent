@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html
+
+ve Messaging Webtop Media Transcoder that could allow an authenticated user to process and convert unintended document types if bypassing the Webmail experience. (Fixed in October 2026) There are currently no details on how the vulnerabilities are being exploited in real-world attacks, nor have they been attributed to a specific named threat actor or group. Cisco's advisory also makes no mention of the flaw being maliciously used. Late last month, Cisco revealed that two d

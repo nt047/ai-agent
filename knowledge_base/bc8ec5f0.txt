@@ -1,0 +1,10 @@
+المصدر: https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html
+
+Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+Details of the vulnerabilities are below -
+
+
+  CVE-2026-20320 (CVSS score: 7.5) - An improper restriction of XML external entity
+Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedb

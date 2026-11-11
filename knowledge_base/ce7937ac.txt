@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html
+
+" It encouraged them to contact the AI providers directly and offered to escalate their requests. According to the company's incident report , the decrypted data also included linked-account tokens for 1,852 users: BYOK agent keys and GitHub OAuth tokens. All were reset, each user was notified, and no logins to customer accounts using stolen credentials were found. In addition to AI keys, one of the attacker's database queries matched cloud, database, and payment service credentials.

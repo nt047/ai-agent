@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html
+
+ter in a tool's output. The researchers call the method Lazarus . Each edited neuron forces one token of the command into the model's output, so a command needs about one neuron per token. The new neuron settings are calculated directly and can then be tuned with a few hundred training steps on those neurons alone. Nothing else in the model file or the code that runs it changes. In a researcher's walkthrough posted on X, a backdoored Nemotron-Terminal-8B model with 10 edited neuro
