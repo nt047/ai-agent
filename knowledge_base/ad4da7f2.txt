@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html
+
+Three People Arrested for AI-Enhanced Impersonation Fraud
+<p>It&#8217;s hard to believe how lucrative <a href="https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft">this crime</a> can be:</p>
+<blockquote><p>According to a <a href="https://www.justice.gov/usao-sdny/pr/three-foreign-nationals-arrested-and-charged-scheme-use-super-intelligence-defraud#ref-ftn1">press release</a> from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026...</p></blockquote>
+Three People Arrested for AI-Enhanced Impersonation Fraud - Schneier on Security Schnei

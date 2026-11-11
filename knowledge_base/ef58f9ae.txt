@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html
+
+contained internal data from 30 other organizations the researchers could identify, across fields ranging from construction and energy to healthcare and defense. Of those, 26 have more than 1,000 employees, and 6 are Fortune 500 companies. According to the researchers' estimate in their report , roughly 2% of the open apps contained material serious enough to rate as high or critical. The exposed material included a hospital group's searchable list of more than 3,500 employee

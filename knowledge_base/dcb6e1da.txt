@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html
+
+r download from GitHub, has been described as an artificial intelligence (AI)-driven autonomous penetration testing platform. As of writing, the project has been forked 251 times and starred 474 times. On its README page , the project maintainer states - Given an authorized target, a planner / worker / main-agent multi-agent system runs the full engagement over a dual-graph core (a global asset graph + a per-task exploration graph) — recon → attack-surface discovery → exploitati

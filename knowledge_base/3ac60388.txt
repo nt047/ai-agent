@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html
+
+earsal . Its job is to answer questions inside the Token platform by doing rather than telling. It autonomously opens pages in the browser tab, sets filters, and fills in forms. From a security perspective, it’s a typical UI agent that runs in the user’s browser. That’s what makes it useful. But it also means the agent runs within the user’s session and has their reach. Moreover, to the server behind the page, the agent’s clicks are inherently indistinguishable from the use

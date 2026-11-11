@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/
+
+N-able releases security hotfixes for zero-day vulnerabilities
+N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]
+Just a moment... Enable JavaScript and cookies to continue

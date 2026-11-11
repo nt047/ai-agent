@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html
+
+om Workplace for Windows before version 7.1.5, CVE-2026-108186 impacts versions starting from 7.1.0 and before 7.1.8. Earlier this July, the popular videoconferencing platform shipped fixes for another improper input validation flaw impacting Zoom Workplace for Windows ( CVE-2026-53412 , CVSS score: 9.8) that could enable an unauthenticated user to take control of accounts. Although Zoom makes no mention of the vulnerabilities being exploited in the wild, users are advised to a
