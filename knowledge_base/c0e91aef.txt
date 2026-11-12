@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html
+
+SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths
+The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged.
+
+Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the details with The Hacker News, said the recovered attacker toolkit exploits CVE-2026-84869 (CVSS score: 9.9), an
+SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedba

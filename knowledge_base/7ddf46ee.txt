@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/
+
+New Windows SignDrop zero-day gives hackers SYSTEM privileges
+Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]
+Just a moment... Enable JavaScript and cookies to continue

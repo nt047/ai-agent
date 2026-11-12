@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/
+
+Police dismantle Gootloader, CastleRAT, StealC malware infrastructure
+Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]
+Just a moment... Enable JavaScript and cookies to continue

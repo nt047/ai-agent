@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/
+
+Microsoft: Recent Windows updates cause SQL Server performance issues
+Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]
+Just a moment... Enable JavaScript and cookies to continue

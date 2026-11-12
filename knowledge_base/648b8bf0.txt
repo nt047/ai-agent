@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html
+
+ovable, and Cursor. While one category leads to a ClickFix lure that serves a PowerShell command via a fake Cloudflare verification page, the second route takes unsuspecting users to "Security Check" pages that deliver a browser-hijacking malware called Net Guard. The third pathway sends users to a search-hijack extension family with 16 live Chrome Web Store listings and 972,000 declared users. Some of the AI lookalike domains are listed below - cloude[.]ai cluade[.]ai clsude[.]ai

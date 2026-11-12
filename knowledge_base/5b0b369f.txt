@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-4623
+Malicious code in npm-builderio-qwik-poc (npm)

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/
+
+Apify rotates API tokens, prompts 2FA resets after breach
+Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]
+Just a moment... Enable JavaScript and cookies to continue

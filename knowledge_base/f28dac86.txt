@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html
+
+s, which include Turin, are "impacted differently from previously characterized AMD processors." The third flaw, CVE-2026-0004, is new. It may let an attacker who can run code on a system infer data in the processor's L1 data cache. The Xen Project, which maintains the Xen hypervisor, calls the new flaw TSA-Fill. It also says an earlier statement has been corrected: "AMD had previously said that Zen5 CPUs were not vulnerable to TSA-SQ and TSA-L1." Google rates the issue Medium

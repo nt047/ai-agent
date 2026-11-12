@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/
+
+Your Endpoint Management Platform Could Be Your Biggest Security Risk
+Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing sensitive endpoint operations. [...]
+Just a moment... Enable JavaScript and cookies to continue

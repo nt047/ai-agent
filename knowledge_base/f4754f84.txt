@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html
+
+s CVE-2026-84869 and that the existing patch successfully blocks it," APG researchers Sam Decker and Nevan Beal said. "That's an important finding for security teams." "But the toolkit also includes capabilities to hijack authenticated operator sessions and use legitimate ScreenConnect management features to push malicious code. Patching addresses the known exploit, but it doesn't eliminate the risks associated with a compromised operator session." Notably, the SCKit ma

@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html
+
+Another Way Police Are Locating People from Their Smartphones
+<p>Penlink&#8217;s Webloc is an application that <a href="https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg4OTgyNSwiZXhwIjoxNzk0NDk0NjI1LCJhcnRpY2xlSWQiOiJUTzEyT0pUM0JaTUwwMCIsImJjb25uZWN0SWQiOiJCRkMyNTg1RUFENTA0RTM2OUU3MzBBNTBCNkVGRTk5RSJ9.uWvJBwAKCyQsXzSli3He-XStaEQCVyprRIKmrsheWZs&#38;utm_source=substack&#38;utm_medium=email&#38;leadSource=article-gifting">locates</a> people using information from the weather, gaming, email, and religious apps on their phone. It&#8217;s sold to the police.</p>
+<blockquote><p>The tool collects vast quantities of location data from smartphones via commonly used weather, gaming, email and religious apps. It can build a detailed picture of where a smartphone has been over the past 12 months, and update the data hourly, showing the movements of people o

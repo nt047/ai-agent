@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html
+
+hose tokens, an attacker can retrieve private images and any secrets or credentials stored within them. The attacker can also push or overwrite images, and the change propagates to every system that later pulls those images. The planted key survives restarts until someone removes it. It can also be used to delete the keys that running Quay instances use, so normal pushes and pulls start failing with authentication errors. Quay's key server checks that a request to replace a key carries a token sig
