@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html
+
+t just click accept on the permissions your apps are asking for. Don’t say “yes” to GPS when you can just type in your zip code; your weather app doesn’t need to update the weather constantly and wherever you go. If you come across an app that breaks because you won’t give it certain per

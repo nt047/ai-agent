@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html
+
+New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access
+Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver.
+
+The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privileged process opens a prepared log, using path redirection to take control of
+New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a commen

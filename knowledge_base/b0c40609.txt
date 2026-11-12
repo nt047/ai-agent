@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html
+
+r SOC investigate threats faster, understand what's at risk, and respond with confidence. The Blind Spot Between Identity and Security Operations Here's the problem. Identity and access management (IAM) teams know who has access to what. Security operations teams monitor suspicious activity and respond to threats. But these teams often work with different tools, different data, and different priorities. When an alert comes in, SOC analysts may know what happened but still st

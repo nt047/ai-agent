@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/
+
+New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks
+A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]
+Just a moment... Enable JavaScript and cookies to continue

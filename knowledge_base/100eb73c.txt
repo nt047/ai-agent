@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-8gmh-2hhj-2hv9
+Addressable URI normalization resolves some dotted path segments to the wrong path

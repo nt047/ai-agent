@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-r4jh-29pc-gfqr
+basic-ftp: Uncaught exception crashes the Node.js process when a password (or resumed-download path) contains CR/LF

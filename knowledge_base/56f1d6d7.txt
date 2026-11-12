@@ -1,0 +1,3 @@
+المصدر: https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/
+
+ . The head of Qilin goes by the handle “ Haise ,” but they weren’t always known by this nickname. It is not uncommon for cybercriminals to change their handle periodically as an operational security (opsec) measure. Doing so is generally a smart move, because it helps to sever one’s ties to older identities that may not have been as careful on basic opsec, such as separating their real life identity from their cybercri

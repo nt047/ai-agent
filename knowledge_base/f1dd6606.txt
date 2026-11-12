@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/
+
+New N-able "4EverAble2Shell" zero-day exploited hours after PoC released
+Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed "4EverAble2Shell" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]
+Just a moment... Enable JavaScript and cookies to continue
