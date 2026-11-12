@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/
+
+Active ScreenConnect attacks breach MSPs, impact dozens of organizations
+ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]
+Just a moment... Enable JavaScript and cookies to continue
