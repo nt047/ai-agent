@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RUSTSEC-2026-0502
+`sqlcipher-src` via C SQLite CVE-2026-119375

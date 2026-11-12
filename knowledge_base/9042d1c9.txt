@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RUSTSEC-2026-0499
+Signature::from_der reads a signature with bytes after it, a wrong sequence length or an unneeded zero as the signature

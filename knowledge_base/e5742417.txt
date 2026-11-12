@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html
+
+hers at SafeDep, which sells software supply chain security tools, counted 8,093 repositories that received malicious commits between 12:46 UTC on Tuesday and 04:36 UTC today. That count covers every repository that received malicious commits, not only those where the stealer ran. Their search covered only the default branches of public repositories, so the true total is higher, the researchers say. In 7,309 of those repositories, the stealer was added to an existing workflow. In 771, it c

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RUSTSEC-2026-0501
+Shamir backup recovery accepts a share at x = 0, so a supplied share can substitute the recovered private key

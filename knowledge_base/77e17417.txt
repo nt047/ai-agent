@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RUSTSEC-2026-0497
+Transaction::from_json holds an input txid that is not 64 hex digits and writes the input as spending the zero txid

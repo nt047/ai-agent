@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RUSTSEC-2026-0503
+eazip: symlink-target validation checks the wrong argument, allowing extraction path escapes on Windows

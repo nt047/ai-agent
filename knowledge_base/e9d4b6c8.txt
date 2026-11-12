@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html
+
+emphasized that the presence of the extensions alone does not indicate or establish compromise. While these extensions provide an API capable of executing remote commands, access to that API is secured by a passphrase configured by the partner during setup, it added. The list of extensions identified for precautionary disabling is below - Labtech Plus RMM Plus RMM+ RMM Plus Password Link RMM+ Password Link ConnectWise also said it has urged on-premises partners to disable the extensions,

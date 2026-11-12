@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RUSTSEC-2026-0498
+Transaction readers accept trailing bytes, so a parsed transaction can carry another transaction id
