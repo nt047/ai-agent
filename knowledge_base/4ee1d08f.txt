@@ -1,0 +1,5 @@
+المصدر: https://www.reddit.com/r/netsec/comments/1xuug3s/massive_wfxloot_campaign_probes_over_60000_github/
+
+Massive ‘wfx-loot’ Campaign Probes Over 60,000 GitHub Repositories to Steal CI and Cloud Secrets
+&#32; submitted by &#32; <a href="https://www.reddit.com/user/Much-Television-9449"> /u/Much-Television-9449 </a> <br /> <span><a href="https://kylesinvestigation.com/2026/11/12/massive-wfx-loot-campaign-probes-over-60000-github-repositories-to-steal-ci-and-cloud-secrets/">[link]</a></span> &#32; <span><a href="https://www.reddit.com/r/netsec/comments/1xuug3s/massive_wfxloot_campaign_probes_over_60000_github/">[comments]</a></span>
+Blocked whoa there, pardner! Your request has been blocked due to a network policy. Try logging in or creating an account here to get back to browsing. If you're running a script or application, please register or sign in with your developer credentials here . Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if you're supplying an alternate User-Agent string, try changing back to default as that can someti
