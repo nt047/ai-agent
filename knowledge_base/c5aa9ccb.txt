@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html
+
+ N-central version 2026.4 HF1 and above, as the update introduces changes in how the Probe and Agent communicate. "N-able N-central 2026.4 HF1 updates legacy components of the Agent and Probe, which changes how the two communicate," it said . "As such, upgrading both Agents and Probes in your N-central server is a MUST to ensure all managed devices are communicating and patched." On-premises customers are being urged to upgrade Agents and Probes and ensure Legacy API access

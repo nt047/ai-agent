@@ -1,0 +1,3 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/ai-security.html
+
+edom. Our work in securing AI is about making sure that these new systems empower rather than imprison, building trust instead of walls. Joshi • November 9, 2026 12:40 PM “The World is built in a wall that separates kind. Tell either side there’s no wall, you’ve bought a war. Or a slaughter.“ Blade Runner 2049 Clive Robinson • November 9, 2026 3:31 PM @ Bruce, ALL, With regards, “AI security can be divided into three broad topics” Of Security “of / with / from” AI. But each of those also needs to be considered in “Past / Present / future” tenses. As we can tell from the Hugging face and subsequent incidents, to few researc

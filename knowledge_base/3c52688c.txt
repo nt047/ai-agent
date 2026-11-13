@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html
+
+Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2
+N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell.
+
+"We are restricting certain N-central features and integrations," the company said in a Thursday update. "These measures may affect some functionality, but we believe taking additional precautions while remediation is completed is the
+Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2 --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/f

@@ -1,0 +1,5 @@
+المصدر: https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/
+
+Microsoft Fixes Nearly 1,100 Security Vulnerabilities
+Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.
+Microsoft Fixes Nearly 1,100 Security Vulnerabilities – Krebs on Security Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking Microsoft Fixes Nearly 1,100 Security Vulnerabilities November 10, 2026 15 Comments Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including a zero-day in Microsoft Outlook — and comes amid important security updates

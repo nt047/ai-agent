@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/
+
+Check Point warns of zero-day flaw exploited for root access
+Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]
+Just a moment... Enable JavaScript and cookies to continue
