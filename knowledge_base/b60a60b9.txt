@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html
+
+ who bought a Trezor from CryptoBilis since March, including from the reseller's stores on Tokopedia and Shopee: Move your funds to a new wallet with a new recovery phrase. Restoring the old phrase on another wallet does not solve the problem. Do not set up an unused wallet from the reseller, and never type an existing recovery phrase into one. Keep the wallet and contact Trezor Support, which offers a new Trezor wallet to anyone who bought from the reseller since March. Contact Suppo

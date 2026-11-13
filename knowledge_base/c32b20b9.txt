@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/
+
+Microsoft says November security updates cause printing issues
+Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]
+Just a moment... Enable JavaScript and cookies to continue

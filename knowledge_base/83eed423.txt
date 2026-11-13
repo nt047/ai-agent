@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html
+
+AI Doesn’t Have to Go Rogue to Break the World
+<p><em>This essay is adapted from <a href="https://www.youtube.com/watch?v=eEBv0STiYhI">a keynote speech</a> delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in <a href="https://www.schneier.com/essays/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html">CyberScoop</a>.</em></p>
+<p>I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing.</p>
+<p>I started writing about this in 2021 and in my 2022 book, <em>A Hacker&#8217;s Mind</em>. Back then I said it was mostly still science fiction, but not stupid science fiction. We&#8217;re seeing it more and more, especially in the past year. The trends I&#8217;m describing don&#8217;t require a major br

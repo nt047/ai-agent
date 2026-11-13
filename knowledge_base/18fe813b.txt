@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html
+
+h with its own data type. A field's type can be changed while older values of that type are still held in other parts of the server. The server could then read an old value as if it had the new type. The fix, described in the project's release notes , adds version checks so the server can detect a value that no longer matches its type. Security researcher Mehmet Ince described a working exploit for the flaw, demonstrated on PostgreSQL 18.6, in a technical writeup published th

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html
+
+rk An AI agent is usually part of a larger system. A model may choose an action, but an orchestrator runs the workflow, an identity supplies access and tools or APIs carry out the work. Network rules determine where those tools can connect. The details vary by deployment. In one system, disabling the agent may stop its current task. In another, queued jobs, retries or an already established session may continue. Revoking one credential ma
