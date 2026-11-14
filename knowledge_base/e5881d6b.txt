@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-19922
+Malicious code in @jelou/cli-win32-x64 (npm)
