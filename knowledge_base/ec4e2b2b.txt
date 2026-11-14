@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-19242
+Malicious code in tdesign-vue-mono (RubyGems)

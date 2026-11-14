@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-19259
+Malicious code in qap793gl4l (PyPI)

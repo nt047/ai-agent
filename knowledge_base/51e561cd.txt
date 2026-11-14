@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2024-12348
+Malicious code in spiderai (PyPI)

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2024-12332
+Malicious code in pymatcha (PyPI)
