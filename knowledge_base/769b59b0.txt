@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:98076
+Important: sos security, bug fix, and enhancement update

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:97090
+Important: subscription-manager-cockpit security update

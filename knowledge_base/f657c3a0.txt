@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:98565
+Moderate: environment-modules security update
