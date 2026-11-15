@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/
+
+TSMC employee data breach linked to cloud provider
+Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]
+Just a moment... Enable JavaScript and cookies to continue
