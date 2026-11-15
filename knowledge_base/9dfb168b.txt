@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-19940
+Malicious code in gateio-v4 (PyPI)
