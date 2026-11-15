@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/
+
+FBI warns ARTEX AI hacking tool is powering global cyberattacks
+The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]
+Just a moment... Enable JavaScript and cookies to continue
