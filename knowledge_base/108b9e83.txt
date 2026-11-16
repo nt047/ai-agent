@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html
+
+er could take over, and known flaws in Langflow and RAGFlow . In a separate case reported this week, Cloudflare's incident responders saw ARTEX gain access to a compromised API token that had been used for CI/CD. The token had no IP restrictions or rate limiting, and the activity that followed included 400 database dump requests in an hour. The company has not said whether those requests returned any data. An operator gives ARTEX a target and a goal, and a planner agent splits 

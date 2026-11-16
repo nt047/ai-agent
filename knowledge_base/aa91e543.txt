@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/
+
+Microsoft pushes Windows emergency updates to fix activation failures
+Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]
+Just a moment... Enable JavaScript and cookies to continue

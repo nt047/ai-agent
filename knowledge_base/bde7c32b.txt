@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html
+
+ization's IT infrastructure, including Windows and Linux servers, workstations, hypervisors, backup servers, security solution management servers, and network equipment. Active since at least 2023, BO Team focuses on cyber espionage and hacktivism, and has a history of targeting Russian entities to steal valuable data and break into compromised infrastructure using tools like Mythic and Cobalt Strike, along with its own malware such as BrockenDoor and ZeronetKit. The group is assessed

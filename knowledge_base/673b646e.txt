@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/
+
+New NoisyTCP vulnerability lets attackers crash Linux servers
+An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]
+Just a moment... Enable JavaScript and cookies to continue

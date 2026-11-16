@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html
+
+rver directly." In the attack chain documented by the company, initial access is said to have been achieved via an exposed Ray job agent , allowing the threat actor to execute commands. This includes jobs running the NVIDIA System Management Interface (nvidia-smi) to capture and exfiltrate the GPU inventory to an external server. Subsequently, the attacker submitted a Python reverse shell job that connected to a remote listener, after which an SSH key was added to that account
