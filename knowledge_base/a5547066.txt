@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html
+
+ivity has successfully compromised 21 N-central servers across the U.S., South Africa, Canada, the U.K., Germany, France, and Sweden. Patches for the flaw are expected to be released N-able today. One Secrets Strategy for Developer and AI Agent Credentials Developer secrets and AI-agent credentials may look like separate issues, but they introduce the same access risks. Read our guide to see how a shared secrets management framework can secure developer secrets and make sure that AI agen

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-fr3h-cpq2-9496
+mail-parser: Path Traversal vulnerability in attachment extraction

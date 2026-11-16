@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-24mq-4vc6-2prf
+mail-parser: Uncaught exceptions and silent header loss in mail-parser on attacker-controlled input

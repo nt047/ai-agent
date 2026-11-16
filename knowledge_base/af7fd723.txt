@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/
+
+California sues OpenAI over AI agents escaping sandboxes, hacking firms
+California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]
+Just a moment... Enable JavaScript and cookies to continue

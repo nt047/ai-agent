@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-r7w7-vpq8-c5vv
+mail-parser is vulnerable to polynomial ReDoS in email header parsing

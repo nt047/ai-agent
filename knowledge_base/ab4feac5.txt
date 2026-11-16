@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-72px-j8gh-p79x
+mail-parser: Sender IP address spoofing in get_server_ipaddress()

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: GHSA-8vf2-hxg5-crqh
+Kubeshark: MCP `start_kubeshark` argument injection via `pod_regex` → image redirect → cluster takeover

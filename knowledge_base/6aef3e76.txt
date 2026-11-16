@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html
+
+ similarities with another loader family tracked as SmokeLoader. Malware packed with Armory uses file names like "ArmouryAIOSDK.dll" and "ArmouryA.dll," with the packer hijacking some of the original Armoury Crate functionality with self-decrypting shellcode. Notably, the shellcode extracts code that executes a decryption routine on a system's GPU by making use of the OpenCL library. The end goal is to install CoffeeLoader, establish persistence, and execute it by 
