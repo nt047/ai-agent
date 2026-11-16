@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-19944
+Malicious code in @univerjs-pro/sheets-pivot-chart (npm)

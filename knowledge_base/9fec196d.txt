@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: HSEC-2026-0015
+Missing validation of CONNECT requests in http2
