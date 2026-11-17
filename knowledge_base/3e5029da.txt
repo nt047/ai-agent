@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html
+
+e it. That gap is the focus of an upcoming webinar, GitHub Actions Security Beyond SHA Pinning . If your team treats pinning as the finish line, save your seat to learn what it actually protects you from, and what it doesn't. Immutability Is Not Provenance Pinning earned its reputation. When the tj-actions/changed-files compromise repointed tags to a malicious commit across more than 23,000 repositories in March 2025, teams that had pinned to SHAs were unaffected. GitHub now lets 

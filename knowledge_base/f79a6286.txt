@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html
+
+opened. Declining it did not stop the recording, and the prompt did not reappear on subsequent launches. In the earlier build of his technical analysis , the system logs showed no record of the app using the microphone. They named the audio service itself as the recorder. His demo video shows the indicator while the test app records with no microphone permission. He wrote that the video "was filmed on a later build that appears to have restored the orange microphone indicator." Calap's t

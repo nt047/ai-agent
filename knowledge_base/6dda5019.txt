@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html
+
+Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks
+Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.
+
+The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control and Data Access, and Full Disk Access.
+
+"Before granting an app such
+Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment

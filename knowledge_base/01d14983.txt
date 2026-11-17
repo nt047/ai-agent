@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html
+
+Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission
+A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped "Don't Allow" on the microphone prompt.
+
+The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks.
+
+Nik Tsytsarkin of Meta Red Team X published the technical details last week. Mustafa
+Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a ques

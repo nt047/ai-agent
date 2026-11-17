@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html
+
+bility. Other changes include - A single method for granting permissions by selecting the requesting app from a list Encouraging users to grant access to just the specific apps (for System & App Protection Override) or folders (for Full Disk Access) that are required for their workflows Increased visibility into the range of data that apps will receive access to or have control over when users grant full permissions An option for users to configure apps to ask every time t

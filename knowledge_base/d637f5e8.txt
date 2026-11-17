@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html
+
+vely evading network-based detections." The modular backdoors, dubbed GraphDoor and GitDoor for their choice of the cloud platform used for C2, enable the download of additional plugins on demand and the execution of shellcode directly in memory to extend their functionality. Traffic between infected systems and the C2 servers is proxied by deploying a modified Erfrp client and Ably messaging service-based plugins. The starting point of the attack has been traced back to a MeshCe

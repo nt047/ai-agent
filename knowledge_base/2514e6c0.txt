@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html
+
+Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap
+Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.
+
+In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. They even labeled it a
+Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leav
