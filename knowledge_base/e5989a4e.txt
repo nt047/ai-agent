@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/
+
+Cloud keys leaked in Docker Hub images are stolen within seconds
+Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]
+Just a moment... Enable JavaScript and cookies to continue

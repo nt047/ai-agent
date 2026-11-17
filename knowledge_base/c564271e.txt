@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/
+
+Researchers hijack Hugging Face account for popular Kokoro AI model
+A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]
+Just a moment... Enable JavaScript and cookies to continue

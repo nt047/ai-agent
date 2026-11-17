@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html
+
+K_DeadDrop . Some aspects of this campaign have been previously documented by Proofpoint , SafeDep, Jamf , and Genians Security Center . It's worth noting that the cluster tracked as UNK_DeadDrop exhibits similarities with a long-running North Korea-aligned campaign referred to as Contagious Interview . It employs phishing emails using developer role recruitment or code review themes to target developers across finance, cryptocurrency, education, and technology sectors to deploy an in

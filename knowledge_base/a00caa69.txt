@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html
+
+rocess makes. Both changes appear in the source code it published for Telegram for Android 13.2.2 (7303). NebuSec said in a technical analysis published earlier this week that its researchers got code running outside that filter in two separate ways. One uses a widget bug the filter does not cover, and the other chains a widget bug the filter does cover with a kernel bug. In their video, a bot's Telegram widget on Android 13.2.2 (7303) bypasses the filter and opens 
