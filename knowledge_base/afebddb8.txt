@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/
+
+Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware
+A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]
+Just a moment... Enable JavaScript and cookies to continue
