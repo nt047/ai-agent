@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html
+
+ied a threat actor using a zero-day exploit it believes was developed with AI: a 2FA bypass rooted in a logic flaw that conventional fuzzing and static analysis can easily miss ( GTIG ). Agentic pentesting can close that gap, and 87% of US security leaders surveyed are planning, piloting, or using it. Choosing the agent is the hard part. Every Demo Looks Good. Your App Is the Real Test. Picture three agents that all demo well. The first finds real flaws but stops at your login 

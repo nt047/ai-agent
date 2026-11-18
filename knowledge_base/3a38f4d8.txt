@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html
+
+there is no evidence the vulnerability has been exploited in the wild. As reported previously by The Hacker News, Java4Shell can enable attackers without an account to execute arbitrary code on Keycloak, Atlassian Jira, Atlassian Confluence, JFrog Artifactory, Jenkins, and PingFederate, and with a login on Apache Kafka Broker, Apache Solr, Elasticsearch, Gerrit, and Spinnaker, under default settings. Advisories for the flaw have been released by numerous security and software vend

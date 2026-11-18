@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html
+
+Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More
+A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.
+
+The flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature.
+
+Tracked as
+Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a com

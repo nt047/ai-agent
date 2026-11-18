@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/
+
+Apache warns of Roller RCE vulnerability exploited in attacks
+Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]
+Just a moment... Enable JavaScript and cookies to continue

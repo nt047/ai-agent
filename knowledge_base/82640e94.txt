@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html
+
+h a PUT request," CISA said. "If the certificate authority automatically signs requests without strong verification, an unauthenticated network attacker can obtain a valid certificate and exploit the vulnerability." The shortcoming impacts the following versions - Puppet Enterprise 2026.0.0 before 2026.0.1 Puppet Enterprise 2025.0.0 before 2025.12.1 Puppet Enterprise 2023.8.0 before 2023.8.13 Puppet Core 9.0.0 before 9.1.3 Puppet Core 8.x before 8.22.2 It was addresse

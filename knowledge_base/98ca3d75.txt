@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html
+
+ut not the code execution. Canada's Cyber Center said this week that it was not aware of any attacks exploiting the flaw. Servers often decode Base64-encoded data, such as HTTP Basic login headers, SAML artifacts, and CSRF tokens, before checking whether a user is logged in. That is how an attacker without an account can exploit the flaw. The flaw is in a faster version of Java's Base64 decoder that runs on chips with AVX-512 VBMI. Java switches to it after compiling the d

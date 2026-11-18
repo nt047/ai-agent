@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html
+
+Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation.
+
+The vulnerability, tracked as CVE-2026-115731 (CVSS score: 9.4), is a case of
+Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedbac

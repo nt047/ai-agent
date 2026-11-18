@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html
+
+y, and 37% deploy multiple times a day. Understandably, pentesting runs on a much slower cycle. Nearly half (47%) go more than a month between full pentests on their web applications and APIs. Those figures are for each organization's most frequently tested application, so the rest of their estate is tested less often still. Running a human-led pentest as often as code ships has never been realistic, largely because of the cost. But it means a vulnerability introduced in one relea

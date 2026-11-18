@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/
+
+Microsoft announces Windows Server 2028 with hardened security
+Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]
+Just a moment... Enable JavaScript and cookies to continue

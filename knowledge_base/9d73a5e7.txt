@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html
+
+Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are
+AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both.
+
+AI pentesting has emerged as a way to run in-depth tests whenever teams need them, instead of waiting for the
+Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leav

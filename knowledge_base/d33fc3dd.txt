@@ -1,0 +1,10 @@
+المصدر: https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html
+
+AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor
+TL;DR
+
+
+  Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day.
+  AI pentesting vendors aren't interchangeable. Most look convincing in a demo. The gaps show up in your logged-in flows, your coverage, and your production safety.
+  Make
+AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a commen
