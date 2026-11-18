@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html
+
+026 and listed only Apache Roller 6.1.5 as affected. "This issue is being actively exploited," it added. ASF did not share any details on how the vulnerability is being exploited, or who is being targeted as part of these efforts. A security researcher named n0mi1k has been credited with finding the flaw, and Matt Raible has been acknowledged for reporting it. Users are advised to upgrade to Apache Roller 6.1.6 or later, which disables the extension types and rejects XML-RPC r

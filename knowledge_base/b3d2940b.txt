@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/
+
+From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters
+Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]
+Just a moment... Enable JavaScript and cookies to continue

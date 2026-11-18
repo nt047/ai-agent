@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html
+
+lows the attack on some PCs with its chips. It plans fixes for most of those chips between November and February 2027. For now, the researchers advise adding at least two digits to Hello and BitLocker PINs. The TPM in these PCs is a firmware TPM, built into the processor. Unlike a separate TPM chip, it has no secure storage of its own, according to the research paper the researchers posted late last week. So it keeps its saved state, including the count of wrong guesses, encrypte

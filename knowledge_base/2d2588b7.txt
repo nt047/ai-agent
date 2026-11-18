@@ -1,0 +1,3 @@
+المصدر: https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/
+
+sites also served exploit code custom made to attack known vulnerabilities in older Apple iPhone and iPad devices. Known by such names as “ DarkSword ” and “ Coruna ,” these are zero-click exploit kits that chain together a half-dozen security holes to seize complete control over outdated devices and extract data. “The important lesson here is that trusted JavaScript doesn’t always remain trustworthy,” Helme wrote . “A website can be compromised through a third-party dependency without its own code or infrastructure ever being breached.” Contacted for comment, Optimizely said tha

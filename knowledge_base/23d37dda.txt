@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html
+
+Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required
+A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)
+
+The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution.
+
+"Deserialization of Untrusted
+Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comm

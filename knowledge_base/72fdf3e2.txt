@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html
+
+mpany's advisories says the flaws have been exploited. WatchTowr researcher Sina Kheirkhah reported four, and the company found the other two itself. Five of the flaws are in iRules, a BIG-IP feature that administrators use to manage traffic, and one is in BIG-IP's APM module. Some also affect BIG-IP Next for Kubernetes and BIG-IP CNF, part of the company's BIG-IP Cloud-Native Edition. Each flaw needs the setup listed below on a virtual server: CVE-2026-123637 : an APM per-req

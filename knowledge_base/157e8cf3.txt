@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/
+
+Microsoft’s Agent Framework PyPI package compromised to steal credentials
+Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]
+Just a moment... Enable JavaScript and cookies to continue

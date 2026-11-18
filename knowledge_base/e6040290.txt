@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html
+
+changes allow it to bypass static signatures and heuristic detections built around the EggStreme malware framework when it was first exposed in September 2025. Delivered via an as-yet-unknown initial access vector, EggStreme 's defining characteristic is the use of DLL sideloading to execute payloads. It features multiple components as follows - EggStremeFuel (aka RawCookie), which conducts system profiling and deploys EggStremeLoader EggStremeLoader, which sets up persistence a

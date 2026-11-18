@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html
+
+IRCL, the Computer Incident Response Center Luxembourg. In Xint's tests, code running as a worker could get root on the host through a separate bug in the Linux kernel's SCTP code, even when NGINX ran inside a Docker container. Neither the vendor nor the Wiz and Rapid7 researchers have reported any attacks exploiting the flaw so far. CISA's Known Exploited Vulnerabilities catalog did not list it as of today. Proof-of-concept code for the flaw is publicly available on GitHub, but
