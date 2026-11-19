@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/
+
+PHP security updates fix 18 flaws, including critical RCE bugs
+The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]
+Just a moment... Enable JavaScript and cookies to continue

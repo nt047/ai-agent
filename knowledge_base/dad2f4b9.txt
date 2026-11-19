@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/
+
+Drupal patches critical RCE flaw, warns exploits may surface quickly
+The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]
+Just a moment... Enable JavaScript and cookies to continue

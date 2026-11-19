@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/everything-is-web-application-including.html
+
+itical devices in your network. Almost anything is a web application to some extent. That often goes unrecognized, and as a result those applications aren't adequately protected. Everything is a web application. That is the motto of the SANS course I teach, SEC522: Application Security: Securing Web Applications, APIs, and Microservices . Web application security has traditionally been treated as a developer issue, yet anyone protecting a networ

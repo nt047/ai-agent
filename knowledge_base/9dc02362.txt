@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html
+
+s any attacks using phpAfterShell. Who Is Affected and What to Do These releases are affected, according to the maintainers' security advisory : Branch Affected releases Fixed release PHP 8.2 Before 8.2.36 8.2.36 PHP 8.3 Before 8.3.37 8.3.37 PHP 8.4 Before 8.4.28 8.4.28 PHP 8.5 Before 8.5.13 8.5.13 PHP 8.6.0, also released today, includes the fix. The flaw is in the files session handler, which PHP uses by default. Sessions kept in Redis, a database, or another store are outside

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html
+
+aff immediately on timing. The company has not reported any attacks exploiting the flaw, or any public exploit code. It also does not say what level of access an attacker gains after the bypass. Credit for reporting the bug goes to Google-owned Mandiant. The bug is present in vCenter 8.0, 9.0, and 9.1, and in the vCenter builds that ship inside VMware Cloud Foundation, vSphere Foundation, and the Telco Cloud Platform and Telco Cloud Infrastructure products. That includes 

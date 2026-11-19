@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html
+
+Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites
+Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.
+
+That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday.
+
+The Drupal Security Team disclosed
+Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask u

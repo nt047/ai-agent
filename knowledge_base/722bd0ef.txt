@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html
+
+acks are reported in the security advisory , which rates exploitation as complex and records an existing proof-of-concept exploit. Some exploit paths are blocked where the web server cannot write to or change permissions on settings.php. The team had told site owners in an advance notice earlier this week to set aside time for the update, warning that exploits may be developed within hours or days. Every release below 10.6.22 is affected, along with Drupal 11 releases from 11.0.0 before 11.3.
