@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html
+
+ Assure and SpamExperts Hosted Cloud on November 16, 2026. While it was initially traced to a combination of platform configuration and service dependencies within the Mail Assure and SpamExperts Hosted Cloud environment, it has since been determined that the disruption was actually caused by a security incident. N-able said it's continuing to work on restoring Mail Assure and SpamExperts Hosted Cloud across all regions, while core mail flow and inbound and outbound mail filtering r

@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html
+
+Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle
+Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL.
+
+The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no
+Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comme

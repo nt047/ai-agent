@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html
+
+lt TEMPORARY privilege, or the right to create temporary tables in MySQL and ClickHouse, allows an account to create objects or send input that triggers a memory bug. Four of the flaws now have vendor CVEs and fixes, but the full attack chains were not reproduced independently, and the research reports no sign that any of them has been used in an attack. In PostgreSQL, the flaw CVE-2026-116331 allows an account that can create database objects to run code as the operating syst

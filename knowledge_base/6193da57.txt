@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html
+
+ application sets session.serialize_handler to php_binary or php_serialize in its configuration, and its code switches the handler to php with ini_set() before calling session_start(). Session upload progress is enabled, which is PHP's default. As mitigations, users were urged to set session.upload_progress.enabled=0 until the next regular bugfix release and restart the PHP worker for the setting to be applied. The development comes nearly a month after PHP released fixes for two critical v

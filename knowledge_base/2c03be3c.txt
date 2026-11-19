@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html
+
+hannel vulnerability in LiteLLM that could allow a remote attacker to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI. CVE-2024-10441 (CVSS score: 9.8) - An improper encoding or escaping of output vulnerability in Synology DSM that could allow a remote attacker to execute arbitrary code via unspecified vectors. "An attacker could exploit this via crafted HTTP requests that access an unintended controller route from a public survey c
