@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html
+
+ unsuspecting victims to malicious sites that employ ClickFix lures to deliver a RAT payload by means of DLL sideloading. Interestingly, CNCMachineRMS has also been delivered via another malware loader called BabaDeda Loader through ClickFix attacks that employ DLL sideloading involving the legitimately signed IBM SPSS IDE executable. The latest findings from Blackpoint Cyber indicate that ROMULUS is distributing CNCMachineRMS alongside LegionLoader through separ

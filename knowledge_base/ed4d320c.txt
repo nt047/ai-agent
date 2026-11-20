@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html
+
+r, Narrator, to navigate the locked screen. In its test, the firm reached a point where it could run a program from the lock screen in a limited account that ThreatLocker identified as WSIAccount and said is "not an administrator account." The researcher's GitHub disclosure is a short post with a video and little written detail, so the clearest account of what the flaw does comes from the firm's independent test . Many Windows computers encrypt their drives with BitLocker , but in a co

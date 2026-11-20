@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-ejsd-5rhb-xjmf-jy3w
+The [`derivative`](https://crates.io/crates/derivative) crate is no longer maintained.
