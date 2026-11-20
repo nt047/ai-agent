@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-xnkg-ye3s-upem-3kpb
+React applications which rendered to HTML using the ReactDOMServer API were not escaping user-supplied attribute names…

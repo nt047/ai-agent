@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-u2de-i2c4-lfey-xmxi
+SQLite before 3.53.2 contains a heap-based buffer overflow vulnerability in the FTS5 full-text search extension that…

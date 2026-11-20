@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-wyyk-yudm-6heu-edsh
+Perl versions before 5.40.5-RC1, from 5.41.0 before 5.42.3-RC1, from 5.43.0 before 5.43.10 produce silently incorrect…

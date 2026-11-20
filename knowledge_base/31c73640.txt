@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-v7fq-rrrw-ypcf-fi5l
+NGINX Plus and NGINX Open Source have a vulnerability in the ngx_http_v3_module module. When using HTTP/3 with OpenSSL…

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-6xri-nefo-3qtw-vzdi
+CloudNativePG is a platform designed to manage PostgreSQL databases within Kubernetes environments. Prior to 1.29.1 and…

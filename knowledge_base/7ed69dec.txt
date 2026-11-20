@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-2yhb-5762-kpn5-vcri
+Black is the uncompromising Python code formatter. Black provides a GitHub action for formatting code. This action…

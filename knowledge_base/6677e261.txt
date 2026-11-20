@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-d5fm-35xv-v7e5-r2uj
+SQLite before 3.53.2 contains an out-of-bounds read vulnerability in the FTS5 full-text search extension that allows…

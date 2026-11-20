@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-zpaw-e6md-knaz-2iv4
+In the Golang Chi web framework, the ClientIPFromXFF middleware skips any X-Forwarded-For entry in a configured trusted…

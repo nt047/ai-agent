@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-cj5x-wxso-tu5o-lhef
+Perl versions before 5.40.5-RC1, from 5.41.0 before 5.42.3-RC1, from 5.43.0 before 5.43.11 have a heap buffer overflow…

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-4wly-kgz6-ck3v-jdfd
+node-tar is a Tar for Node.js. The node-tar library (<= 7.5.2) fails to sanitize the linkpath of Link (hardlink) and…
