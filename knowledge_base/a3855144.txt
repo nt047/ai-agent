@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html
+
+home screen or lock screen, and display that as an overlay on demand to cover up malicious activities taking place in the background. Another perhaps not-so-surprising element is the use of artificial intelligence (AI) in the control panel to help operators identify victims of interest and manage infections. It supports both locally hosted models and models accessed through an API. One of the sample prompts provided by the author refers to a score, indicating an operator can likely reque

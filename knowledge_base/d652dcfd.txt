@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html
+
+Sa 9450, NSa 9650 NSv 10 to NSv 1600 (Gen 6 virtual) SuperMassive 9200, 9400, 9600, 9800 NSsp 12800, NSsp 12400 TZ300, TZ300W NSA 2600 In recent years, threat actors have increasingly targeted edge devices as a launch point to obtain initial access, even as the window between disclosure and confirmed exploitation has collapsed significantly, in part driven by threat actors' use of automation and AI to scan the internet for unsupported devices, analyze patches and vulnera
