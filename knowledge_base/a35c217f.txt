@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-5ahx-ng6t-l5gb-ryzr
+libexpat before 2.8.2 has an integer overflow in storeAtts.

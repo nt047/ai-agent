@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-3urt-5him-i7vo-i7pc
+libexpat before 2.7.5 allows a NULL pointer dereference with empty external parameter entity content.

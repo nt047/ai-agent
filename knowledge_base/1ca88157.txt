@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-vmde-zk2y-mde3-mzcz
+libexpat before 2.8.2 has an integer overflow in doProlog that is related to storeEntityValue and entity textLen.

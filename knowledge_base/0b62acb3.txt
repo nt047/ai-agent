@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-xhtt-lg2u-kdk2-xc3m
+xmlwf in libexpat before 2.8.2 has an integer overflow in resolveSystemId.

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-4gvo-ui5g-zq5y-bdoi
+In libexpat before 2.8.2, there is a heap-based buffer overflow in doProlog in xmlparse.c because scaffold backing…

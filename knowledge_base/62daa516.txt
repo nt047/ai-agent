@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-oeed-dals-ht3a-pdwv
+libexpat before 2.8.2 lacks handler call depth tracking for calls to XML_GetBuffer, XML_Parse, XML_ParseBuffer…

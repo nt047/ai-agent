@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-yxom-xpxl-in2u-vso5
+libexpat before 2.8.4 lacks handler call depth tracking with custom encoding callbacks. Thus, a use-after-free can…

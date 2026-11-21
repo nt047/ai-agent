@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-ovae-a7gu-2vyf-t5yy
+Expat through 2.8.3 contains a denial of service vulnerability caused by quadratic algorithmic complexity in the…

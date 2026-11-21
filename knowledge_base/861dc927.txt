@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-flk7-pfjq-nfl6-ltew
+libexpat through 2.9.0 contains a denial of service vulnerability because billion laughs protection in…

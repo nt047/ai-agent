@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-efsn-3vke-ez6b-nrro
+libexpat versions 2.7.2 through 2.8.5 contain an integer overflow vulnerability in expat_realloc() function on 32-bit…

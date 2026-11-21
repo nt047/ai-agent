@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-ofee-qabl-jgav-zyc4
+libexpat before 2.8.2 has an integer overflow in XML_ParseBuffer because it lacked a check that was present in…

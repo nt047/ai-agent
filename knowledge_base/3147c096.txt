@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-rb22-xqvy-jmcn-x4t6
+xmlwf in libexpat before 2.8.2 has an integer overflow in endDoctypeDecl via NOTATION declarations.

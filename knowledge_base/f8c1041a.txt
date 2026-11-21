@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-2uu4-sycd-lo2d-wtaa
+libexpat before 2.8.2 has an integer overflow in addBinding.

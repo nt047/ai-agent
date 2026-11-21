@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-gnvv-y6ko-65a7-hcy5
+libexpat in Expat before 2.7.2 allows attackers to trigger large dynamic memory allocations via a small document that…
