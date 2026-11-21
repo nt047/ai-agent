@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html
+
+tacker with persistent cookies and network access to execute commands as root on a clustered device via the database service. (Fixed in October 2026) CVE-2025-42884 (CVSS score: 6.5) - An improper neutralization of special elements in data query logic vulnerability in SAP NetWeaver Enterprise Portal that could allow an unauthenticated attacker to disclose or modify server information via injected JNDI environment properties or a URL used during JNDI lookup operations. (Fixed in

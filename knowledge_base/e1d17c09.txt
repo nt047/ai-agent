@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html
+
+ath to the bug is signed data sent to an application. Which programs pass such material to the library without a manual key import is not something the advisory says. The flaw is a double free, meaning the same memory is released twice. It sits in two routines, read_status() and read_colon_line(), that read status lines and key listings coming back from GnuPG. When the input runs long, the routines move the data to a larger buffer but record the new address only if they

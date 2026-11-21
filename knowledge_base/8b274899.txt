@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html
+
+ layer called Sentinel is meant to be the single gate for anything the agent sends out, and the passwords and tokens for connected accounts are supposed to stay beyond the agent's reach. Muse's team described the aim at launch: "So we designed the system to assume the agent may be under attack and limit the potential damage." In the demonstration, a malicious page the agent opened could pull a user's conversation history and stored memories to an external server and alter them, w

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-p4sm-46n2-xeb5-t7fl
+In the GNU C Library (aka glibc or libc6) through 2.29, check_dst_limits_calc_pos_1 in posix/regexec.c has Uncontrolled…

@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html
+
+A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats
+A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.
+
+The same attack could be extended to reach the credentials Muse stores for the user's connected accounts.
+
+The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's
+A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a co

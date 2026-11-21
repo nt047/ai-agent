@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html
+
+ "In order to gain access to information about you, these OS AI agents 'scan' the information that's on your screen," Whittaker said . "In doing so, your Signal data is captured, then made available to these agentic systems in order to allow them to answer your questions and do your bidding." "The net result is that these AI capabilities in the operating system are undermining Signal's ability to independently guarantee privacy." The risk here is that AI agents can capture a

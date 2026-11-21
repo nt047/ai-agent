@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html
+
+erver that store uploaded images and labels. A file identifier supplied by the caller is appended to the storage folder and written to disk without checking that the result remains within that folder. The server writes with the privileges of the account it runs under, so an attacker cannot write anywhere on the machine, but a writable code or settings location can open a path to running code. Authentication is off by default, so any client that can reach the server over the network 

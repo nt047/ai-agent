@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-rgak-funw-udl2-ylzd
+Converting crafted input from UCS-4 to IBM1390 or IBM1399 character encoding, in the GNU C Library version 2.3.3 and…

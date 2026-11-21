@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/
+
+BADBOX 3.0 botnet returns with record-breaking 40 billion daily ad requests
+The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]
+Just a moment... Enable JavaScript and cookies to continue
