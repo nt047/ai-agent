@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/
+
+Microsoft Entra Connect Health flaw exploited to steal tenant data
+Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]
+Just a moment... Enable JavaScript and cookies to continue
