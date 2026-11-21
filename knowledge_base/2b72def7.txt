@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-kxbh-fwxk-qzly-g75w
+A double free in the X.509 name constraints enforcement of GnuTLS 3.8.13 on all platforms allows a remote attacker to…

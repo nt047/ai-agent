@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html
+
+rity Team have been credited with discovering and reporting the issue. When reached for comment, a WhatsApp spokesperson told The Hacker News that the vulnerability was discovered while disrupting a scam campaign. "We believe a scammer was using it to make their scam message seem more credible," the spokesperson added. WhatsApp did not disclose the scale of the activity, and if those efforts were successful. Also addressed by the company are two other flaws - CVE-2026-10276

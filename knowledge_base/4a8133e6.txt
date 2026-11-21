@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-qgwe-jq3l-pk6s-gfwu
+libexpat through 2.9.0 contains a NULL pointer dereference vulnerability in externalEntityInitProcessor2() in…

@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html
+
+WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams
+Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.
+
+The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.
+
+The issue could
+WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/fe

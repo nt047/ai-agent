@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-dbkb-o5sd-5zz2-nm2a
+The certificate authentication info handling in gnutls from 2.5.9 up to 3.8.13 does not reset the certificate count and…
