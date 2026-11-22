@@ -1,0 +1,9 @@
+المصدر: https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html
+
+OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms
+Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.
+
+Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.
+
+OpenRouter, a gateway that routes customers' AI requests to a pool of
+OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question 

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html
+
+ image or document library such as ImageMagick, Pillow, libvips, or a Qt plugin will hand PostScript or EPS content to Ghostscript to render, even when the file is named .png, .jpg, or .pdf. A routine feature like making a thumbnail or cropping a picture can start the interpreter, and the exact path depends on the libraries the application uses. The underlying bug is a use-after-free in the part of Ghostscript that loads fonts. A crafted document uses it to switch off the checks in -dS

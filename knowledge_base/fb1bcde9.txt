@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html
+
+ bait, but they were processed alongside real customer requests, and those were almost certainly copied too, the firm said. The finding comes from canary token research that seeded about two million prompts with unique web links and credentials between July and November, then watched for anyone using them. A planted secret can only be learned in one place, so any use of it means someone read the prompt that carried it. The largest of the three breaches involved a couple hundred AWS
