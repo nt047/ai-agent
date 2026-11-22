@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-z7ib-knki-fddt-uyo5
+In Bouncy Castle for Java before 1.85, Name Constraints bypass via trailing dot in rfc822Name and URI. This issue also…

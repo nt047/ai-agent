@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-eeeo-kc5i-uq4r-udox
+The golang.org/x/crypto/openpgp package is unsafe by design, has numerous known security issues, is not maintained, and…

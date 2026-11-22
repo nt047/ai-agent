@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/
+
+Rackspace Spot breach let hackers access customer Kubernetes secrets
+Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]
+Just a moment... Enable JavaScript and cookies to continue

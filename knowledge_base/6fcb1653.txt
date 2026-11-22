@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-565j-zqdu-7sba-xjii
+The in-memory keyring returned by NewKeyring() silently accepted keys with the ConfirmBeforeUse constraint but never…

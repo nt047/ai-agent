@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-mlzh-wbvv-2saq-7eaw
+Previously, a revoked 'SignatureKey' belonging to a CA was not correctly checked for revocation. Now, both the 'key'…
