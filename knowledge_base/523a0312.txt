@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-alvv-xjil-hjo2-ponq
+The glob functions in the GNU C Library versions 2.44 and earlier may free the same heap block twice when a memory…

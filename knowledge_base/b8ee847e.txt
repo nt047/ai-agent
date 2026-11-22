@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-igfc-7ogu-rtph-ttn5
+GNU Libc current is affected by: Mitigation bypass. The impact is: Attacker may bypass stack guard protection. The…

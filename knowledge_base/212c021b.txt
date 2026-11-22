@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-t3bk-hr5v-2sk2-gnnz
+GNU Libc current is affected by: Re-mapping current loaded library with malicious ELF file. The impact is: In worst…

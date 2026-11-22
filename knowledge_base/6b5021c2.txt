@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/
+
+Signal to block Siri, Gemini AI from capturing chats on iOS, Android
+Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]
+Just a moment... Enable JavaScript and cookies to continue

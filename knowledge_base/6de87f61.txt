@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-cxb4-dcpo-ypye-tllv
+GNU Libc current is affected by: Mitigation bypass. The impact is: Attacker may bypass ASLR using cache of thread stack…

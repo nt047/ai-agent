@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-dape-zc5r-nnsb-cixx
+Calling the scanf family of functions with a %mc (malloc'd character match) in the GNU C Library version 2.7 to version…

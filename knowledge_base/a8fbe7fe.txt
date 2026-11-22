@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-pf7g-sfaw-2c4v-wnmk
+Calling the ungetwc function on a FILE stream with wide characters encoded in a character set that has overlaps between…

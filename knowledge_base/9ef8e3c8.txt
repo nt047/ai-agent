@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/
+
+Cleverbridge warns hackers stole credit card numbers, CVVs in data breach
+E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]
+Just a moment... Enable JavaScript and cookies to continue

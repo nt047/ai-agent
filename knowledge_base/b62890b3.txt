@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-it74-2ft3-ltsz-fg6s
+Converting crafted ISO-2022-CN-EXT input to UTF-8 character encoding, in the GNU C Library version 2.2 through 2.44 may…

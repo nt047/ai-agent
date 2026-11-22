@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-2fv3-vqqr-rpc7-fatt
+A flaw was found in libstdc++. When a byte-by-byte write operation fails during file stream processing, the library may…
