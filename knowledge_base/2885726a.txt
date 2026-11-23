@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-itr5-nyfq-tybe-u3q4
+The cleanup of tempfile.TemporaryDirectory is vulnerable to a race condition. An attacker who can modify the tree…

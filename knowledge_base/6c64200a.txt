@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-a4k6-65x6-uqmn-z2vl
+When using the "tarfile" module with a file opened in "streaming mode" (mode="r|") the tarfile module did not properly…
