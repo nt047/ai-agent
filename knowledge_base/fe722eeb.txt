@@ -1,0 +1,6 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html
+
+Humans Have Rights. Machines Do Not.
+<p><em>This essay originally appeared in <a href="https://www.techpolicy.press/humans-have-rights-machines-do-not/">Tech Policy Press</a>.</em></p>
+<p>Last year, Character.AI <a href="https://storage.courtlistener.com/recap/gov.uscourts.flmd.433581/gov.uscourts.flmd.433581.59.0.pdf">asked</a> a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with its chatbot. The company made two arguments. One, that the chatbot&#8217;s words were speech that its users had a First Amendment right to receive. And two, that Character.AI was a service rather than a product&#8212;so product-liability law could not touch it. In May 2025, Judge Anne Conway <a href="https://storage.courtlistener.com/recap/gov.uscourts.flmd.433581/gov.uscourts.flmd.433581.59.0.pdf">accepted</a> neither...</p>
+Humans Have Rights. Machines Do Not. - Schneier on Security Schneier on 

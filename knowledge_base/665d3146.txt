@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-ck5k-lc3x-jo47-cotu
+The glob implementation in the GNU C Library (aka glibc or libc6) allows remote authenticated users to cause a denial…

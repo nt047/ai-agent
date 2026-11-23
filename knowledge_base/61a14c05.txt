@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-crvk-zalo-3bqw-53un
+Docker CLI for Windows searches for plugin binaries in C:\ProgramData\Docker\cli-plugins, a directory that does not…

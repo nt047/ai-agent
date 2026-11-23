@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-j6nc-ynmg-i3eg-qici
+Directory Traversal vulnerability in the extractFile method of org.codehaus.plexus.util.Expand in plexus-utils before…

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html
+
+he Node.js process when the parser is compiled." According to an advisory released by the project maintainer on November 11, 2026, the problem arose from the fact that some user-controlled string options were inserted directly into the generated JavaScript code without adequate validation. The parser options include - length lengthInBytes key tag offset, and the alias passed to namely() "Parsing untrusted binary data with a trusted parser definition is not affected," Keichi Takahashi,

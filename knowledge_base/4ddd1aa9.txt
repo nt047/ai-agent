@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-oytu-hjei-nx5e-c2cs
+When using LookupCNAME with the cgo DNS resolver, a very long CNAME response can trigger a double-free of C memory and…

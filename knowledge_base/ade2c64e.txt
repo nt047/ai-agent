@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html
+
+ to decode a Base64 Telegram bot token and chat ID, and register the new infection. Subsequently, it downloads an MSI installer that masquerades as a Windows update ("WindowsUpdate.msi") to launch a ScreenConnect client, enabling the attacker to gain remote access to the technician's machine. The activity, observed between October 20 and November 16, 2026, is said to have sprayed servers blindly, with Huntress observing at least 688,000 guest "run file" requests for files name
