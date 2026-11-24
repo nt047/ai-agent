@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-vbzr-kc7v-ozee-d2vi
+## 1. Summary

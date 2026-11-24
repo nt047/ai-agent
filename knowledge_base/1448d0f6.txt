@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html
+
+e of the tools used by the threat actor is a legitimate software called SoftEther VPN , with the bridge acting as a pathway connecting the compromised network and the attacker-controlled infrastructure. The latest findings from Rapid7 revolve around a Windows executable (" netcapa.exe "), which is a modified build of SoftEther VPN Bridge ("vpnbridge_x64.exe") version 4.44, build 9807. The mutated version, rebranded as NtMonitor VPN, masquerades itself as Network Monitor Soft

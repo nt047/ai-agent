@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html
+
+ntended datastore directory, potentially resulting in remote code execution. The exploitation of CVE-2026-134624 stems from a disclosure last week, in which N-able said it detected a security incident that resulted in a service disruption affecting Mail Assure and SpamExperts Hosted Cloud on November 16, 2026. As of November 21, 2026, 11:44 p.m. UTC, access to the Mail Assure and SpamExperts Hosted Cloud dashboard and APIs has been restored. "N-able has remediated the recent s

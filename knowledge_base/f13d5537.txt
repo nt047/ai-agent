@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html
+
+ue affecting Azure API Management Classic tiers that could allow unauthorized access to certain management functionality if the service was not configured according to documented security best practices," Microsoft said in the advisory. "Microsoft closed the access path on 19 November 2026. Our investigation found that customers were exposed and an unauthorized party could have used the issue to access secrets stored in Azure API Management Classic instances before Microsoft id

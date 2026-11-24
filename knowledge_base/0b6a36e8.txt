@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html
+
+Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets
+Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi.
+
+"An unknown actor has been actively looking for access tokens, secrets, and named values ​​in APIM," NSM said. "It is still uncertain how
+Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comme

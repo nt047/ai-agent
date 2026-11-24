@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html
+
+their hashed passwords, according to the company's advisory. A stolen hash is not a working password, but it gives attackers something to try to crack offline. The 9.0.10 and 8.13.8 updates shipped yesterday, and the release notes list them as maintenance releases. For the 9.1 series, the security advisory names 9.1.2 as the fix, but that build had not yet appeared on the company's 9.1 release notes page at publication time. Fixes are available only for supported versions, so ins

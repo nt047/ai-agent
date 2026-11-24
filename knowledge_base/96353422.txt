@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html
+
+e. Shirudo is being pitched as a way for defenders to test temporary safeguards (aka shields) and check if they block behavior that exposes a vulnerability, while letting legitimate requests pass through. Once a shield is approved by an operator, it can be deployed without having to stop the service. The idea is to avoid a complete service disruption to block a line of attack simply because both an exploit and a legitimate request may rely on the same underlying Linux operation. To ac
