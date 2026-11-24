@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html
+
+threat cluster has changed their brand affiliation, the operators remain active in targeting organizations with voice phishing attacks and account takeovers resulting in data theft and extortion," Okta researchers Moussa Diallo and Katie Nickels said in a report shared with The Hacker News. Social engineering and credential harvesting attacks mounted by O-UNC-053 have targeted a broad range of sectors, including technology, healthcare, biotechnology, financial service

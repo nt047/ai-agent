@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html
+
+Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site
+A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team.
+
+The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving
+Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback! 

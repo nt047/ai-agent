@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html
+
+ast that watch through the .NET Framework. The framework can run a .NET program file from a plain copy in memory when the normal way of loading it, as an executable image, fails. Version 4 of the framework takes that fallback on one specific error, and the memory copy skips the image checks a loaded program would face. The VirtualBox check returned that error for any .NET file compiled as AnyCPU, a form meant to run on any processor, so an unchanged file loaded through the path the hard

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html
+
+gh-severity flaws, including an arbitrary file write vulnerability while processing certain archives that could be exploited to achieve code execution on the appliance (CVE-2026-123904, CVSS score: 7.5). The remaining three vulnerabilities relate to denial-of-service in the VMware Directory Service (CVE-2026-123905, CVE-2026-123906, and CVE-2026-123907, CVSS scores: 7.5). The issues have been addressed in the following versions - VMware Cloud Foundation and VMware vSphere Foundation 9.1

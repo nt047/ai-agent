@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html
+
+e impersonated organizations. The use of legitimate RMM tools for persistent access has been a hallmark of the MuddyWater group , although the adversary has since also increasingly deployed its own malware in attacks. Both MuddyWater and Volant Manticore are assessed to be affiliated with Iran's Ministry of Intelligence and Security (MOIS). "While we identified multiple links to MuddyWater, we assess that Volant Manticore likely consists of former MuddyWater operators who branch
