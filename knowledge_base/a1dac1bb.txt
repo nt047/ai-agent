@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html
+
+l damage. Here's what caught our attention this week. ⚡ Threat of the Week Threat Actor Exploits VMware vCenter Flaw as a 0-Day — The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be expl
