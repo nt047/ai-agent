@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/
+
+Microsoft fixes Microsoft 365 bug blocking access to Office apps
+Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]
+Just a moment... Enable JavaScript and cookies to continue

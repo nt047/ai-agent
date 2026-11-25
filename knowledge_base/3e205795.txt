@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html
+
+taller to attempt to reinstall Drupal, resulting in site takeover or remote code execution under certain circumstances. According to an independent analysis by Searchlight Cyber, it has emerged that ordinary server resource limits can be abused to trick Drupal into mistakenly believing that an existing website was not installed, enter its installation process via "install.php," create an administrator-controlled account, and execute arbitrary PHP code. While Drupal has checks in plac

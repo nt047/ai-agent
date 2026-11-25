@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/
+
+InfraTrust warns of exploited supply chain flaws in network appliances
+Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]
+Just a moment... Enable JavaScript and cookies to continue

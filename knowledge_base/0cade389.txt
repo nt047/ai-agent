@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/
+
+More Pentests Without More Pentesters: Where AI Safely Helps
+Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own infrastructure. [...]
+Just a moment... Enable JavaScript and cookies to continue

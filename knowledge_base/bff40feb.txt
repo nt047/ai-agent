@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/
+
+Hackers now exploit critical Drupal RCE flaw to hijack sites
+The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]
+Just a moment... Enable JavaScript and cookies to continue
