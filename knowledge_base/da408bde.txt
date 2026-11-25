@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/
+
+CISA warns of critical unpatched flaw in Danfoss refrigeration controllers
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]
+Just a moment... Enable JavaScript and cookies to continue

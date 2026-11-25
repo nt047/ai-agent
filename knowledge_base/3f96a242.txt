@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/
+
+Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks
+Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]
+Just a moment... Enable JavaScript and cookies to continue

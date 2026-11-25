@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/
+
+1Password customer data stolen after employee GitHub account breach
+1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]
+Just a moment... Enable JavaScript and cookies to continue
