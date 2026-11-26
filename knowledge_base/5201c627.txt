@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html
+
+13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps
+Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.
+
+"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls," Socket security researcher Kush Pandya said in a technical write-up. "In the versions we analyzed, building or running a
+13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a com

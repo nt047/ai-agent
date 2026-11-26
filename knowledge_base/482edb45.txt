@@ -1,0 +1,7 @@
+المصدر: https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html
+
+1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach
+Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed.
+
+"While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a
+1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach --> #1 Trusted Cybersecurity News Platform Followed by 5.80+ million      Get Updates Home Newsletter Webinars Home Threat Intelligence Vulnerabilities Cyber Attacks Webinars Expert Insights Awards    Resources Webinars Awards Free eBooks About Site About THN Jobs Advertise with us Contact/Tip Us  Reach out to get featured—contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedb

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html
+
+eed to take any action, but cautioned them to stay vigilant against unexpected phishing attempts. As part of its efforts to remediate the incident, 1Password has disabled the affected GitHub account, revoked the stolen token, hardened GitHub, CI/CD, and endpoint controls, restored clean versions of the affected service, and rotated internal credentials. It has also lengthened the codes used in invitation and recovery emails from six digits to ten characters as a precautiona

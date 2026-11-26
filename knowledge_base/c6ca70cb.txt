@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html
+
+ildAnalyzer HappyOne.WinUI3Controls Web3TotalButton RevertButtonIcon WinUI3IconButton WindowsAccentColorName SetButtonColor InitializeCustomButton StyledAppButton StyledComponent The first NuGet package, WinUI3IconButton, was uploaded to the registry on July 23, 2026, indicating that the campaign has been ongoing for quite some time without attracting attention. The last two uploads, HappyOne.MSBuildAnalyzer and HappyOne.WinUI3Controls, occurred on November 4, 2026, after both
