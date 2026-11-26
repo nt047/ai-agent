@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html
+
+6-133311 (CVSS score: 5.9) - An unauthorized access vulnerability in the Audio, Web, and Video Conferencing (AWV) Component of MiCollab that could allow an attacker to obtain sensitive information. CVE-2026-133323 (CVSS score: 10.0) - A command injection vulnerability in the Audio, Web, and Video Conferencing (AWV) Component of MiCollab that could allow an attacker to execute arbitrary commands within the context of the system. CVE-2026-133324 (CVSS score: 5.3) - An authentication

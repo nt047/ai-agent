@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html
+
+the user interface if a site is in the affected vulnerable state, and sites that are already compromised may no longer be in the vulnerable state." Drupal acknowledged that the vulnerability is being exploited in the wild, but emphasized that site owners who have already secured the installer ("install.php") are not impacted. Specifically, any website that left its installer remotely accessible following the fix for CVE-2026-132165 may have been compromised. Drupal is urging site 

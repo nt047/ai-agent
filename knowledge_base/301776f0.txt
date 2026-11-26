@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html
+
+he loader in 375 public repositories that belong to 260 accounts. There is no evidence that the loader has been distributed via PyPI or npm. PolinRider is the name assigned to a malicious campaign linked to North Korean threat actors. Recent reports indicate that the activity employs various channels to distribute malware, including - Fraudulent recruitment campaigns that make use of phishing emails and fake hiring portals like BlockNovas , AccuraSoftHire ("accurasofthire[.

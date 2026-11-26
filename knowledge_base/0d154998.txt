@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/
+
+Remus malware steals Gmail messages via fake Google Sheets extension
+The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]
+Just a moment... Enable JavaScript and cookies to continue

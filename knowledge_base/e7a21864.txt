@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html
+
+s sit on trusted hosting and are assembled in the browser. The domains rotate every few days, so reputation data lags behind them. Safe browsing and scanners: Bot checks and cloaking show scanners a harmless page. A new domain isn't on any blocklist yet. How a phishing attack gets past email, URL, DNS, web gateway, and scanner controls before it reaches the user in the browser. When the page loads in the user's browser and the user interacts with it, that's a breakthroug
