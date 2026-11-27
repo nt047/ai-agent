@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html
+
+g to detect when running the programs, while simultaneously retrieving and deploying a Python-based remote control malware (RAT) from an external server. Once installed, the RAT payload is capable of executing shell commands and Python code, transferring files, capturing screenshots, and collecting system metadata based on commands issued by the attacker. The following product versions have been confirmed to be poisoned, given the discrepancies in the SHA-256 hashes of the install

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/
+
+pCloud confirms password manager hack after suspicious login alerts
+The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]
+Just a moment... Enable JavaScript and cookies to continue

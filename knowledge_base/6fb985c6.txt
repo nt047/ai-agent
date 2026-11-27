@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html
+
+lysis published Thursday. "The threat actor established persistent internal network access using reverse SSH tunnels and moved laterally into downstream networks and applications." The links to Vietnam are based on the presence of native Vietnamese-language code comments, operational activity aligning with UTC+07:00 working hours, regional strategic targeting, and custom scripting. The sustained campaign, codenamed RedOps, was observed between August and September 2026. The threat actor

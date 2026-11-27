@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html
+
+Recent Outages Have Economic Causes
+<p><em>This essay originally appeared in <a href="https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy">The Guardian</a>. It&#8217;s an expanded version of the one I posted as &#8220;<a href="https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html">We Get the Infrastructure We Pay For</a>.&#8221;</em></p>
+<p>It&#8217;s been a bad week for our computerized infrastructure. We&#8217;ve seen outages at <a href="https://www.the-independent.com/tech/microsoft-outage-why-what-caused-global-outlook-down-b3085576.html">Microsoft</a>, the <a href="https://www.nytimes.com/2026/11/15/us/router-network-faa-airline-ground-stop.html">FAA</a>, a handful of <a href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda">banks</a>, <a href="https://www.nbcnews.com/news/us-news/united-airlines-system-outage-rcna609712">United Airlines</a>, an unnamed classif

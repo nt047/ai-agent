@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: MAL-2026-20723
+Malicious code in eth-expl (npm)

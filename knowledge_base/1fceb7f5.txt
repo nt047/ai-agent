@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html
+
+porting schedule. Gathering the Picture Is the Hard Part, and It Is Getting Harder The conversation about security metrics usually jumps straight to which numbers matter. That skips the part that actually hurts. Before anyone can report a single metric, someone has to go and gather it, and today that is a genuinely painful job. The information needed to describe a security posture is scattered across dozens of systems that were never meant to talk to each other. Cloud

@@ -1,0 +1,5 @@
+المصدر: https://www.schneier.com/blog/archives/2026/11/recent-outages-have-economic-causes.html
+
+ied <a href="https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/">NSA network</a>, and <a href="https://www.digitaltrends.com/phones/apple-services-hit-by-widespread-outage-reports-users-flag-problems-with-icloud-app-store-and-apple-pay/">Apple</a>. People should be forgiven for suspecting a coordinated cyberattack, a common cause, or at least a conspiracy. But there is none.</p>
+<p>The incidents are unrelated. They&#8217;re not the result of any cyberattack, coordinated or not. And, even more surprising, they don&#8217;t seem to be the result of AI. (We can&#8217;t say anything about the NSA; we&#8217;ll probably never know the details of that one.) It&#8217;s really just a series of unfortunate coincidences...</p>
+Recent Outages Have Economic Causes - Schneier on Security Schneier on Security Menu Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe 
