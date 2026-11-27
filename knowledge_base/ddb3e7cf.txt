@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-ohrb-ospl-egsr-xq37
+Impact: In body-parser versions prior to 1.20.6 (1.x line) and 2.3.0 (2.x line), when the parser is configured with an…

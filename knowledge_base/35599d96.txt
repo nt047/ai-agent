@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/
+
+SAP confirms security incident after suspicious GitHub activity
+SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/
+
+Drupal warns of new site takeover flaw exploited in attacks
+The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-ni5p-rux3-vbsb-kfl7
+Mermaid is a JavaScript tool that uses Markdown-inspired text to create and modify diagrams and charts. From version…

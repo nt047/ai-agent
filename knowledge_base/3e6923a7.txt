@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html
+
+7. At a high level, the vulnerability allows an attacker to abuse the guest access to write an unvalidated value (i.e., non-numeric text) into a setting called "preview_graphs_per_page" via "auth_profile.php?action=update_data." The configuration parameter controls how many graphs are displayed per page when viewing graphs in Preview Mode. The crafted value takes the form of arbitrary SQL strings that can be turned into a second-order SQL injection by taking advantage of th

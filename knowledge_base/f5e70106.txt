@@ -1,0 +1,5 @@
+المصدر: https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/
+
+New NFS2ROOT Linux flaw can let attackers gain root privileges
+​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]
+Just a moment... Enable JavaScript and cookies to continue

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-nhnw-mk6a-t74b-lqfu
+### Impact

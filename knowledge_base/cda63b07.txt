@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-nh3y-ods4-wwbx-hgkw
+body-parser is body parsing middleware for Node.js and Express. In versions before 1.20.9 and in versions from 2.0.0…
