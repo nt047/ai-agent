@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:99690
+Important: libpcap security update

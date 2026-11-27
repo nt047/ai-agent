@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:102924
+Important: gdm security, bug fix, and enhancement update

@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html
+
+tivity is picking up. Some of the more worrying findings this week involve things most people would have little reason to suspect. The details are worth a look. The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out. Stolen credentials expose customer data Todoist Discloses Data Breach Todoist has disclosed that an attacker gained unauthorized access to its production systems and retrieved some customer information on November 23, 2026. The incide

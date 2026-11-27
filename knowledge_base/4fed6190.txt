@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-lict-nhp6-wuic-ffiv
+In github.com/chrismellard/docker-credential-acr-env/pkg/credhelper, the regular expression used by isACRRegistry to…

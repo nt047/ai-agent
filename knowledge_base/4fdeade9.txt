@@ -1,0 +1,5 @@
+المصدر: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/
+
+CTO of ‘RansomwareHelp’ Indicted for Wire Fraud
+The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use "advanced cryptographic tools" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed.
+CTO of ‘RansomwareHelp’ Indicted for Wire Fraud – Krebs on Security Advertisement Advertisement Skip to content Home About the Author Advertising/Speaking CTO of ‘RansomwareHelp’ Indicted for Wire Fraud November 20, 2026 14 Comments The chief technology officer and co-founder of ransomwarehelp.com , a six year old Florida business that claimed to use “advanced cryptographic tools” to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and chargin

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:103517
+Important: ghostscript security update

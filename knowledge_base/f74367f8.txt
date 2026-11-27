@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: RLSA-2026:97163
+Moderate: mingw-glib2 security, bug fix, and enhancement update

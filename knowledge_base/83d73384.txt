@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-phlo-sfpq-o4qx-nyog
+The source-address critical option in the Permissions returned by an authentication callback was only enforced for the…
