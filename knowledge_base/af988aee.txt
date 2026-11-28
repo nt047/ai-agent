@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-z4qt-i5uq-hqif-qjqk
+Hickory DNS hickory-net 0.26.0-beta.1 before 0.26.2 and hickory-proto through 0.26.0-alpha.1 perform insufficient…

@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-wh32-kuja-46qt-ez7k
+ReverseProxy can forward queries containing parameters not visible to Rewrite functions. When used with a Rewrite…

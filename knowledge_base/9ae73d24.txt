@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-uryd-icsj-hlsy-e7ip
+CVE-2026-27142 fixed a vulnerability in which URLs were not correctly escaped inside of a <meta> tag's <content>…

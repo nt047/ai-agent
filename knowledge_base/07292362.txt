@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-yxdi-hhau-kxfj-axbq
+Rejected reason: This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. The described memory use…

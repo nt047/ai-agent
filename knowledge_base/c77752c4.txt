@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-46pn-35w3-b7og-3tqe
+Busybox contains a Missing SSL certificate validation vulnerability in The "busybox wget" applet that can result in…

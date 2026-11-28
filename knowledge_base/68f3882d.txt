@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-pk5q-7veg-p7g3-deor
+Enforce a recursion limit in Unmarshal to prevent stack exhaustion when parsing deeply-nested, recursive structures.

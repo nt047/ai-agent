@@ -1,0 +1,4 @@
+المصدر: CVE Database
+
+CVE: DHI-e7zl-omjt-x5kz-6i5y
+fast-uri is a dependency-free RFC 3986 URI parser and serializer for Node.js. In versions before 2.4.8, from 3.0.0…

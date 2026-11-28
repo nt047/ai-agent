@@ -1,0 +1,3 @@
+المصدر: https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html
+
+ said the incident was limited to pCloud Pass, and that pCloud Cloud Storage services are not affected. "With the advancement of AI, vulnerabilities in the software that every online service relies upon (such as operating systems, programming languages, and libraries) are being discovered faster than ever - sometimes even before the developers themselves identify them and release a fix," the pCloud Team said. pCloud has also urged users to stay alert for phishing attacks that may trick
